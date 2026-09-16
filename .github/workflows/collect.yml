@@ -1,0 +1,82 @@
+name: collect
+
+on:
+  schedule:
+    # KST 08:00 / 18:00  (UTC 23:00 전날 / 09:00)
+    - cron: "0 23 * * *"
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "source id 접두어(쉼표 구분). 비우면 전체"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Run collector
+        env:
+          TZ: Asia/Seoul
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          YOUTHCENTER_API_KEY: ${{ secrets.YOUTHCENTER_API_KEY }}
+        run: |
+          if [ -n "${{ github.event.inputs.only }}" ]; then
+            python collector/run.py --only "${{ github.event.inputs.only }}"
+          else
+            python collector/run.py
+          fi
+
+      - name: Commit data
+        run: |
+          git config user.name "opportunity-radar-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "data: $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M') 수집"
+          git push
+
+      - name: Build site
+        run: |
+          mkdir -p _site
+          cp web/index.html _site/index.html
+          mkdir -p _site/data
+          cp data/programs.json data/sources.json data/errors.json _site/data/
+          cp data/recurring.json _site/data/ 2>/dev/null || true
+          touch _site/.nojekyll
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: collect
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

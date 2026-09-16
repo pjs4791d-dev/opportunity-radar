@@ -1,0 +1,10 @@
+[
+  {
+    "source_id": "snu-public-lecture",
+    "name": "서울대 나눔SNU 대중강연·문화행사",
+    "url": "https://www.snu.ac.kr/about/sharing-snu/public-lecture",
+    "error": "RuntimeError: 파싱 결과 0건 (사이트 구조 변경?)",
+    "at": "2026-09-16T20:04:50+09:00",
+    "fail_count": 3
+  }
+]

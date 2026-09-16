@@ -1,0 +1,448 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Opportunity Radar — 청년 커리어·기회 레이더</title>
+  <meta name="description" content="대학·공공 프로그램부터 금융·증권 커리어와 정부지원 현장·기술직 훈련까지 한눈에 모아보는 청년 기회 대시보드" />
+  <style>
+:root{
+  --bg:#f4f6f9; --surface:#ffffff; --surface-2:#f8fafc; --text:#101828; --muted:#667085;
+  --line:#e6e9ef; --primary:#155eef; --primary-2:#0b4cc8; --blue-soft:#eef4ff;
+  --green:#067647; --green-soft:#ecfdf3; --amber:#b54708; --amber-soft:#fffaeb;
+  --red:#b42318; --red-soft:#fef3f2; --shadow:0 8px 30px rgba(16,24,40,.07);
+  --sidebar:#0f172a; --sidebar-text:#dce6f5;
+}
+body.dark{
+  --bg:#0b1220; --surface:#111a2b; --surface-2:#162033; --text:#f3f6fb; --muted:#9ca9bb;
+  --line:#263247; --primary:#6ea0ff; --primary-2:#8bb3ff; --blue-soft:#172a4e;
+  --green:#56d899; --green-soft:#123427; --amber:#f5b55c; --amber-soft:#3a2a11;
+  --red:#ff8b81; --red-soft:#3d1f22; --shadow:0 10px 32px rgba(0,0,0,.25); --sidebar:#060b15;
+}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Pretendard","Segoe UI",Roboto,"Noto Sans KR",Arial,sans-serif;background:var(--bg);color:var(--text)}button,input,select{font:inherit}
+.app-shell{display:flex;min-height:100vh}.sidebar{position:fixed;inset:0 auto 0 0;width:260px;background:var(--sidebar);padding:28px 20px;color:var(--sidebar-text);display:flex;flex-direction:column;gap:28px;z-index:20}.main{margin-left:260px;width:calc(100% - 260px);padding:28px 36px 48px;max-width:1600px}
+.brand{display:flex;gap:12px;align-items:center}.brand-mark{display:grid;place-items:center;width:42px;height:42px;border-radius:12px;background:linear-gradient(135deg,#3b82f6,#8b5cf6);color:white;font-weight:800;font-size:14px}.brand strong{display:block;font-size:15px;color:#fff}.brand span{font-size:11px;color:#91a0b8}
+.nav{display:grid;gap:6px}.nav-item{border:0;background:transparent;color:#9eacc1;text-align:left;padding:11px 12px;border-radius:10px;cursor:pointer;font-weight:700}.nav-item:hover,.nav-item.active{background:#18243a;color:white}.side-card{margin-top:auto;background:#162238;border:1px solid #263a5d;border-radius:16px;padding:16px}.side-card.subtle{margin-top:-14px;background:transparent}.side-card strong{display:block;color:#fff;margin:5px 0 7px}.side-card p{margin:0;color:#9eb0ca;font-size:12px;line-height:1.55}.eyebrow{margin:0 0 7px;font-size:10px;font-weight:800;letter-spacing:.14em;color:#7f8ea4;text-transform:uppercase}
+.topbar{display:flex;align-items:center;justify-content:space-between;gap:20px;margin-bottom:24px}.topbar h1{font-size:26px;line-height:1.2;margin:0;letter-spacing:-.04em}.top-actions{display:flex;gap:10px;align-items:center}.sync-pill{display:inline-flex;gap:8px;align-items:center;padding:9px 12px;border:1px solid var(--line);background:var(--surface);border-radius:999px;font-size:12px;color:var(--muted)}.dot{width:7px;height:7px;border-radius:50%;background:#16a34a;box-shadow:0 0 0 4px rgba(22,163,74,.12)}.icon-btn,.mobile-menu{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:10px;padding:8px 10px;cursor:pointer}.mobile-menu{display:none}
+.section{margin-bottom:22px}.hero-grid{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(360px,.9fr);gap:18px}.hero-card{min-height:280px;border-radius:24px;padding:30px;background:radial-gradient(circle at 85% 10%,rgba(110,160,255,.45),transparent 31%),linear-gradient(145deg,#0e2c68,#10244a 54%,#101b33);color:white;box-shadow:var(--shadow);display:flex;flex-direction:column;justify-content:space-between}.hero-card h2{font-size:30px;line-height:1.28;letter-spacing:-.05em;margin:18px 0 12px}.hero-card p{max-width:680px;color:#cbd7ea;line-height:1.65;margin:0}.hero-actions{display:flex;gap:10px}.primary-btn,.ghost-btn{border:0;border-radius:11px;padding:11px 15px;font-weight:800;cursor:pointer}.primary-btn{background:white;color:#10367a}.ghost-btn{background:rgba(255,255,255,.09);border:1px solid rgba(255,255,255,.2);color:white}.badge{display:inline-flex;align-items:center;border-radius:999px;padding:6px 9px;font-size:11px;font-weight:800}.badge-primary{background:rgba(255,255,255,.13);border:1px solid rgba(255,255,255,.18)}
+.stats-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}.stat-card{background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:20px;box-shadow:0 4px 18px rgba(16,24,40,.035)}.stat-card .stat-label{font-size:12px;color:var(--muted);font-weight:700}.stat-card .stat-value{font-size:30px;margin:12px 0 6px;font-weight:850;letter-spacing:-.05em}.stat-card .stat-sub{font-size:11px;color:var(--muted)}
+.insight-row{display:grid;grid-template-columns:1.4fr .8fr;gap:18px}.panel{background:var(--surface);border:1px solid var(--line);border-radius:20px;box-shadow:0 4px 18px rgba(16,24,40,.035)}.pulse-panel,.deadline-panel{padding:22px}.panel-header{display:flex;align-items:flex-start;justify-content:space-between;gap:14px}.panel-header h2,.panel-header h3{margin:0;letter-spacing:-.03em}.live-badge{font-size:10px;color:var(--green);background:var(--green-soft);padding:5px 8px;border-radius:999px;font-weight:800}.priority-list{display:grid;gap:8px;margin-top:16px}.priority-item{display:grid;grid-template-columns:auto 1fr auto;align-items:center;gap:12px;padding:13px;border-radius:13px;background:var(--surface-2);border:1px solid var(--line);cursor:pointer}.priority-rank{width:28px;height:28px;border-radius:9px;background:var(--blue-soft);color:var(--primary);display:grid;place-items:center;font-weight:850;font-size:12px}.priority-item strong{display:block;font-size:13px}.priority-item p{margin:3px 0 0;font-size:11px;color:var(--muted)}.priority-item .arrow{color:var(--muted)}
+.deadline-list{display:grid;gap:12px;margin-top:18px}.deadline-item{display:flex;gap:12px;align-items:center}.deadline-day{min-width:48px;text-align:center;border-radius:12px;padding:8px 6px;background:var(--red-soft);color:var(--red)}.deadline-day strong{display:block;font-size:15px}.deadline-day span{font-size:9px;font-weight:800}.deadline-info strong{display:block;font-size:12px}.deadline-info span{font-size:10px;color:var(--muted)}
+.programs-panel,.sources-panel{padding:24px}.programs-head,.sources-head{align-items:center}.muted{color:var(--muted);font-size:12px;margin:7px 0 0}.view-controls{display:flex;padding:4px;background:var(--surface-2);border:1px solid var(--line);border-radius:10px}.seg-btn{border:0;background:transparent;color:var(--muted);font-size:11px;font-weight:800;padding:7px 10px;border-radius:7px;cursor:pointer}.seg-btn.active{background:var(--surface);color:var(--text);box-shadow:0 1px 4px rgba(16,24,40,.08)}
+.toolbar{display:grid;grid-template-columns:minmax(250px,1.6fr) repeat(3,minmax(120px,.55fr)) auto;gap:9px;margin-top:20px}.search-box{display:flex;align-items:center;gap:9px;border:1px solid var(--line);background:var(--surface-2);border-radius:11px;padding:0 12px}.search-box input{width:100%;border:0;outline:0;background:transparent;color:var(--text);padding:11px 0}.toolbar select{border:1px solid var(--line);background:var(--surface-2);color:var(--text);border-radius:11px;padding:0 10px;outline:0}.saved-toggle{display:flex;align-items:center;gap:6px;border:1px solid var(--line);background:var(--surface-2);border-radius:11px;padding:0 11px;font-size:11px;font-weight:800;color:var(--muted);cursor:pointer}.saved-toggle input{accent-color:var(--primary)}.chips{display:flex;flex-wrap:wrap;gap:7px;margin-top:14px}.chip{border:1px solid var(--line);background:var(--surface);color:var(--muted);border-radius:999px;padding:7px 10px;font-size:11px;font-weight:700;cursor:pointer}.chip.active{background:var(--blue-soft);border-color:#b8ccff;color:var(--primary)}.result-meta{display:flex;justify-content:space-between;align-items:center;color:var(--muted);font-size:10px;margin:16px 2px 10px}
+.cards-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}.program-card{border:1px solid var(--line);background:var(--surface);border-radius:16px;padding:17px;display:flex;flex-direction:column;min-height:238px;transition:.18s ease;min-width:0;overflow-wrap:anywhere}.program-card:hover{transform:translateY(-2px);box-shadow:var(--shadow);border-color:#bdc7d8}.card-top{display:flex;justify-content:space-between;align-items:flex-start;gap:8px}.tag-row{display:flex;gap:5px;flex-wrap:wrap}.tag{padding:4px 7px;border-radius:999px;font-size:9px;font-weight:800;background:var(--surface-2);color:var(--muted);border:1px solid var(--line)}.tag.hot{background:var(--blue-soft);color:var(--primary);border-color:transparent}.save-btn{border:0;background:transparent;font-size:18px;color:#a5afbf;cursor:pointer;padding:0}.save-btn.saved{color:#f59e0b}.program-card h3{font-size:15px;line-height:1.45;margin:13px 0 8px;letter-spacing:-.025em}.org{color:var(--muted);font-size:11px}.card-meta{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:15px 0}.meta-box{background:var(--surface-2);border-radius:10px;padding:9px}.meta-box span{display:block;font-size:9px;color:var(--muted);margin-bottom:3px}.meta-box strong{font-size:11px}.eligibility{display:inline-flex;align-items:center;gap:5px;font-size:10px;font-weight:800}.eligibility.yes{color:var(--green)}.eligibility.check{color:var(--amber)}.card-footer{display:flex;justify-content:space-between;align-items:center;margin-top:auto;padding-top:10px;border-top:1px solid var(--line)}.deadline-label{font-size:10px;font-weight:800}.deadline-label.urgent{color:var(--red)}.deadline-label.soon{color:var(--amber)}.deadline-label.normal{color:var(--muted)}.detail-link{border:0;background:transparent;color:var(--primary);font-size:10px;font-weight:850;cursor:pointer}.hidden{display:none!important}
+.table-wrap{overflow:auto;border:1px solid var(--line);border-radius:14px}.program-table{width:100%;border-collapse:collapse;font-size:11px;min-width:900px}.program-table th{background:var(--surface-2);color:var(--muted);font-size:9px;text-align:left;padding:11px;border-bottom:1px solid var(--line);text-transform:uppercase;letter-spacing:.05em}.program-table td{padding:12px 11px;border-bottom:1px solid var(--line);vertical-align:top}.program-table tr:last-child td{border-bottom:0}.program-table a{color:var(--primary);font-weight:800;text-decoration:none}
+.source-tabs{display:flex;gap:5px;padding:4px;background:var(--surface-2);border:1px solid var(--line);border-radius:11px}.source-tab{border:0;background:transparent;color:var(--muted);padding:7px 9px;border-radius:8px;font-size:10px;font-weight:800;cursor:pointer}.source-tab.active{background:var(--surface);color:var(--text);box-shadow:0 1px 3px rgba(16,24,40,.08)}.source-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin-top:20px}.source-card{border:1px solid var(--line);background:var(--surface-2);border-radius:14px;padding:14px;min-height:126px;display:flex;flex-direction:column;min-width:0;overflow-wrap:anywhere}.source-card p{overflow-wrap:anywhere;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}.source-card-top{display:flex;justify-content:space-between;gap:8px}.source-type{font-size:9px;font-weight:850;color:var(--primary);background:var(--blue-soft);padding:4px 6px;border-radius:7px}.source-status{font-size:9px;color:var(--green);font-weight:800}.source-card h4{margin:12px 0 5px;font-size:13px}.source-card p{margin:0;color:var(--muted);font-size:10px;line-height:1.5}.source-card a{margin-top:auto;padding-top:9px;color:var(--primary);font-size:10px;font-weight:800;text-decoration:none}
+footer{display:flex;justify-content:space-between;gap:20px;color:var(--muted);font-size:10px;padding:10px 4px 0}footer strong{color:var(--text)}footer p{margin:4px 0}.detail-dialog{width:min(620px,calc(100% - 28px));border:0;border-radius:20px;background:var(--surface);color:var(--text);padding:26px;box-shadow:0 30px 100px rgba(0,0,0,.35)}.detail-dialog::backdrop{background:rgba(5,12,25,.58);backdrop-filter:blur(3px)}.dialog-close{position:absolute;right:16px;top:14px;border:0;background:var(--surface-2);color:var(--text);width:32px;height:32px;border-radius:50%;cursor:pointer;font-size:18px}.detail-title{font-size:22px;line-height:1.35;margin:12px 36px 8px 0;letter-spacing:-.04em}.detail-org{color:var(--muted);font-size:12px}.detail-grid{display:grid;grid-template-columns:1fr 1fr;gap:9px;margin:20px 0}.detail-cell{padding:12px;border-radius:11px;background:var(--surface-2);border:1px solid var(--line)}.detail-cell span{display:block;font-size:9px;color:var(--muted);margin-bottom:4px}.detail-cell strong{font-size:12px}.detail-desc{line-height:1.65;color:var(--muted);font-size:12px}.official-btn{display:inline-flex;margin-top:16px;background:var(--primary);color:white;text-decoration:none;padding:10px 13px;border-radius:10px;font-size:11px;font-weight:850}
+@media(max-width:1180px){.hero-grid{grid-template-columns:1fr}.stats-grid{grid-template-columns:repeat(4,1fr)}.insight-row{grid-template-columns:1fr}.cards-grid{grid-template-columns:repeat(2,1fr)}.source-grid{grid-template-columns:repeat(3,1fr)}.toolbar{grid-template-columns:1.5fr 1fr 1fr}.toolbar select:nth-of-type(3),.saved-toggle{height:42px}}
+@media(max-width:900px){.sidebar{transform:translateX(-100%);transition:.2s}.sidebar.open{transform:translateX(0)}.main{margin-left:0;width:100%;padding:20px}.mobile-menu{display:inline-block}.topbar{align-items:flex-start}.topbar h1{font-size:21px}.sync-pill{display:none}.stats-grid{grid-template-columns:repeat(2,1fr)}.source-grid{grid-template-columns:repeat(2,1fr)}.toolbar{grid-template-columns:1fr 1fr}.search-box{grid-column:1/-1}.cards-grid{grid-template-columns:1fr}.hero-card h2{font-size:25px}}
+@media(max-width:560px){.main{padding:16px}.hero-card{padding:22px;min-height:320px}.hero-actions{flex-direction:column}.stats-grid{grid-template-columns:1fr 1fr}.stat-card{padding:15px}.stat-card .stat-value{font-size:25px}.toolbar{grid-template-columns:1fr}.search-box{grid-column:auto}.source-grid{grid-template-columns:1fr}.programs-panel,.sources-panel{padding:18px}.source-tabs{display:none}.topbar>div:first-of-type{max-width:75%}.detail-grid{grid-template-columns:1fr}footer{flex-direction:column}}
+
+
+.toolbar-2{grid-template-columns:repeat(2,minmax(150px,.7fr)) repeat(3,auto);margin-top:9px}.toolbar-2 .saved-toggle{padding:9px 11px}
+.check-section{margin-top:22px;border:1px dashed var(--line);border-radius:14px;padding:12px 16px}.check-section summary{cursor:pointer;font-weight:800;font-size:12px;color:var(--amber)}.check-section .cards-grid{margin-top:14px}
+.reason{display:block;font-size:10px;color:var(--muted);margin-top:4px;line-height:1.4}.card-badge{display:inline-block;margin-top:8px;font-size:10px;font-weight:800;color:var(--amber);background:var(--amber-soft);padding:4px 7px;border-radius:7px}
+.cal-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin-top:8px}.cal-month{border:1px solid var(--line);border-radius:14px;padding:12px;background:var(--surface-2);min-height:110px}.cal-month h4{margin:0 0 8px;font-size:12px}.cal-month.now{border-color:var(--primary);background:var(--blue-soft)}.cal-item{font-size:11px;line-height:1.45;margin:4px 0;padding-left:8px;border-left:2px solid var(--primary)}.cal-item small{color:var(--muted);display:block}.cal-item a{color:var(--text);text-decoration:none;font-weight:700}
+.link-group{margin-top:14px}.link-group h4{margin:0 0 8px;font-size:12px;color:var(--muted)}.link-chips{display:flex;flex-wrap:wrap;gap:7px}.link-chips a{border:1px solid var(--line);background:var(--surface-2);border-radius:999px;padding:7px 11px;font-size:11px;font-weight:700;color:var(--text);text-decoration:none}.link-chips a:hover{border-color:var(--primary);color:var(--primary)}.link-chips a.todo{opacity:.5;pointer-events:none}
+@media(max-width:1180px){.cal-grid{grid-template-columns:repeat(3,1fr)}.toolbar-2{grid-template-columns:1fr 1fr}}@media(max-width:560px){.cal-grid{grid-template-columns:1fr 1fr}.toolbar-2{grid-template-columns:1fr}}
+.sector-tabs{display:flex;gap:8px;flex-wrap:wrap;margin-top:20px;padding:6px;background:var(--surface-2);border:1px solid var(--line);border-radius:14px;width:max-content;max-width:100%}
+.sector-tab{border:0;background:transparent;color:var(--muted);font-weight:850;font-size:11px;padding:9px 13px;border-radius:9px;cursor:pointer;white-space:nowrap}
+.sector-tab.active{background:var(--surface);color:var(--primary);box-shadow:0 1px 5px rgba(16,24,40,.1)}
+.sector-tag{background:#eef2ff!important;color:#5145cd!important;border-color:transparent!important}
+body.dark .sector-tag{background:#252451!important;color:#b9b4ff!important}
+
+</style>
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar" id="sidebar">
+      <div class="brand">
+        <div class="brand-mark">OR</div>
+        <div>
+          <strong>Opportunity Radar</strong>
+          <span>청년 커리어·기회 레이더</span>
+        </div>
+      </div>
+
+      <nav class="nav">
+        <button class="nav-item active" data-scroll="dashboard">대시보드</button>
+        <button class="nav-item" data-scroll="programs">프로그램</button>
+        <button class="nav-item" data-scroll="links">바로가기</button>
+        <button class="nav-item" data-scroll="sources">트래킹 소스</button>
+      </nav>
+
+      <div class="side-card">
+        <p class="eyebrow">TRACKING UNIVERSE</p>
+        <strong>대학 + 금융 + 기술직</strong>
+        <p>17개 대학 · 서울시/공공 · 창업/테크 · 증권/금융 · 정부지원 직업훈련</p>
+      </div>
+
+      <div class="side-card subtle">
+        <p class="eyebrow">FILTER PRINCIPLE</p>
+        <p>대학생·청년의 실질적 커리어 기회를 우선합니다. 금융권은 채용연계·인턴·파트너스까지, 기술직은 정부지원 훈련까지 추적합니다.</p>
+      </div>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <button class="mobile-menu" id="mobileMenu" aria-label="메뉴 열기">☰</button>
+        <div>
+          <p class="eyebrow">YOUTH CAREER & OPPORTUNITY RADAR</p>
+          <h1>대학부터 증권사·기술교육까지, 커리어 기회를 한곳에.</h1>
+        </div>
+        <div class="top-actions">
+          <span class="sync-pill"><span class="dot"></span> <span id="syncLabel">데이터 불러오는 중…</span></span>
+          <button class="icon-btn" id="themeToggle" title="다크 모드">◐</button>
+        </div>
+      </header>
+
+      <section id="dashboard" class="section hero-grid">
+        <div class="hero-card">
+          <div>
+            <span class="badge badge-primary">오늘의 레이더</span>
+            <h2>대학·테크·금융·증권·현장기술까지<br/>섹터별로 기회를 분리해서 봅니다.</h2>
+            <p>대학 공지뿐 아니라 증권사 채용/대학생 활동, 금융기관 프로그램, 고용24·서울시 기술교육원 같은 정부지원 직업훈련까지 함께 추적합니다.</p>
+          </div>
+          <div class="hero-actions">
+            <button class="primary-btn" data-scroll="programs">현재 프로그램 보기</button>
+            <button class="ghost-btn" data-scroll="sources">트래킹 범위 보기</button>
+          </div>
+        </div>
+
+        <div class="stats-grid" id="statsGrid"></div>
+      </section>
+
+      <section class="section insight-row">
+        <div class="panel pulse-panel">
+          <div class="panel-header">
+            <div>
+              <p class="eyebrow">RADAR PULSE</p>
+              <h3>지금 먼저 볼 것</h3>
+            </div>
+            <span class="live-badge">LIVE</span>
+          </div>
+          <div id="priorityList" class="priority-list"></div>
+        </div>
+
+        <div class="panel deadline-panel">
+          <div class="panel-header">
+            <div>
+              <p class="eyebrow">DEADLINE WATCH</p>
+              <h3>마감 임박</h3>
+            </div>
+          </div>
+          <div id="deadlineList" class="deadline-list"></div>
+        </div>
+      </section>
+
+      <section id="programs" class="section panel programs-panel">
+        <div class="panel-header programs-head">
+          <div>
+            <p class="eyebrow">PROGRAM FEED</p>
+            <h2>프로그램</h2>
+            <p class="muted">대학·청년 / 금융권 / 기술직·국비 세 섹션으로 나눠 확인합니다. 데이터는 <code>data/programs.json</code>에서 자동으로 불러옵니다.</p>
+          </div>
+          <div class="view-controls">
+            <button class="seg-btn active" data-view="cards">카드</button>
+            <button class="seg-btn" data-view="table">테이블</button>
+            <button class="seg-btn hidden" id="calendarBtn" data-view="calendar">연간 캘린더</button>
+          </div>
+        </div>
+
+
+        <div class="sector-tabs" id="sectorTabs">
+          <button class="sector-tab active" data-sector="all">전체 기회</button>
+          <button class="sector-tab" data-sector="campus">대학·청년</button>
+          <button class="sector-tab" data-sector="finance">금융권</button>
+          <button class="sector-tab" data-sector="trades">기술직·국비</button>
+        </div>
+
+        <div class="toolbar">
+          <div class="search-box">
+            <span>⌕</span>
+            <input id="searchInput" type="search" placeholder="프로그램명, 기관, 키워드 검색" />
+          </div>
+          <select id="categoryFilter" aria-label="카테고리 필터">
+            <option value="all">전체 카테고리</option>
+          </select>
+          <select id="eligibilityFilter" aria-label="참여 자격 필터">
+            <option value="all">참여 자격 전체</option>
+            <option value="yes">✅ 참여 가능</option>
+            <option value="check">⚠️ 확인 필요</option>
+          </select>
+          <select id="sortSelect" aria-label="정렬">
+            <option value="priority">추천순</option>
+            <option value="deadline">마감 임박순</option>
+            <option value="newest">신규 등록순</option>
+          </select>
+          <label class="saved-toggle">
+            <input type="checkbox" id="savedOnly" />
+            <span>★ 저장만</span>
+          </label>
+        </div>
+
+        <div class="toolbar toolbar-2">
+          <select id="groupFilter" aria-label="대학 그룹 필터">
+            <option value="all">대학 그룹 전체</option>
+            <option value="서연고">서연고</option><option value="서성한">서성한</option><option value="중경외시">중경외시</option>
+            <option value="건동홍">건동홍</option><option value="국숭세단">국숭세단</option><option value="__public">공공·기관</option>
+          </select>
+          <select id="cardFilter" aria-label="내일배움카드 필터">
+            <option value="all">내일배움카드 무관</option>
+            <option value="no">카드 불필요만</option>
+            <option value="yes">카드 필요만</option>
+          </select>
+          <label class="saved-toggle"><input type="checkbox" id="dguOnly" /><span>동국대 전용만</span></label>
+          <label class="saved-toggle"><input type="checkbox" id="newOnly" /><span>신규(3일)만</span></label>
+          <label class="saved-toggle"><input type="checkbox" id="jukjeon" /><span>단국대 죽전 포함</span></label>
+        </div>
+        <div class="chips" id="quickChips">
+          <button class="chip active" data-chip="all">전체</button>
+          <button class="chip" data-chip="AI·테크">AI·테크</button>
+          <button class="chip" data-chip="창업·VC">창업·VC</button>
+          <button class="chip" data-chip="공모전·해커톤">공모전·해커톤</button>
+          <button class="chip" data-chip="교육·부트캠프">교육·부트캠프</button>
+          <button class="chip" data-chip="취업·인턴">취업·인턴</button>
+          <button class="chip" data-chip="세미나">세미나</button>
+          <button class="chip" data-chip="채용·인턴">채용·인턴</button>
+          <button class="chip" data-chip="현장·기술직">현장·기술직</button>
+        </div>
+
+        <div class="result-meta"><span id="resultCount"></span><span>※ 자격이 불명확한 공고는 ‘확인 필요’로 표시</span></div>
+        <div id="calendarWrap" class="hidden"></div>
+        <div id="programCards" class="cards-grid"></div>
+        <div id="programTableWrap" class="table-wrap hidden"></div>
+        <details id="checkSection" class="check-section">
+          <summary>⚠️ 확인 필요 <span id="checkCount"></span> — 소속 제한 문구가 없어 자동 판정을 못 한 공고</summary>
+          <div id="checkCards" class="cards-grid"></div>
+        </details>
+      </section>
+
+      <section id="links" class="section panel sources-panel">
+        <div class="panel-header sources-head">
+          <div>
+            <p class="eyebrow">QUICK LINKS</p>
+            <h2>바로가기</h2>
+            <p class="muted">로그인이 필요하거나 약관상 수집하지 않는 곳. 직접 열어서 확인합니다.</p>
+          </div>
+        </div>
+        <div id="linkGroups"></div>
+      </section>
+
+      <section id="sources" class="section panel sources-panel">
+        <div class="panel-header sources-head">
+          <div>
+            <p class="eyebrow">SOURCE MASTER</p>
+            <h2>트래킹 소스</h2>
+            <p class="muted">어디를 보고 있는지 자체를 관리합니다. 대학 메인이 아니라 실제 공지 게시판 단위로 등록합니다 (<code>sources/sources.yaml</code>).</p>
+          </div>
+          <div class="source-tabs" id="sourceTabs">
+            <button class="source-tab active" data-source-type="all">전체</button>
+            <button class="source-tab" data-source-type="대학">대학</button>
+            <button class="source-tab" data-source-type="서울시·공공">서울시·공공</button>
+            <button class="source-tab" data-source-type="창업·테크">창업·테크</button>
+            <button class="source-tab" data-source-type="금융·증권">금융·증권</button>
+            <button class="source-tab" data-source-type="직업훈련">직업훈련</button>
+          </div>
+        </div>
+        <div id="sourceGrid" class="source-grid"></div>
+      </section>
+
+      <footer>
+        <div>
+          <strong>Opportunity Radar</strong>
+          <p>대학생·청년이 접근 가능한 학술·커리어·금융·정부지원 직업훈련을 빠르게 발견하기 위한 개인용 대시보드.</p>
+        </div>
+        <p id="footerNote">각 프로그램의 최종 자격/일정은 반드시 공식 원문 확인</p>
+      </footer>
+    </main>
+  </div>
+
+  <dialog id="detailDialog" class="detail-dialog">
+    <form method="dialog"><button class="dialog-close">×</button></form>
+    <div id="detailBody"></div>
+  </dialog>
+
+  <script>
+const SECTION_LABEL = { campus:'대학·청년', finance:'금융권', trades:'기술직·국비' };
+const DATA = { programs: [], sources: [], generated_at: null };
+const today = new Date();
+const NEW_DAYS = 3;
+const els = {
+  cards: document.getElementById('programCards'), table: document.getElementById('programTableWrap'),
+  search: document.getElementById('searchInput'), category: document.getElementById('categoryFilter'),
+  eligibility: document.getElementById('eligibilityFilter'), sort: document.getElementById('sortSelect'),
+  savedOnly: document.getElementById('savedOnly'), count: document.getElementById('resultCount'),
+  sources: document.getElementById('sourceGrid'), dialog: document.getElementById('detailDialog'),
+  detailBody: document.getElementById('detailBody'),
+  group: document.getElementById('groupFilter'), card: document.getElementById('cardFilter'),
+  dguOnly: document.getElementById('dguOnly'), newOnly: document.getElementById('newOnly'), jukjeon: document.getElementById('jukjeon'),
+  checkCards: document.getElementById('checkCards'), checkCount: document.getElementById('checkCount'),
+  calendar: document.getElementById('calendarWrap'), calendarBtn: document.getElementById('calendarBtn'), linkGroups: document.getElementById('linkGroups')
+};
+DATA.recurring = []; DATA.user = {};
+let state = { chip:'all', sector:'all', view:'cards', sourceType:'all' };
+let saved = new Set(JSON.parse(localStorage.getItem('or-saved') || '[]'));
+
+
+function parseDate(v){ if(!v) return null; return new Date(v.length===10 ? v+'T23:59:00' : v); }
+function dayDiff(v){ const d=parseDate(v); if(!d) return null; const a=Date.UTC(d.getFullYear(),d.getMonth(),d.getDate()), b=Date.UTC(today.getFullYear(),today.getMonth(),today.getDate()); return Math.round((a-b)/86400000); }
+function deadlineText(p){ const d=dayDiff(p.deadline); if(d===null) return '마감일 확인'; if(d<0) return '마감'; if(d===0) return '오늘 마감'; if(d===1) return 'D-1'; return `D-${d}`; }
+function deadlineClass(p){ const d=dayDiff(p.deadline); if(d===null) return 'normal'; if(d<=2) return 'urgent'; if(d<=7) return 'soon'; return 'normal'; }
+function formatDate(v){ if(!v) return '확인 필요'; const d=parseDate(v); return `${d.getMonth()+1}/${d.getDate()}`; }
+function eligibilityHTML(p){ const label=p.eligibility==='yes'?(p.dongguk_only?'동국대 재학생':'참여 가능'):'확인 필요'; return `<span class="eligibility ${p.eligibility}">${p.eligibility==='yes'?'✓':'!'} ${label}</span><span class="reason">${(p.eligibility_reason||'').slice(0,60)}</span>`; }
+function isNew(p){ const d=parseDate(p.first_seen); return d && (today-d)/86400000 <= NEW_DAYS; }
+function cardBadge(p){
+  if(!p.requires_card || !DATA.user.expected_graduation) return '';
+  const m=/^(\d{4})-([12])$/.exec(DATA.user.expected_graduation); if(!m) return '';
+  const availYear=+m[1]-2, sem=+m[2];                       // 졸업까지 2년 이내부터 발급 가능
+  const availDate=new Date(availYear, sem===1?2:8, 1);        // 1학기=3월, 2학기=9월
+  if(today>=availDate) return '';
+  return `<span class="card-badge">내일배움카드 발급 가능 시점: ${availYear}년 ${sem}학기</span>`;
+}
+function extraTags(p){ let t=''; if(isNew(p)) t+='<span class="tag hot">NEW</span>'; if(p.dongguk_only) t+='<span class="tag">동국대 재학생</span>'; if(p.requires_card) t+='<span class="tag">내일배움카드</span>'; return t; }
+function formatDateTime(v){ if(!v) return '-'; const d=new Date(v); return `${d.getFullYear()}.${String(d.getMonth()+1).padStart(2,'0')}.${String(d.getDate()).padStart(2,'0')} ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`; }
+
+function renderStats(){
+  const open=DATA.programs.filter(p=>{ const d=dayDiff(p.deadline); return d===null || d>=0; }).length;
+  const urgent=DATA.programs.filter(p=>{ const d=dayDiff(p.deadline); return d!==null && d>=0 && d<=7; }).length;
+  const campus=DATA.programs.filter(p=>p.section==='campus').length;
+  const finance=DATA.programs.filter(p=>p.section==='finance').length;
+  const trades=DATA.programs.filter(p=>p.section==='trades').length;
+  const sources=DATA.sources.length;
+  const fresh=DATA.programs.filter(isNew).length;
+  const items=[['현재 표시',open,'모집·예정 프로그램'],['D-7 이내',urgent,'마감 임박'],['신규 3일',fresh,'새로 발견'],['대학·청년',campus,'대학·서울시·창업'],['금융권',finance,'채용·인턴·파트너스'],['기술직·국비',trades,'정부지원 훈련']];
+  document.getElementById('statsGrid').innerHTML=items.map(([l,v,s])=>`<div class="stat-card"><div class="stat-label">${l}</div><div class="stat-value">${v}</div><div class="stat-sub">${s}</div></div>`).join('');
+}
+function renderPriority(){
+  const list=DATA.programs.filter(p=>p.eligibility==='yes').sort((a,b)=>b.priority-a.priority).slice(0,6);
+  document.getElementById('priorityList').innerHTML=list.map((p,i)=>`<div class="priority-item" data-id="${p.id}"><div class="priority-rank">${i+1}</div><div><strong>${p.title}</strong><p>${p.org} · ${p.category}</p></div><span class="arrow">→</span></div>`).join('');
+}
+function renderDeadlines(){
+  const list=DATA.programs.filter(p=>p.eligibility==='yes').filter(p=>{const d=dayDiff(p.deadline);return d!==null&&d>=0;}).sort((a,b)=>dayDiff(a.deadline)-dayDiff(b.deadline)).slice(0,5);
+  document.getElementById('deadlineList').innerHTML=list.map(p=>`<div class="deadline-item"><div class="deadline-day"><strong>${deadlineText(p)}</strong><span>${formatDate(p.deadline)}</span></div><div class="deadline-info"><strong>${p.title}</strong><span>${p.org}</span></div></div>`).join('') || '<p class="muted">현재 마감일이 확인된 항목이 없습니다.</p>';
+}
+function filteredPrograms(){
+  const q=els.search.value.trim().toLowerCase(); const cat=els.category.value; const elig=els.eligibility.value;
+  const grp=els.group.value, card=els.card.value;
+  let arr=DATA.programs.filter(p=>{
+    const text=[p.title,p.org,SECTION_LABEL[p.section],p.category,p.subcategory,p.university||'',p.group||'',...(p.keywords||[])].join(' ').toLowerCase();
+    if(q && !text.includes(q)) return false;
+    if(cat!=='all' && p.category!==cat) return false;
+    if(elig!=='all' && p.eligibility!==elig) return false;
+    if(state.sector!=='all' && p.section!==state.sector) return false;
+    if(state.chip!=='all' && p.category!==state.chip) return false;
+    if(els.savedOnly.checked && !saved.has(p.id)) return false;
+    if(grp==='__public'){ if(p.university) return false; } else if(grp!=='all' && p.group!==grp) return false;
+    if(card==='yes' && !p.requires_card) return false;
+    if(card==='no' && p.requires_card) return false;
+    if(els.dguOnly.checked && !p.dongguk_only) return false;
+    if(els.newOnly.checked && !isNew(p)) return false;
+    if(!els.jukjeon.checked && p.campus==='jukjeon') return false;
+    return true;
+  });
+  if(els.sort.value==='deadline') arr.sort((a,b)=>(dayDiff(a.deadline)??9999)-(dayDiff(b.deadline)??9999));
+  else if(els.sort.value==='newest') arr.sort((a,b)=>parseDate(b.posted)-parseDate(a.posted));
+  else arr.sort((a,b)=>b.priority-a.priority);
+  return arr;
+}
+function cardHTML(p){ return `<article class="program-card">
+    <div class="card-top"><div class="tag-row"><span class="tag sector-tag">${SECTION_LABEL[p.section]}</span><span class="tag hot">${p.category}</span><span class="tag">${p.subcategory}</span>${extraTags(p)}</div><button class="save-btn ${saved.has(p.id)?'saved':''}" data-save="${p.id}" title="저장">★</button></div>
+    <h3>${p.title}</h3><div class="org">${p.org}</div>
+    <div class="card-meta"><div class="meta-box"><span>참여 자격</span>${eligibilityHTML(p)}</div><div class="meta-box"><span>행사일</span><strong>${formatDate(p.event_date)}</strong></div></div>
+    ${cardBadge(p)}
+    <div class="card-footer"><span class="deadline-label ${deadlineClass(p)}">${deadlineText(p)}</span><button class="detail-link" data-detail="${p.id}">상세 보기 →</button></div>
+  </article>`; }
+function renderPrograms(){
+  const all=filteredPrograms();
+  const arr=all.filter(p=>p.eligibility==='yes'), chk=all.filter(p=>p.eligibility==='check');
+  els.count.textContent=`${arr.length}개 프로그램 (확인 필요 ${chk.length}개 별도)`;
+  els.cards.innerHTML=arr.map(cardHTML).join('') || '<div class="muted" style="padding:30px">조건에 맞는 프로그램이 없습니다.</div>';
+  els.checkCards.innerHTML=chk.map(cardHTML).join('') || '<div class="muted" style="padding:14px">없음</div>';
+  els.checkCount.textContent=`${chk.length}개`;
+  els.calendarBtn.classList.toggle('hidden', state.sector!=='finance');
+  if(state.sector!=='finance' && state.view==='calendar'){ setView('cards'); }
+  renderCalendar();
+  els.table.innerHTML=`<table class="program-table"><thead><tr><th>프로그램</th><th>주최</th><th>섹터</th><th>카테고리</th><th>참여</th><th>마감</th><th>행사일</th><th>원문</th></tr></thead><tbody>${arr.map(p=>`<tr><td><strong>${p.title}</strong></td><td>${p.org}</td><td>${SECTION_LABEL[p.section]}</td><td>${p.category}</td><td>${p.eligibility_reason||'원문 확인'}</td><td>${deadlineText(p)}</td><td>${formatDate(p.event_date)}</td><td><a href="${p.url}" target="_blank" rel="noreferrer">열기</a></td></tr>`).join('')}</tbody></table>`;
+}
+function renderSources(){
+  const arr=DATA.sources.filter(s=>state.sourceType==='all'||s.type===state.sourceType);
+  function sourceStatus(s){
+    if(s.todo) return '<span class="source-status" style="color:var(--red)">URL 미확인</span>';
+    if(s.method==='link') return '<span class="source-status" style="color:var(--muted)">↗ 바로가기</span>';
+    if(s.last_error) return `<span class="source-status" style="color:var(--red)">✕ 실패</span>`;
+    if(s.last_success) return `<span class="source-status">● ${formatDateTime(s.last_success)}</span>`;
+    return `<span class="source-status" style="color:var(--amber)">${s.method==='api'?'API':'수집'} 대기</span>`;
+  }
+  els.sources.innerHTML=arr.map(s=>`<article class="source-card"><div class="source-card-top"><span class="source-type">${s.group}</span>${sourceStatus(s)}</div><h4>${s.name}</h4><p>${s.focus||''}</p>${s.todo?'<span class="muted">게시판 주소를 아직 찾지 못했습니다</span>':`<a href="${s.url}" target="_blank" rel="noreferrer">공식 소스 열기 →</a>`}</article>`).join('');
+}
+function setView(v){ state.view=v; document.querySelectorAll('.seg-btn').forEach(x=>x.classList.toggle('active',x.dataset.view===v)); els.cards.classList.toggle('hidden',v!=='cards'); els.table.classList.toggle('hidden',v!=='table'); els.calendar.classList.toggle('hidden',v!=='calendar'); document.getElementById('checkSection').classList.toggle('hidden',v==='calendar'); }
+function renderCalendar(){
+  if(state.view!=='calendar') return;
+  const months=Array.from({length:12},()=>[]);
+  const add=(m,html)=>{ if(m>=1&&m<=12) months[m-1].push(html); };
+  const parseMonths=v=>{ if(!v) return []; return String(v).split(/[,\s]+/).flatMap(t=>{ const r=/^(\d{1,2})-(\d{1,2})$/.exec(t); if(r){ const a=+r[1],b=+r[2]; const out=[]; for(let m=a;;m=m%12+1){ out.push(m); if(m===b) break; if(out.length>12) break; } return out; } return t?[+t]:[]; }); };
+  DATA.recurring.forEach(r=>{ parseMonths(r.months).forEach(m=>add(m,`<div class="cal-item"><a href="${r.url&&r.url!=='TODO'?r.url:'#'}" target="_blank" rel="noreferrer">${r.title}</a><small>${r.org||''}${r.note?' · '+r.note:''}</small></div>`)); });
+  DATA.programs.filter(p=>p.section==='finance'&&p.recurring).forEach(p=>parseMonths(p.recurring).forEach(m=>add(m,`<div class="cal-item"><a href="${p.url}" target="_blank" rel="noreferrer">${p.title}</a><small>${p.org} · 올해 공고 ${deadlineText(p)}</small></div>`)));
+  DATA.programs.filter(p=>p.section==='finance'&&p.deadline&&dayDiff(p.deadline)>=0).forEach(p=>add(parseDate(p.deadline).getMonth()+1,`<div class="cal-item" style="border-color:var(--amber)"><a href="${p.url}" target="_blank" rel="noreferrer">${p.title}</a><small>${p.org} · 마감 ${formatDate(p.deadline)} (${deadlineText(p)})</small></div>`));
+  const now=today.getMonth()+1;
+  els.calendar.innerHTML=`<p class="muted">파란선 = 매년 반복(recurring.yaml, 공고 전에 준비) · 노란선 = 지금 열려 있는 공고의 마감월</p><div class="cal-grid">${months.map((it,i)=>`<div class="cal-month ${i+1===now?'now':''}"><h4>${i+1}월</h4>${it.join('')||'<span class="muted">-</span>'}</div>`).join('')}</div>`;
+}
+function renderLinks(){
+  const groups={campus:'대학·청년',finance:'금융권',trades:'기술직·국비'};
+  els.linkGroups.innerHTML=Object.entries(groups).map(([sec,label])=>{
+    const arr=DATA.sources.filter(s=>s.method==='link'&&s.section===sec);
+    if(!arr.length) return '';
+    return `<div class="link-group"><h4>${label}</h4><div class="link-chips">${arr.map(s=>s.todo?`<a class="todo" title="주소 미확인">${s.name}</a>`:`<a href="${s.url}" target="_blank" rel="noreferrer" title="${s.focus||''}">${s.name}</a>`).join('')}</div></div>`;
+  }).join('');
+}
+function showDetail(id){ const p=DATA.programs.find(x=>x.id===id); if(!p)return;
+  els.detailBody.innerHTML=`<span class="tag sector-tag">${SECTION_LABEL[p.section]}</span> <span class="tag hot">${p.category}</span>${extraTags(p)}<h2 class="detail-title">${p.title}</h2><div class="detail-org">${p.org}</div><div class="detail-grid"><div class="detail-cell"><span>참여 자격</span><strong>${p.eligibility_reason||'원문 확인'}</strong></div><div class="detail-cell"><span>신청 마감</span><strong>${p.deadline?formatDate(p.deadline):'확인 필요'} · ${deadlineText(p)}</strong></div><div class="detail-cell"><span>행사일</span><strong>${formatDate(p.event_date)}</strong></div><div class="detail-cell"><span>형태 / 비용</span><strong>${p.format||'-'} · ${p.cost||'-'}</strong></div><div class="detail-cell" style="grid-column:1/-1"><span>자격 판정 근거 (원문 문구)</span><strong>${p.eligibility_reason||'-'}</strong></div><div class="detail-cell" style="grid-column:1/-1"><span>출처</span><strong>${p.source_id||'-'}${p.university?' · '+p.university:''}${p.location?' · '+p.location:''}${(p.also_at&&p.also_at.length)?' · 같은 공고 '+p.also_at.length+'곳':''}</strong></div></div>${cardBadge(p)}${p.description?`<p class="detail-desc">${p.description}</p>`:''}${p.benefit?`<p class="detail-desc"><strong style="color:var(--text)">핵심:</strong> ${p.benefit}</p>`:''}<a class="official-btn" href="${p.url}" target="_blank" rel="noreferrer">공식 원문 확인</a>`;
+  els.dialog.showModal();
+}
+
+['input','change'].forEach(ev=>{els.search.addEventListener(ev,renderPrograms);});
+[els.category,els.eligibility,els.sort,els.savedOnly,els.group,els.card,els.dguOnly,els.newOnly,els.jukjeon].forEach(el=>el.addEventListener('change',renderPrograms));
+document.addEventListener('click',e=>{
+  const d=e.target.closest('[data-detail],.priority-item'); if(d){ showDetail(d.dataset.detail||d.dataset.id); }
+  const s=e.target.closest('[data-save]'); if(s){ const id=s.dataset.save; saved.has(id)?saved.delete(id):saved.add(id); localStorage.setItem('or-saved',JSON.stringify([...saved])); renderPrograms(); }
+  const sec=e.target.closest('[data-sector]'); if(sec){ state.sector=sec.dataset.sector; document.querySelectorAll('.sector-tab').forEach(x=>x.classList.toggle('active',x===sec)); renderPrograms(); }
+  const ch=e.target.closest('[data-chip]'); if(ch){ state.chip=ch.dataset.chip; document.querySelectorAll('.chip').forEach(x=>x.classList.toggle('active',x===ch)); renderPrograms(); }
+  const v=e.target.closest('[data-view]'); if(v){ setView(v.dataset.view); renderCalendar(); }
+  const st=e.target.closest('[data-source-type]'); if(st){ state.sourceType=st.dataset.sourceType; document.querySelectorAll('.source-tab').forEach(x=>x.classList.toggle('active',x===st)); renderSources(); }
+  const sc=e.target.closest('[data-scroll]'); if(sc){ document.getElementById(sc.dataset.scroll)?.scrollIntoView({behavior:'smooth'}); document.getElementById('sidebar').classList.remove('open'); }
+});
+document.getElementById('themeToggle').addEventListener('click',()=>{document.body.classList.toggle('dark');localStorage.setItem('or-theme',document.body.classList.contains('dark')?'dark':'light');});
+if(localStorage.getItem('or-theme')==='dark') document.body.classList.add('dark');
+document.getElementById('mobileMenu').addEventListener('click',()=>document.getElementById('sidebar').classList.toggle('open'));
+async function loadJSON(name){
+  // GitHub Pages(같은 폴더) 와 로컬(../data) 두 경로를 순서대로 시도
+  const bases = location.pathname.includes('/web/') ? ['../data/','data/'] : ['data/','../data/'];
+  for(const base of bases){
+    try{ const r=await fetch(base+name,{cache:'no-store'}); if(r.ok) return await r.json(); }catch(e){}
+  }
+  throw new Error(name+' 을 불러오지 못했습니다');
+}
+async function init(){
+  try{
+    const [pj, sj] = await Promise.all([loadJSON('programs.json'), loadJSON('sources.json')]);
+    DATA.generated_at = pj.generated_at;
+    DATA.user = pj.user || {};
+    DATA.programs = (pj.programs||[]).filter(p=>p.eligibility!=='no');   // 'no' 는 화면에 띄우지 않음
+    DATA.sources = sj.sources||[];
+    try{ const rj = await loadJSON('recurring.json'); DATA.recurring = rj.items||[]; }catch(e){ DATA.recurring=[]; }
+  }catch(err){
+    document.getElementById('syncLabel').textContent='데이터 로드 실패';
+    els.cards.innerHTML=`<div class="muted" style="padding:30px">${err.message}<br/>파일을 직접 열면 브라우저가 JSON 읽기를 막습니다. 프로젝트 폴더에서 <code>python3 -m http.server</code> 를 실행한 뒤 http://localhost:8000/web/ 로 접속하세요.</div>`;
+    return;
+  }
+  document.getElementById('syncLabel').textContent='최근 수집 '+formatDateTime(DATA.generated_at);
+  document.getElementById('footerNote').textContent=`최근 수집: ${formatDateTime(DATA.generated_at)} · 오늘: ${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,'0')}-${String(today.getDate()).padStart(2,'0')} · 각 프로그램의 최종 자격/일정은 반드시 공식 원문 확인`;
+  [...new Set(DATA.programs.map(x=>x.category))].sort().forEach(c=>{ const o=document.createElement('option'); o.value=c;o.textContent=c; els.category.appendChild(o); });
+  renderStats();renderPriority();renderDeadlines();renderPrograms();renderSources();renderLinks();
+}
+init();
+
+</script>
+</body>
+</html>

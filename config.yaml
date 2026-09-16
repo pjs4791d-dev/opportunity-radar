@@ -1,0 +1,12 @@
+# 사용자 설정 (개인정보 아님 — 저장소에 올려도 되는 값만)
+user:
+  university: 동국대
+  # 졸업 예정 학기. 내일배움카드는 졸업까지 남은 수업연한 2년 이내일 때 발급 가능.
+  # 형식: "YYYY-1" 또는 "YYYY-2"  (예: 2028-1). 확인 전까지는 null.
+  expected_graduation: null
+
+collector:
+  user_agent: "OpportunityRadar/0.1 (personal project; contact via GitHub issues)"
+  min_delay_seconds: 2      # 같은 도메인 요청 간격
+  max_list_pages: 2         # 목록 페이지는 최신 1~2페이지만
+  new_days: 3               # first_seen 기준 '신규' 표시 일수
