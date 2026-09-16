@@ -428,7 +428,8 @@ async function init(){
     const [pj, sj] = await Promise.all([loadJSON('programs.json'), loadJSON('sources.json')]);
     DATA.generated_at = pj.generated_at;
     DATA.user = pj.user || {};
-    DATA.programs = (pj.programs||[]).filter(p=>p.eligibility!=='no');   // 'no' 는 화면에 띄우지 않음
+    DATA.programs = (pj.programs||[]).filter(p=>p.eligibility!=='no')   // 'no' 는 화면에 띄우지 않음
+      .filter(p=>{ const d=dayDiff(p.deadline); if(d!==null) return d>=0; const e=dayDiff(p.event_date); return e===null || e>=0; });  // 지난 마감·지난 행사 숨김
     DATA.sources = sj.sources||[];
     try{ const rj = await loadJSON('recurring.json'); DATA.recurring = rj.items||[]; }catch(e){ DATA.recurring=[]; }
   }catch(err){

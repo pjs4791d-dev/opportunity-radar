@@ -24,10 +24,13 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 CFG = yaml.safe_load((ROOT / "config.yaml").read_text(encoding="utf-8"))
 TODAY = datetime.date.today()
-KEEP_DAYS_AFTER_DEADLINE = 1      # 마감 지난 공고는 며칠 뒤 목록에서 제거
-KEEP_DAYS_NO_DEADLINE = 45        # 마감일 모르는 공고는 first_seen 기준 보관 일수
+KEEP_DAYS_AFTER_DEADLINE = 0      # 마감일이 지나면 다음 수집부터 제거 (당일까지는 표시)
+KEEP_DAYS_NO_DATE_POSTED = 30     # 날짜를 못 뽑은 글: 게시일 기준 보관 일수
+KEEP_DAYS_NO_DATE_SEEN = 21       # 날짜·게시일 모두 없는 글: 처음 본 날 기준 보관 일수
 MAX_DETAIL_PER_SOURCE = 10
-JUNK_TITLE = re.compile(r"^(로그인|새창|새 창|갤러리|더보기|사이트맵|개인정보|이메일|Home|홈|목록|이전|다음|첨부|공지사항|검색|바로가기)|(페이지 이동|UOS 갤러리|스팸|피싱)$|^[^가-힣A-Za-z]*$")        # 소스당 상세 페이지 열람 상한(신규 항목만)
+JUNK_TITLE = re.compile(r"^(로그인|새창|새 창|갤러리|더보기|사이트맵|개인정보|이메일|Home|홈|목록|이전|다음|첨부|공지사항|검색|바로가기|자세히)|(페이지 이동|UOS 갤러리|스팸|피싱)$|^[^가-힣A-Za-z]*$")
+# 기회가 아니라 '결과' 성격의 글: 합격자 발표, 선정 결과, 조치결과 등
+RESULT_TITLE = re.compile(r"합격자|최종\s*합격|선발\s*결과|선정\s*결과|심사\s*결과|평가\s*결과|결과\s*(발표|안내|공고|공개)|조치결과|감사결과|당첨자|수상자\s*발표|면접\s*(시간|일정)\s*안내|사칭|주의\s*안내|이용자\s*만족도|서비스\s*중단|점검\s*안내|휴관|개인정보\s*처리방침|용역|입찰|제안서|교원\s*채용|전임교원|교직원\s*채용|조교\s*채용|직원\s*채용|축하\s*모임|시험\s*결과|일반대학원.*모집|대학원.*신입생\s*모집")        # 소스당 상세 페이지 열람 상한(신규 항목만)
 
 
 def load_json(name, default):
@@ -120,7 +123,7 @@ def collect_source(src, ctx_get, want_detail, seen, errors, stats):
             ej = {"eligibility": prev["eligibility"], "eligibility_reason": prev["eligibility_reason"], "dongguk_only": prev.get("dongguk_only", False)}
         if ej["eligibility"] == "check" and "target" in extra:
             ej["eligibility_reason"] = extra["target"]
-        if JUNK_TITLE.search(it["title"]):
+        if JUNK_TITLE.search(it["title"]) or RESULT_TITLE.search(it["title"]):
             continue
         if src["id"].startswith("work24"):
             cat = "현장·기술직"
@@ -164,7 +167,7 @@ def collect_source(src, ctx_get, want_detail, seen, errors, stats):
         }
         p["priority"] = classify.priority(p, TODAY)
         # 이미 지난 공고 / 오래된 글은 화면에 넣지 않는다 (seen 에는 기록)
-        stale = (not still_valid(p)) or (posted and not deadline and (TODAY - posted).days > 60)
+        stale = not still_valid(p)
         if not stale:
             out.append(p)
         seen[pid] = {"url": it["url"], "title": it["title"], "first_seen": p["first_seen"], "last_seen": TODAY.isoformat(),
@@ -187,13 +190,31 @@ class _SeenView(dict):
 
 
 def still_valid(p):
-    if p.get("deadline"):
+    """화면에 남길지: 마감 전(당일 포함) / 행사 전 / 날짜를 모르면 게시일·최초발견일 기준 일정 기간."""
+    dl = p.get("deadline")
+    if dl:
         try:
-            return (TODAY - datetime.date.fromisoformat(p["deadline"][:10])).days <= KEEP_DAYS_AFTER_DEADLINE
+            return (TODAY - datetime.date.fromisoformat(dl[:10])).days <= KEEP_DAYS_AFTER_DEADLINE
         except ValueError:
             return True
+    ev = p.get("event_date")
+    if ev:
+        try:
+            if datetime.date.fromisoformat(ev[:10]) < TODAY:
+                return False   # 마감일은 몰라도 행사일이 지났으면 끝난 것
+        except ValueError:
+            pass
+        else:
+            return True
+    # 제목의 연도가 작년 이하이고 미래 날짜가 없으면 지난 공고
+    m = re.search(r"(20\d{2})\s*(년|학년도|-\d)", p.get("title", ""))
+    if m and int(m.group(1)) < TODAY.year:
+        return False
+    posted = p.get("posted")
+    if posted:
+        return (TODAY - datetime.date.fromisoformat(posted[:10])).days <= KEEP_DAYS_NO_DATE_POSTED
     fs = p.get("first_seen") or TODAY.isoformat()
-    return (TODAY - datetime.date.fromisoformat(fs)).days <= KEEP_DAYS_NO_DEADLINE
+    return (TODAY - datetime.date.fromisoformat(fs)).days <= KEEP_DAYS_NO_DATE_SEEN
 
 
 def main():
@@ -270,6 +291,8 @@ def main():
     merged = dict(collected)
     for pid, p in old_programs.items():
         if pid in merged:
+            continue
+        if JUNK_TITLE.search(p.get("title", "")) or RESULT_TITLE.search(p.get("title", "")):
             continue
         if p.get("source_id") in ok_sources:
             # 그 소스를 이번에 돌았는데 목록에서 사라짐 → 마감 전이면 잠시 유지
