@@ -171,7 +171,7 @@ footer{margin-top:40px;color:var(--mute);font-size:11px;line-height:1.6}
 <main class="wrap">
   <section id="feed">
     <div class="filters" id="filters">
-      <button class="chip" data-f="new">신규 3일 <span class="n" id="c-new"></span></button>
+      <button class="chip" data-f="new">오늘 신규 <span class="n" id="c-new"></span></button>
       <button class="chip" data-f="week">D-7 이내 <span class="n" id="c-week"></span></button>
       <button class="chip" data-f="dgu">동국대 전용</button>
       <button class="chip" data-f="nocard">카드 불필요</button>
@@ -233,7 +233,8 @@ const pd = v => { if(!v) return null; const d = new Date(v.length === 10 ? v + '
 const dayDiff = v => { const d = pd(v); if(!d) return null; const a = Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()), b = Date.UTC(today.getFullYear(), today.getMonth(), today.getDate()); return Math.round((a - b) / 864e5); };
 const md = v => { const d = pd(v); return d ? `${d.getMonth()+1}/${d.getDate()}` : '-'; };
 const fmtDT = v => { const d = pd(v); if(!d) return '-'; const p = n => String(n).padStart(2,'0'); return `${d.getMonth()+1}.${p(d.getDate())} ${p(d.getHours())}:${p(d.getMinutes())}`; };
-const isNew = p => { const d = dayDiff(p.first_seen); return d !== null && d >= -3; };
+// 신규 = 오늘 게시된 글. 게시일을 모르면 오늘 처음 발견한 글
+const isNew = p => p.posted ? dayDiff(p.posted) === 0 : dayDiff(p.first_seen) === 0;
 const alive = p => { const d = dayDiff(p.deadline); if(d !== null) return d >= 0; const e = dayDiff(p.event_date); return e === null || e >= 0; };
 
 function ddayHTML(p){

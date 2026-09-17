@@ -42,11 +42,20 @@ def seoul_youth_detail(text):
     return out
 
 
-def kofia(source, ctx, max_items=40):
+def kofia(source, ctx, max_items=60, pages=3):
     """KOFIA 채용안내: tr > td(번호) td(회원사) td.left(제목, a[href=view.do?seq=]) td(파일) td.num(작성일).
-    제목 앵커 HTML 이 깨져 있어(span 안에서 a 시작) td 텍스트를 쓴다."""
-    html = ctx["get"](source["url"])
-    s = soup(html)
+    제목 앵커 HTML 이 깨져 있어(span 안에서 a 시작) td 텍스트를 쓴다. 한 페이지 10건이라 pages 만큼 읽는다(?page=N)."""
+    out, seen_seq = [], set()
+    for page in range(1, pages + 1):
+        html = ctx["get"](source["url"] + ("" if page == 1 else f"?page={page}"))
+        s = soup(html)
+        out.extend(_kofia_rows(source, s, seen_seq))
+        if len(out) >= max_items:
+            break
+    return out[:max_items]
+
+
+def _kofia_rows(source, s, seen_seq):
     out = []
     for tr in s.select("tr"):
         a = tr.select_one("a[href*='view.do?seq=']")
@@ -56,14 +65,15 @@ def kofia(source, ctx, max_items=40):
         tds = tr.find_all("td")
         if not m or len(tds) < 3:
             continue
+        if m.group(1) in seen_seq:
+            continue
+        seen_seq.add(m.group(1))
         org = clean(tds[1].get_text(" "))
         title = clean(tds[2].get_text(" ")).replace(" new", "").strip()
         posted = first_date(tr.get_text(" "))
         if len(title) < 4:
             continue
         out.append(item(source, title, source["detail_url"].format(seq=m.group(1)), posted, f"{org} {title}", org=org or "금융투자협회 회원사"))
-        if len(out) >= max_items:
-            break
     return out
 
 
