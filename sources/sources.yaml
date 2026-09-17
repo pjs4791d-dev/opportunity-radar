@@ -1737,6 +1737,7 @@ sources:
     url: https://www.kofia.or.kr/brd/m_96/list.do
     detail_url: https://www.kofia.or.kr/brd/m_96/view.do?seq={seq}
     default_scope: public
+    detail_budget: 80
     note: 최우선 소스. 제목 [회사명] 직무 (~마감). 항목 view.do?seq=N
 
   - id: job-alio-intern

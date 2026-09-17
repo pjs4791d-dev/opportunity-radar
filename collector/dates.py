@@ -32,11 +32,21 @@ def _infer_year(m, d, base):
     return cand
 
 
+_D_COMPACT = r"(?<!\d)(20\d{2})(0[1-9]|1[0-2])(0[1-9]|[12]\d|3[01])(?!\d)"
+
+
 def find_dates(text, base=None):
     """텍스트에 나오는 모든 날짜를 등장 순서대로 (date, 위치) 로 반환."""
     out = []
     taken = []
+    for m in re.finditer(_D_COMPACT, text):
+        dt = _mk(*m.groups())
+        if dt:
+            out.append((dt, m.start()))
+            taken.append((m.start(), m.end()))
     for m in re.finditer(_D_FULL, text):
+        if any(a <= m.start() < b for a, b in taken):
+            continue
         dt = _mk(*m.groups())
         if dt:
             out.append((dt, m.start()))

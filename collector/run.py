@@ -88,13 +88,14 @@ def collect_source(src, ctx_get, want_detail, seen, errors, stats):
     if not items:
         raise RuntimeError("파싱 결과 0건 (사이트 구조 변경?)")
     out = []
-    detail_budget = MAX_DETAIL_PER_SOURCE
+    detail_budget = int(src.get("detail_budget") or MAX_DETAIL_PER_SOURCE)
     for it in items:
         pid = make_id(it["url"])
         prev = seen.get(pid)
         is_new = prev is None
         body = ""
-        if want_detail and is_new and detail_budget > 0 and src["method"] == "html":
+        # 신규이거나, 예산 부족으로 아직 본문을 못 읽은 항목은 다음 실행에서 이어서 읽는다
+        if want_detail and detail_budget > 0 and src["method"] == "html" and (is_new or not (prev or {}).get("body_hint")):
             body, err = fetch_detail(it["url"])
             detail_budget -= 1
             stats["detail"] += 1

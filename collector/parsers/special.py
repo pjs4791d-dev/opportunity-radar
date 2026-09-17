@@ -42,15 +42,20 @@ def seoul_youth_detail(text):
     return out
 
 
-def kofia(source, ctx, max_items=60, pages=3):
+def kofia(source, ctx, max_items=300, max_pages=25, days=35):
     """KOFIA 채용안내: tr > td(번호) td(회원사) td.left(제목, a[href=view.do?seq=]) td(파일) td.num(작성일).
-    제목 앵커 HTML 이 깨져 있어(span 안에서 a 시작) td 텍스트를 쓴다. 한 페이지 10건이라 pages 만큼 읽는다(?page=N)."""
+    제목 앵커 HTML 이 깨져 있어(span 안에서 a 시작) td 텍스트를 쓴다.
+    한 페이지 10건. 접수기간이 한 달 넘는 공고가 많아 게시일이 days 일 이전이 나올 때까지 페이지를 넘긴다(?page=N)."""
+    import datetime as _dt
+    cutoff = _dt.date.today() - _dt.timedelta(days=days)
     out, seen_seq = [], set()
-    for page in range(1, pages + 1):
+    for page in range(1, max_pages + 1):
         html = ctx["get"](source["url"] + ("" if page == 1 else f"?page={page}"))
-        s = soup(html)
-        out.extend(_kofia_rows(source, s, seen_seq))
-        if len(out) >= max_items:
+        rows = _kofia_rows(source, soup(html), seen_seq)
+        if not rows:
+            break
+        out.extend(rows)
+        if len(out) >= max_items or any(r["posted"] and r["posted"] < cutoff for r in rows):
             break
     return out[:max_items]
 
