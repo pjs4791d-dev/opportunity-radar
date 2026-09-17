@@ -1,12 +1,12 @@
 {
   "dgu-intern": {
-    "last_success": "2026-09-16T20:33:49+09:00",
+    "last_success": "2026-09-17T10:06:19+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 2
   },
   "dgu-deep-notice": {
-    "last_success": "2026-09-16T20:33:48+09:00",
+    "last_success": "2026-09-17T10:06:19+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 1
@@ -14,23 +14,23 @@
   "dgu-dvic-notice": {
     "last_success": "2026-09-16T20:24:03+09:00",
     "last_error": "RuntimeError: 파싱 결과 0건 (사이트 구조 변경?)",
-    "fail_count": 2,
+    "fail_count": 3,
     "last_count": 0
   },
   "dgu-work-scholarship": {
-    "last_success": "2026-09-16T20:33:49+09:00",
+    "last_success": "2026-09-17T10:06:20+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 3
   },
   "dgu-english": {
-    "last_success": "2026-09-16T20:33:49+09:00",
+    "last_success": "2026-09-17T10:06:20+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 2
   },
   "dgu-library": {
-    "last_success": "2026-09-16T20:33:51+09:00",
+    "last_success": "2026-09-17T10:06:23+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 13
@@ -38,136 +38,136 @@
   "dgu-dvic-programs": {
     "last_success": "2026-09-16T20:24:05+09:00",
     "last_error": "RuntimeError: 파싱 결과 0건 (사이트 구조 변경?)",
-    "fail_count": 2,
+    "fail_count": 3,
     "last_count": 4
   },
   "dgu-edulife": {
-    "last_success": "2026-09-16T20:33:51+09:00",
+    "last_success": "2026-09-17T10:06:21+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 6
   },
   "dgu-business": {
-    "last_success": "2026-09-16T20:33:52+09:00",
+    "last_success": "2026-09-17T10:06:20+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 8
   },
   "dgu-econ": {
-    "last_success": "2026-09-16T20:33:52+09:00",
+    "last_success": "2026-09-17T10:06:21+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 0
   },
   "dgu-campustown-seoul": {
-    "last_success": "2026-09-16T20:33:54+09:00",
+    "last_success": "2026-09-17T10:06:24+09:00",
     "last_error": null,
     "fail_count": 0,
-    "last_count": 0
+    "last_count": 1
   },
   "snu-public-lecture": {
     "last_error": "RuntimeError: 파싱 결과 0건 (사이트 구조 변경?)",
-    "fail_count": 8,
+    "fail_count": 9,
     "last_success": null
   },
   "dgu-general": {
-    "last_success": "2026-09-16T20:33:46+09:00",
+    "last_success": "2026-09-17T10:06:18+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 14
   },
   "dgu-haksa": {
-    "last_success": "2026-09-16T20:33:50+09:00",
+    "last_success": "2026-09-17T10:06:20+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 14
   },
   "dgu-scholarship": {
-    "last_success": "2026-09-16T20:33:48+09:00",
+    "last_success": "2026-09-17T10:06:22+09:00",
     "last_error": null,
     "fail_count": 0,
-    "last_count": 15
+    "last_count": 14
   },
   "snu-startup-notice": {
-    "last_success": "2026-09-16T20:33:54+09:00",
+    "last_success": "2026-09-17T10:06:24+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 4
   },
   "snu-cba": {
-    "last_success": "2026-09-16T20:33:54+09:00",
+    "last_success": "2026-09-17T10:06:27+09:00",
     "last_error": null,
     "fail_count": 0,
-    "last_count": 9
+    "last_count": 10
   },
   "dgu-intl": {
-    "last_success": "2026-09-16T20:33:52+09:00",
+    "last_success": "2026-09-17T10:06:24+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 7
   },
   "snu-general": {
-    "last_success": "2026-09-16T20:33:53+09:00",
+    "last_success": "2026-09-17T10:06:22+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 2
   },
   "snu-events": {
-    "last_success": "2026-09-16T20:33:55+09:00",
+    "last_success": "2026-09-17T10:06:24+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 12
   },
   "yonsei-events": {
-    "last_success": "2026-09-16T20:33:58+09:00",
+    "last_success": "2026-09-17T10:06:28+09:00",
     "last_error": null,
     "fail_count": 0,
-    "last_count": 3
+    "last_count": 2
   },
   "yonsei-ysb": {
-    "last_success": "2026-09-16T20:33:58+09:00",
+    "last_success": "2026-09-17T10:06:28+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 14
   },
   "yonsei-general": {
-    "last_success": "2026-09-16T20:33:56+09:00",
+    "last_success": "2026-09-17T10:06:26+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 13
   },
   "snu-econ": {
-    "last_success": "2026-09-16T20:33:56+09:00",
+    "last_success": "2026-09-17T10:06:33+09:00",
     "last_error": null,
     "fail_count": 0,
-    "last_count": 10
+    "last_count": 9
   },
   "snu-econ-external": {
-    "last_success": "2026-09-16T20:33:58+09:00",
+    "last_success": "2026-09-17T10:06:27+09:00",
     "last_error": null,
     "fail_count": 0,
-    "last_count": 35
+    "last_count": 33
   },
   "yonsei-econ": {
-    "last_success": "2026-09-16T20:33:59+09:00",
+    "last_success": "2026-09-17T10:06:29+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 7
   },
   "korea-event-calendar": {
-    "last_success": "2026-09-16T20:34:01+09:00",
+    "last_success": "2026-09-17T10:06:31+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 1
   },
   "korea-general": {
-    "last_success": "2026-09-16T20:33:59+09:00",
+    "last_success": "2026-09-17T10:06:29+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 9
   },
   "yonsei-venture-notice": {
-    "last_success": "2026-09-16T20:33:58+09:00",
+    "last_success": "2026-09-17T10:06:28+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 4
@@ -175,23 +175,23 @@
   "sogang-general": {
     "last_success": "2026-09-16T20:24:07+09:00",
     "last_error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='www.sogang.ac.kr', port=443): Max retries exceeded with url: /api/api/v1/mainKo/BbsData/boardL): https://www.sogang.ac.kr/api/ap",
-    "fail_count": 2,
+    "fail_count": 3,
     "last_count": 13
   },
   "yonsei-venture-external": {
-    "last_success": "2026-09-16T20:34:00+09:00",
+    "last_success": "2026-09-17T10:06:29+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 9
   },
   "korea-startup": {
-    "last_success": "2026-09-16T20:34:00+09:00",
+    "last_success": "2026-09-17T10:06:34+09:00",
     "last_error": null,
     "fail_count": 0,
-    "last_count": 18
+    "last_count": 19
   },
   "korea-campustown": {
-    "last_success": "2026-09-16T20:34:00+09:00",
+    "last_success": "2026-09-17T10:06:30+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 6
@@ -199,107 +199,107 @@
   "sogang-student": {
     "last_success": "2026-09-16T20:24:09+09:00",
     "last_error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='www.sogang.ac.kr', port=443): Max retries exceeded with url: /api/api/v1/mainKo/BbsData/boardL): https://www.sogang.ac.kr/api/ap",
-    "fail_count": 2,
+    "fail_count": 3,
     "last_count": 0
   },
   "sogang-haksa": {
     "last_success": "2026-09-16T20:24:11+09:00",
     "last_error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='www.sogang.ac.kr', port=443): Max retries exceeded with url: /api/api/v1/mainKo/BbsData/boardL): https://www.sogang.ac.kr/api/ap",
-    "fail_count": 2,
+    "fail_count": 3,
     "last_count": 13
   },
   "skku-library": {
-    "last_success": "2026-09-16T20:34:09+09:00",
+    "last_success": "2026-09-17T10:06:42+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 13
   },
   "korea-library": {
-    "last_success": "2026-09-16T20:34:02+09:00",
+    "last_success": "2026-09-17T10:06:31+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 10
   },
   "korea-biz": {
-    "last_success": "2026-09-16T20:34:02+09:00",
+    "last_success": "2026-09-17T10:06:34+09:00",
     "last_error": null,
     "fail_count": 0,
-    "last_count": 11
+    "last_count": 12
   },
   "sogang-econ": {
     "last_success": "2026-09-16T20:24:07+09:00",
     "last_error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='econ.sogang.ac.kr', port=443): Max retries exceeded with url: /econ/1108/subview.do (Caused by): https://econ.sogang.ac.kr/econ/",
-    "fail_count": 2,
+    "fail_count": 3,
     "last_count": 10
   },
   "sogang-sbs": {
     "last_success": "2026-09-16T20:24:07+09:00",
     "last_error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='sbs.sogang.ac.kr', port=443): Max retries exceeded with url: /sbs/2088/subview.do (Caused by S): https://sbs.sogang.ac.kr/sbs/20",
-    "fail_count": 2,
+    "fail_count": 3,
     "last_count": 10
   },
   "skku-general": {
-    "last_success": "2026-09-16T20:34:07+09:00",
+    "last_success": "2026-09-17T10:06:45+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 0
   },
   "hanyang-startup": {
-    "last_success": "2026-09-16T20:34:14+09:00",
+    "last_success": "2026-09-17T10:06:48+09:00",
     "last_error": null,
     "fail_count": 0,
-    "last_count": 9
+    "last_count": 8
   },
   "skku-biz": {
-    "last_success": "2026-09-16T20:34:14+09:00",
+    "last_success": "2026-09-17T10:06:42+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 0
   },
   "korea-econ-notice": {
-    "last_success": "2026-09-16T20:34:01+09:00",
+    "last_success": "2026-09-17T10:06:32+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 4
   },
   "cau-notice": {
-    "last_success": "2026-09-16T20:34:17+09:00",
+    "last_success": "2026-09-17T10:06:50+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 2
   },
   "skku-econ": {
-    "last_success": "2026-09-16T20:34:34+09:00",
+    "last_success": "2026-09-17T10:07:04+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 0
   },
   "hanyang-general": {
-    "last_success": "2026-09-16T20:34:11+09:00",
+    "last_success": "2026-09-17T10:06:48+09:00",
     "last_error": null,
     "fail_count": 0,
-    "last_count": 17
+    "last_count": 16
   },
   "hanyang-econ": {
-    "last_success": "2026-09-16T20:34:16+09:00",
+    "last_success": "2026-09-17T10:06:54+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 3
   },
   "hanyang-biz": {
-    "last_success": "2026-09-16T20:34:16+09:00",
+    "last_success": "2026-09-17T10:06:48+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 0
   },
   "korea-econ-seminar": {
-    "last_success": "2026-09-16T20:34:03+09:00",
+    "last_success": "2026-09-17T10:06:34+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 10
   },
   "cau-biz": {
-    "last_success": "2026-09-16T20:34:18+09:00",
+    "last_success": "2026-09-17T10:06:49+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 9
@@ -307,425 +307,425 @@
   "cau-econ": {
     "last_success": "2026-09-16T20:24:12+09:00",
     "last_error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='econ.cau.ac.kr', port=443): Max retries exceeded with url: /news/notice/ (Caused by SSLError(S): https://econ.cau.ac.kr/news/not",
-    "fail_count": 2,
+    "fail_count": 3,
     "last_count": 8
   },
   "khu-general": {
-    "last_success": "2026-09-16T20:34:19+09:00",
+    "last_success": "2026-09-17T10:06:54+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 9
   },
   "khu-goodjob": {
-    "last_success": "2026-09-16T20:34:19+09:00",
+    "last_success": "2026-09-17T10:06:51+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 9
   },
   "hufs-library": {
-    "last_success": "2026-09-16T20:34:24+09:00",
+    "last_success": "2026-09-17T10:06:56+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 7
   },
   "khu-econ": {
-    "last_success": "2026-09-16T20:34:21+09:00",
+    "last_success": "2026-09-17T10:06:54+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 7
   },
   "khu-lifelong": {
-    "last_success": "2026-09-16T20:34:22+09:00",
+    "last_success": "2026-09-17T10:06:56+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 1
   },
   "khu-startup-external": {
-    "last_success": "2026-09-16T20:34:21+09:00",
+    "last_success": "2026-09-17T10:06:52+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 6
   },
   "hufs-general": {
-    "last_success": "2026-09-16T20:34:26+09:00",
+    "last_success": "2026-09-17T10:06:56+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 14
   },
   "hufs-job-programs": {
-    "last_success": "2026-09-16T20:34:24+09:00",
+    "last_success": "2026-09-17T10:06:56+09:00",
     "last_error": null,
     "fail_count": 0,
-    "last_count": 2
+    "last_count": 0
   },
   "hufs-startup": {
-    "last_success": "2026-09-16T20:34:29+09:00",
+    "last_success": "2026-09-17T10:06:56+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 1
   },
   "hufs-lifelong": {
-    "last_success": "2026-09-16T20:34:29+09:00",
+    "last_success": "2026-09-17T10:06:58+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 1
   },
   "khu-startup-notice": {
-    "last_success": "2026-09-16T20:34:23+09:00",
+    "last_success": "2026-09-17T10:06:55+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 3
   },
   "uos-startup-center": {
-    "last_success": "2026-09-16T20:34:27+09:00",
+    "last_success": "2026-09-17T10:06:57+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 4
   },
   "hongik-career": {
-    "last_success": "2026-09-16T20:34:36+09:00",
+    "last_success": "2026-09-17T10:07:21+09:00",
     "last_error": null,
     "fail_count": 0,
-    "last_count": 20
+    "last_count": 21
   },
   "uos-startup-notice": {
-    "last_success": "2026-09-16T20:34:27+09:00",
+    "last_success": "2026-09-17T10:06:59+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 9
   },
   "hongik-startup-edu": {
-    "last_success": "2026-09-16T20:34:30+09:00",
+    "last_success": "2026-09-17T10:07:02+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 3
   },
   "uos-general": {
-    "last_success": "2026-09-16T20:34:25+09:00",
+    "last_success": "2026-09-17T10:07:03+09:00",
     "last_error": null,
     "fail_count": 0,
-    "last_count": 15
+    "last_count": 14
   },
   "uos-events": {
-    "last_success": "2026-09-16T20:34:29+09:00",
+    "last_success": "2026-09-17T10:07:01+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 34
   },
   "konkuk-startup-external": {
-    "last_success": "2026-09-16T20:34:34+09:00",
+    "last_success": "2026-09-17T10:07:06+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 1
   },
   "hongik-undergrad": {
-    "last_success": "2026-09-16T20:34:33+09:00",
+    "last_success": "2026-09-17T10:07:04+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 10
   },
   "konkuk-library": {
-    "last_success": "2026-09-16T20:34:36+09:00",
+    "last_success": "2026-09-17T10:07:07+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 12
   },
   "konkuk-startup-internal": {
-    "last_success": "2026-09-16T20:34:36+09:00",
+    "last_success": "2026-09-17T10:07:08+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 1
   },
   "konkuk-general": {
-    "last_success": "2026-09-16T20:34:32+09:00",
+    "last_success": "2026-09-17T10:07:05+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 14
   },
   "hongik-event-contest": {
-    "last_success": "2026-09-16T20:34:29+09:00",
+    "last_success": "2026-09-17T10:07:00+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 10
   },
   "konkuk-job": {
-    "last_success": "2026-09-16T20:34:35+09:00",
+    "last_success": "2026-09-17T10:07:06+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 7
   },
   "hongik-notice": {
-    "last_success": "2026-09-16T20:34:31+09:00",
+    "last_success": "2026-09-17T10:07:02+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 8
   },
   "kookmin-startup": {
-    "last_success": "2026-09-16T20:34:38+09:00",
+    "last_success": "2026-09-17T10:07:09+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 7
   },
   "kookmin-biz": {
-    "last_success": "2026-09-16T20:34:38+09:00",
+    "last_success": "2026-09-17T10:07:18+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 33
   },
   "konkuk-haksa": {
-    "last_success": "2026-09-16T20:34:34+09:00",
+    "last_success": "2026-09-17T10:07:06+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 5
   },
   "ssu-general": {
-    "last_success": "2026-09-16T20:34:38+09:00",
+    "last_success": "2026-09-17T10:07:10+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 14
   },
   "konkuk-intl": {
-    "last_success": "2026-09-16T20:34:36+09:00",
+    "last_success": "2026-09-17T10:07:08+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 4
   },
   "ssu-job-youth": {
-    "last_success": "2026-09-16T20:34:40+09:00",
+    "last_success": "2026-09-17T10:07:12+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 2
   },
   "kookmin-events": {
-    "last_success": "2026-09-16T20:34:42+09:00",
+    "last_success": "2026-09-17T10:07:12+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 7
   },
   "ssu-biz": {
-    "last_success": "2026-09-16T20:34:39+09:00",
+    "last_success": "2026-09-17T10:07:13+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 2
   },
   "ssu-job-programs": {
-    "last_success": "2026-09-16T20:34:40+09:00",
+    "last_success": "2026-09-17T10:07:12+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 6
   },
   "dku-general": {
-    "last_success": "2026-09-16T20:34:42+09:00",
+    "last_success": "2026-09-17T10:07:15+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 1
   },
   "dku-startup": {
-    "last_success": "2026-09-16T20:34:42+09:00",
+    "last_success": "2026-09-17T10:07:17+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 2
   },
   "kookmin-general": {
-    "last_success": "2026-09-16T20:34:37+09:00",
+    "last_success": "2026-09-17T10:07:14+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 19
   },
   "kookmin-lecture": {
-    "last_success": "2026-09-16T20:34:39+09:00",
+    "last_success": "2026-09-17T10:07:10+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 1
   },
   "campustown-programs": {
-    "last_success": "2026-09-16T20:34:44+09:00",
+    "last_success": "2026-09-17T10:07:19+09:00",
     "last_error": null,
     "fail_count": 0,
-    "last_count": 6
+    "last_count": 5
   },
   "sejong-general": {
-    "last_success": "2026-09-16T20:34:40+09:00",
+    "last_success": "2026-09-17T10:07:13+09:00",
     "last_error": null,
     "fail_count": 0,
-    "last_count": 18
+    "last_count": 17
   },
   "sejong-recruit": {
-    "last_success": "2026-09-16T20:34:44+09:00",
+    "last_success": "2026-09-17T10:07:17+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 10
   },
   "campustown-notice": {
-    "last_success": "2026-09-16T20:34:44+09:00",
+    "last_success": "2026-09-17T10:07:20+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 2
   },
   "sejong-job": {
-    "last_success": "2026-09-16T20:34:42+09:00",
+    "last_success": "2026-09-17T10:07:15+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 5
   },
   "seoul-youth-sprt": {
-    "last_success": "2026-09-16T20:34:47+09:00",
+    "last_success": "2026-09-17T10:07:39+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 19
   },
   "sejong-intl": {
-    "last_success": "2026-09-16T20:34:46+09:00",
+    "last_success": "2026-09-17T10:07:19+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 9
   },
   "seoul-orang": {
-    "last_success": "2026-09-16T20:34:49+09:00",
+    "last_success": "2026-09-17T10:07:28+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 20
   },
   "seoul-youth-notice": {
-    "last_success": "2026-09-16T20:34:51+09:00",
+    "last_success": "2026-09-17T10:07:24+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 2
   },
   "sesac-offline": {
-    "last_success": "2026-09-16T20:34:58+09:00",
+    "last_success": "2026-09-17T10:07:50+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 3
   },
   "sba-ongoing": {
-    "last_success": "2026-09-16T20:34:49+09:00",
+    "last_success": "2026-09-17T10:07:26+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 10
   },
   "kstartup-ongoing": {
-    "last_success": "2026-09-16T20:34:50+09:00",
+    "last_success": "2026-09-17T10:07:44+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 27
   },
   "startupall-events": {
-    "last_success": "2026-09-16T20:34:50+09:00",
+    "last_success": "2026-09-17T10:07:26+09:00",
     "last_error": null,
     "fail_count": 0,
-    "last_count": 2
+    "last_count": 1
   },
   "dcamp-notice": {
-    "last_success": "2026-09-16T20:34:49+09:00",
+    "last_success": "2026-09-17T10:07:25+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 1
   },
   "kb-sec-recruit": {
-    "last_success": "2026-09-16T20:34:53+09:00",
+    "last_success": "2026-09-17T10:07:31+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 3
   },
   "fulbright-news": {
-    "last_success": "2026-09-16T20:34:51+09:00",
+    "last_success": "2026-09-17T10:07:28+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 0
   },
   "kita-notice": {
-    "last_success": "2026-09-16T20:34:52+09:00",
+    "last_success": "2026-09-17T10:07:28+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 8
   },
   "sitedu-apply": {
-    "last_success": "2026-09-16T20:35:05+09:00",
+    "last_success": "2026-09-17T10:07:50+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 3
   },
   "kofia-recruit": {
-    "last_success": "2026-09-16T20:34:54+09:00",
+    "last_success": "2026-09-17T10:07:40+09:00",
     "last_error": null,
     "fail_count": 0,
-    "last_count": 8
+    "last_count": 9
   },
   "job-alio-intern": {
-    "last_success": "2026-09-16T20:34:54+09:00",
+    "last_success": "2026-09-17T10:07:36+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 9
   },
   "sitedu-local": {
-    "last_success": "2026-09-16T20:35:07+09:00",
+    "last_success": "2026-09-17T10:07:52+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 1
   },
   "shinhan-recruit": {
-    "last_success": "2026-09-16T20:34:52+09:00",
+    "last_success": "2026-09-17T10:07:29+09:00",
     "last_error": null,
     "fail_count": 0,
-    "last_count": 16
+    "last_count": 15
   },
   "koscom-recruit": {
-    "last_success": "2026-09-16T20:34:53+09:00",
+    "last_success": "2026-09-17T10:07:32+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 0
   },
   "mktest-notice": {
-    "last_success": "2026-09-16T20:34:56+09:00",
+    "last_success": "2026-09-17T10:07:35+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 8
   },
   "kofta-notice": {
-    "last_success": "2026-09-16T20:35:10+09:00",
+    "last_success": "2026-09-17T10:07:54+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 1
   },
   "jbedu-notice": {
-    "last_success": "2026-09-16T20:35:03+09:00",
+    "last_success": "2026-09-17T10:07:51+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 0
   },
   "work24-training": {
-    "last_success": "2026-09-16T20:35:17+09:00",
+    "last_success": "2026-09-17T10:08:20+09:00",
     "last_error": null,
     "fail_count": 0,
-    "last_count": 62
+    "last_count": 70
   },
   "youth-work-exp": {
-    "last_success": "2026-09-16T20:35:10+09:00",
+    "last_success": "2026-09-17T10:07:54+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 12
   },
   "kopo-jungsu-hitech": {
-    "last_success": "2026-09-16T20:35:08+09:00",
+    "last_success": "2026-09-17T10:07:52+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 0
   },
   "dbedu-notice": {
-    "last_success": "2026-09-16T20:35:08+09:00",
+    "last_success": "2026-09-17T10:07:53+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 20
   },
   "dbedu-apply": {
-    "last_success": "2026-09-16T20:35:10+09:00",
+    "last_success": "2026-09-17T10:07:53+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 20
   },
   "kopo-kangseo-notice": {
-    "last_success": "2026-09-16T20:35:12+09:00",
+    "last_success": "2026-09-17T10:07:57+09:00",
     "last_error": null,
     "fail_count": 0,
     "last_count": 2
