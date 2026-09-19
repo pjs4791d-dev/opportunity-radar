@@ -4,79 +4,159 @@
     "name": "서울대 나눔SNU 대중강연·문화행사",
     "url": "https://www.snu.ac.kr/about/sharing-snu/public-lecture",
     "error": "RuntimeError: 파싱 결과 0건 (사이트 구조 변경?)",
-    "at": "2026-09-18T22:18:55+09:00",
-    "fail_count": 14
+    "at": "2026-09-19T10:00:14+09:00",
+    "fail_count": 15
   },
   {
     "source_id": "dgu-dvic-notice",
     "name": "동국대 창업기술본부 공지사항",
     "url": "https://dvic.dongguk.edu/dvic5_7",
     "error": "RuntimeError: 파싱 결과 0건 (사이트 구조 변경?)",
-    "at": "2026-09-18T22:18:41+09:00",
-    "fail_count": 8
+    "at": "2026-09-19T10:00:05+09:00",
+    "fail_count": 9
   },
   {
     "source_id": "dgu-dvic-programs",
     "name": "동국대 창업기술본부 사업모집공고",
     "url": "https://dvic.dongguk.edu/dvic2_2",
     "error": "RuntimeError: 파싱 결과 0건 (사이트 구조 변경?)",
-    "at": "2026-09-18T22:18:43+09:00",
-    "fail_count": 8
-  },
-  {
-    "source_id": "sogang-econ",
-    "name": "서강대 경제대학 공지",
-    "url": "https://econ.sogang.ac.kr/econ/1108/subview.do",
-    "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='econ.sogang.ac.kr', port=443): Max retries exceeded with url: /econ/1108/subview.do (Caused by): https://econ.sogang.ac.kr/econ/",
-    "at": "2026-09-18T22:19:17+09:00",
-    "fail_count": 8
+    "at": "2026-09-19T10:00:07+09:00",
+    "fail_count": 9
   },
   {
     "source_id": "sogang-sbs",
     "name": "서강대 경영대학 학부 공지",
     "url": "https://sbs.sogang.ac.kr/sbs/2088/subview.do",
     "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='sbs.sogang.ac.kr', port=443): Max retries exceeded with url: /sbs/2088/subview.do (Caused by S): https://sbs.sogang.ac.kr/sbs/20",
-    "at": "2026-09-18T22:19:17+09:00",
-    "fail_count": 8
+    "at": "2026-09-19T10:00:31+09:00",
+    "fail_count": 9
   },
   {
     "source_id": "sogang-general",
     "name": "서강대 일반공지",
     "url": "https://www.sogang.ac.kr/api/api/v1/mainKo/BbsData/boardList?pageNum=1&pageSize=20&bbsConfigFk=1",
     "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='www.sogang.ac.kr', port=443): Max retries exceeded with url: /api/api/v1/mainKo/BbsData/boardL): https://www.sogang.ac.kr/api/ap",
-    "at": "2026-09-18T22:19:21+09:00",
-    "fail_count": 8
+    "at": "2026-09-19T10:00:33+09:00",
+    "fail_count": 9
+  },
+  {
+    "source_id": "sogang-econ",
+    "name": "서강대 경제대학 공지",
+    "url": "https://econ.sogang.ac.kr/econ/1108/subview.do",
+    "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='econ.sogang.ac.kr', port=443): Max retries exceeded with url: /econ/1108/subview.do (Caused by): https://econ.sogang.ac.kr/econ/",
+    "at": "2026-09-19T10:00:33+09:00",
+    "fail_count": 9
   },
   {
     "source_id": "sogang-student",
     "name": "서강대 학생 일반공지",
     "url": "https://www.sogang.ac.kr/api/api/v1/mainKo/BbsData/boardList?pageNum=1&pageSize=20&bbsConfigFk=34",
     "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='www.sogang.ac.kr', port=443): Max retries exceeded with url: /api/api/v1/mainKo/BbsData/boardL): https://www.sogang.ac.kr/api/ap",
-    "at": "2026-09-18T22:19:23+09:00",
-    "fail_count": 8
+    "at": "2026-09-19T10:00:37+09:00",
+    "fail_count": 9
   },
   {
     "source_id": "sogang-haksa",
     "name": "서강대 학부 학사공지",
     "url": "https://www.sogang.ac.kr/api/api/v1/mainKo/BbsData/boardList?pageNum=1&pageSize=20&bbsConfigFk=2",
     "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='www.sogang.ac.kr', port=443): Max retries exceeded with url: /api/api/v1/mainKo/BbsData/boardL): https://www.sogang.ac.kr/api/ap",
-    "at": "2026-09-18T22:19:25+09:00",
-    "fail_count": 8
+    "at": "2026-09-19T10:00:39+09:00",
+    "fail_count": 9
   },
   {
     "source_id": "cau-econ",
     "name": "중앙대 경제학부 공지",
     "url": "https://econ.cau.ac.kr/news/notice/",
     "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='econ.cau.ac.kr', port=443): Max retries exceeded with url: /news/notice/ (Caused by SSLError(S): https://econ.cau.ac.kr/news/not",
-    "at": "2026-09-18T22:19:34+09:00",
-    "fail_count": 8
+    "at": "2026-09-19T10:00:52+09:00",
+    "fail_count": 9
   },
   {
     "source_id": "job-alio-intern",
     "name": "잡알리오 청년인턴(체험형·채용형) 공고",
     "url": "https://job.alio.go.kr/recruit.do?work_type=R1060&work_type=R1070&ing=Y&pageNo=1",
     "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='job.alio.go.kr', port=443): Max retries exceeded with url: /recruit.do?work_type=R1060&work_ty): https://job.alio.go.kr/recruit.",
-    "at": "2026-09-18T22:23:39+09:00",
-    "fail_count": 2
+    "at": "2026-09-19T10:07:19+09:00",
+    "fail_count": 3
+  },
+  {
+    "source_id": "snu-events",
+    "name": "서울대 SNU 캘린더 (전체 행사)",
+    "url": "https://www.snu.ac.kr/snunow/events",
+    "error": "RuntimeError: 파싱 결과 0건 (사이트 구조 변경?)",
+    "at": "2026-09-19T10:00:12+09:00",
+    "fail_count": 1
+  },
+  {
+    "source_id": "dgu-campustown-seoul",
+    "name": "동국대 캠퍼스타운 (서울캠퍼스타운 포털)",
+    "url": "https://campustown.seoul.go.kr/site/main/university/university_news?univId=dep10011",
+    "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='campustown.seoul.go.kr', port=443): Max retries exceeded with url: /site/main/university/unive): https://campustown.seoul.go.kr/",
+    "at": "2026-09-19T10:02:52+09:00",
+    "fail_count": 1
+  },
+  {
+    "source_id": "uos-general",
+    "name": "서울시립대 일반공지",
+    "url": "https://www.uos.ac.kr/korNotice/list.do?list_id=FA1&identified=anonymous",
+    "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='www.uos.ac.kr', port=443): Max retries exceeded with url: /korNotice/list.do?list_id=FA1&ident): https://www.uos.ac.kr/korNotice",
+    "at": "2026-09-19T10:03:40+09:00",
+    "fail_count": 1
+  },
+  {
+    "source_id": "uos-startup-notice",
+    "name": "서울시립대 창업공지 (UOS공지)",
+    "url": "https://www.uos.ac.kr/korColumn/list.do?list_id=FA35&identified=anonymous",
+    "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='www.uos.ac.kr', port=443): Max retries exceeded with url: /korColumn/list.do?list_id=FA35&iden): https://www.uos.ac.kr/korColumn",
+    "at": "2026-09-19T10:03:43+09:00",
+    "fail_count": 1
+  },
+  {
+    "source_id": "uos-events",
+    "name": "서울시립대 행사안내",
+    "url": "https://www.uos.ac.kr/korCalendarMonth/list.do?list_id=FA3&identified=anonymous",
+    "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='www.uos.ac.kr', port=443): Max retries exceeded with url: /korCalendarMonth/list.do?list_id=FA): https://www.uos.ac.kr/korCalend",
+    "at": "2026-09-19T10:03:44+09:00",
+    "fail_count": 1
+  },
+  {
+    "source_id": "seoul-youth-sprt",
+    "name": "청년몽땅정보통 지원사업(프로그램) 목록",
+    "url": "https://youth.seoul.go.kr/infoData/sprtInfo/list.do?orderBy=regYmd+desc&recordCountPerPage=20",
+    "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='youth.seoul.go.kr', port=443): Max retries exceeded with url: /infoData/sprtInfo/list.do?order): https://youth.seoul.go.kr/infoD",
+    "at": "2026-09-19T10:04:37+09:00",
+    "fail_count": 1
+  },
+  {
+    "source_id": "seoul-youth-notice",
+    "name": "청년몽땅정보통 청년정책 공지사항",
+    "url": "https://youth.seoul.go.kr/bbs/list.do?key=2303300002&sc_bbsCtgrySn=2304110001",
+    "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='youth.seoul.go.kr', port=443): Max retries exceeded with url: /bbs/list.do?key=2303300002&sc_b): https://youth.seoul.go.kr/bbs/l",
+    "at": "2026-09-19T10:04:39+09:00",
+    "fail_count": 1
+  },
+  {
+    "source_id": "seoul-orang",
+    "name": "서울청년센터(오랑) 프로그램 신청",
+    "url": "https://youth.seoul.go.kr/orang/infoData/sprtInfo/list.do?key=2309210005&orderBy=regYmd+desc&recordCountPerPage=20",
+    "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='youth.seoul.go.kr', port=443): Max retries exceeded with url: /orang/infoData/sprtInfo/list.do): https://youth.seoul.go.kr/orang",
+    "at": "2026-09-19T10:05:23+09:00",
+    "fail_count": 1
+  },
+  {
+    "source_id": "campustown-programs",
+    "name": "서울캠퍼스타운 캠타프로그램 (전 대학 통합)",
+    "url": "https://campustown.seoul.go.kr/site/main/board/university_news/list",
+    "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='campustown.seoul.go.kr', port=443): Max retries exceeded with url: /site/main/board/university): https://campustown.seoul.go.kr/",
+    "at": "2026-09-19T10:06:13+09:00",
+    "fail_count": 1
+  },
+  {
+    "source_id": "campustown-notice",
+    "name": "서울캠퍼스타운 공지사항",
+    "url": "https://campustown.seoul.go.kr/site/main/board/sct_news/list",
+    "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='campustown.seoul.go.kr', port=443): Max retries exceeded with url: /site/main/board/sct_news/l): https://campustown.seoul.go.kr/",
+    "at": "2026-09-19T10:06:14+09:00",
+    "fail_count": 1
   }
 ]
