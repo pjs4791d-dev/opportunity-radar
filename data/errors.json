@@ -4,87 +4,151 @@
     "name": "서울대 나눔SNU 대중강연·문화행사",
     "url": "https://www.snu.ac.kr/about/sharing-snu/public-lecture",
     "error": "RuntimeError: 파싱 결과 0건 (사이트 구조 변경?)",
-    "at": "2026-09-20T22:24:05+09:00",
-    "fail_count": 18
+    "at": "2026-09-21T09:52:44+09:00",
+    "fail_count": 19
   },
   {
     "source_id": "dgu-dvic-notice",
     "name": "동국대 창업기술본부 공지사항",
     "url": "https://dvic.dongguk.edu/dvic5_7",
     "error": "RuntimeError: 파싱 결과 0건 (사이트 구조 변경?)",
-    "at": "2026-09-20T22:23:58+09:00",
-    "fail_count": 12
+    "at": "2026-09-21T09:52:32+09:00",
+    "fail_count": 13
   },
   {
     "source_id": "dgu-dvic-programs",
     "name": "동국대 창업기술본부 사업모집공고",
     "url": "https://dvic.dongguk.edu/dvic2_2",
     "error": "RuntimeError: 파싱 결과 0건 (사이트 구조 변경?)",
-    "at": "2026-09-20T22:24:00+09:00",
-    "fail_count": 12
+    "at": "2026-09-21T09:52:34+09:00",
+    "fail_count": 13
   },
   {
     "source_id": "sogang-sbs",
     "name": "서강대 경영대학 학부 공지",
     "url": "https://sbs.sogang.ac.kr/sbs/2088/subview.do",
     "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='sbs.sogang.ac.kr', port=443): Max retries exceeded with url: /sbs/2088/subview.do (Caused by S): https://sbs.sogang.ac.kr/sbs/20",
-    "at": "2026-09-20T22:24:24+09:00",
-    "fail_count": 12
+    "at": "2026-09-21T09:52:54+09:00",
+    "fail_count": 13
   },
   {
     "source_id": "sogang-econ",
     "name": "서강대 경제대학 공지",
     "url": "https://econ.sogang.ac.kr/econ/1108/subview.do",
     "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='econ.sogang.ac.kr', port=443): Max retries exceeded with url: /econ/1108/subview.do (Caused by): https://econ.sogang.ac.kr/econ/",
-    "at": "2026-09-20T22:24:24+09:00",
-    "fail_count": 12
+    "at": "2026-09-21T09:52:55+09:00",
+    "fail_count": 13
   },
   {
     "source_id": "sogang-general",
     "name": "서강대 일반공지",
     "url": "https://www.sogang.ac.kr/api/api/v1/mainKo/BbsData/boardList?pageNum=1&pageSize=20&bbsConfigFk=1",
     "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='www.sogang.ac.kr', port=443): Max retries exceeded with url: /api/api/v1/mainKo/BbsData/boardL): https://www.sogang.ac.kr/api/ap",
-    "at": "2026-09-20T22:24:28+09:00",
-    "fail_count": 12
+    "at": "2026-09-21T09:52:58+09:00",
+    "fail_count": 13
   },
   {
     "source_id": "sogang-student",
     "name": "서강대 학생 일반공지",
     "url": "https://www.sogang.ac.kr/api/api/v1/mainKo/BbsData/boardList?pageNum=1&pageSize=20&bbsConfigFk=34",
     "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='www.sogang.ac.kr', port=443): Max retries exceeded with url: /api/api/v1/mainKo/BbsData/boardL): https://www.sogang.ac.kr/api/ap",
-    "at": "2026-09-20T22:24:30+09:00",
-    "fail_count": 12
+    "at": "2026-09-21T09:52:59+09:00",
+    "fail_count": 13
   },
   {
     "source_id": "sogang-haksa",
     "name": "서강대 학부 학사공지",
     "url": "https://www.sogang.ac.kr/api/api/v1/mainKo/BbsData/boardList?pageNum=1&pageSize=20&bbsConfigFk=2",
     "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='www.sogang.ac.kr', port=443): Max retries exceeded with url: /api/api/v1/mainKo/BbsData/boardL): https://www.sogang.ac.kr/api/ap",
-    "at": "2026-09-20T22:24:31+09:00",
-    "fail_count": 12
+    "at": "2026-09-21T09:53:04+09:00",
+    "fail_count": 13
   },
   {
     "source_id": "cau-econ",
     "name": "중앙대 경제학부 공지",
     "url": "https://econ.cau.ac.kr/news/notice/",
     "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='econ.cau.ac.kr', port=443): Max retries exceeded with url: /news/notice/ (Caused by SSLError(S): https://econ.cau.ac.kr/news/not",
-    "at": "2026-09-20T22:24:42+09:00",
-    "fail_count": 12
-  },
-  {
-    "source_id": "hanyang-biz",
-    "name": "한양대 경영대학 공지사항",
-    "url": "https://biz.hanyang.ac.kr/-28",
-    "error": "RuntimeError: 요청 실패(HTTP 503): https://biz.hanyang.ac.kr/-28",
-    "at": "2026-09-20T22:25:22+09:00",
-    "fail_count": 2
+    "at": "2026-09-21T09:53:09+09:00",
+    "fail_count": 13
   },
   {
     "source_id": "job-alio-intern",
     "name": "잡알리오 청년인턴(체험형·채용형) 공고",
     "url": "https://job.alio.go.kr/recruit.do?work_type=R1060&work_type=R1070&ing=Y&pageNo=1",
     "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='job.alio.go.kr', port=443): Max retries exceeded with url: /recruit.do?work_type=R1060&work_ty): https://job.alio.go.kr/recruit.",
-    "at": "2026-09-20T22:28:26+09:00",
+    "at": "2026-09-21T09:59:34+09:00",
+    "fail_count": 2
+  },
+  {
+    "source_id": "konkuk-general",
+    "name": "건국대 일반공지",
+    "url": "https://www.konkuk.ac.kr/konkuk/2244/subview.do",
+    "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='www.konkuk.ac.kr', port=443): Max retries exceeded with url: /konkuk/2244/subview.do (Caused b): https://www.konkuk.ac.kr/konkuk",
+    "at": "2026-09-21T09:56:05+09:00",
+    "fail_count": 1
+  },
+  {
+    "source_id": "konkuk-haksa",
+    "name": "건국대 학사공지",
+    "url": "https://www.konkuk.ac.kr/konkuk/2238/subview.do",
+    "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='www.konkuk.ac.kr', port=443): Max retries exceeded with url: /konkuk/2238/subview.do (Caused b): https://www.konkuk.ac.kr/konkuk",
+    "at": "2026-09-21T09:56:07+09:00",
+    "fail_count": 1
+  },
+  {
+    "source_id": "konkuk-intl",
+    "name": "건국대 국제공지",
+    "url": "https://www.konkuk.ac.kr/konkuk/2241/subview.do",
+    "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='www.konkuk.ac.kr', port=443): Max retries exceeded with url: /konkuk/2241/subview.do (Caused b): https://www.konkuk.ac.kr/konkuk",
+    "at": "2026-09-21T09:56:12+09:00",
+    "fail_count": 1
+  },
+  {
+    "source_id": "konkuk-job",
+    "name": "건국대 학생취업처(대학일자리플러스사업단) 소식",
+    "url": "https://job.konkuk.ac.kr/job/18018/subview.do",
+    "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='job.konkuk.ac.kr', port=443): Max retries exceeded with url: /job/18018/subview.do (Caused by ): https://job.konkuk.ac.kr/job/18",
+    "at": "2026-09-21T09:56:24+09:00",
+    "fail_count": 1
+  },
+  {
+    "source_id": "konkuk-startup-external",
+    "name": "건국대 창업지원단 외부사업공고",
+    "url": "https://startup.konkuk.ac.kr/BoardList.do?menuSeq=43850&configSeq=51126",
+    "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='startup.konkuk.ac.kr', port=443): Max retries exceeded with url: /BoardList.do?menuSeq=43850&c): https://startup.konkuk.ac.kr/Bo",
+    "at": "2026-09-21T09:56:47+09:00",
+    "fail_count": 1
+  },
+  {
+    "source_id": "konkuk-startup-internal",
+    "name": "건국대 창업지원단 내부사업공고",
+    "url": "https://startup.konkuk.ac.kr/BoardList.do?menuSeq=43842&configSeq=51096",
+    "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='startup.konkuk.ac.kr', port=443): Max retries exceeded with url: /BoardList.do?menuSeq=43842&c): https://startup.konkuk.ac.kr/Bo",
+    "at": "2026-09-21T09:56:49+09:00",
+    "fail_count": 1
+  },
+  {
+    "source_id": "konkuk-library",
+    "name": "건국대 상허기념도서관 공지",
+    "url": "https://library.konkuk.ac.kr/pyxis-api/1/bulletin-boards/1/bulletins?max=20",
+    "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='library.konkuk.ac.kr', port=443): Max retries exceeded with url: /pyxis-api/1/bulletin-boards/): https://library.konkuk.ac.kr/py",
+    "at": "2026-09-21T09:58:45+09:00",
+    "fail_count": 1
+  },
+  {
+    "source_id": "work24-training",
+    "name": "고용24 국민내일배움카드 훈련과정 검색 (서울, 키워드별)",
+    "url": "https://www.work24.go.kr/hr/a/a/1100/trnnCrsInf.do?dghtSe=A&traingMthCd=A&trng_prd=A&pageSize=20&totamtSuptYn=A&keyword={keyword}&area=11%7C%EC%84%9C%EC%9A%B8+%EC%A0%84%EC%B2%B4&orderKey=2&srchType=all_type&crseTracseSe=A%7C%ED%9B%88%EB%A0%A8%EC%9C%A0%ED%98%95+%EC%A0%84%EC%B2%B4&trng_type=A&pageId=2&noTrngPay=Y&pageOrder=2ASC&startDate={today}&endDate={today+1y}&tracseTme=6&orderBy=ASC&currentTab=1&pageRow=20&keywordType=1&totTraingTime=A&i2=A&programMenuIdentification=EBG020000000310&pageIndex=1&action=trnnCrsInfPost.do",
+    "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='www.work24.go.kr', port=443): Max retries exceeded with url: /hr/a/a/1100/trnnCrsInf.do?dghtSe): https://www.work24.go.kr/hr/a/a",
+    "at": "2026-09-21T09:59:37+09:00",
+    "fail_count": 1
+  },
+  {
+    "source_id": "youth-work-exp",
+    "name": "청년일경험 포털 주관기관별 일경험 사업",
+    "url": "https://yw.work24.go.kr/c/b/selectWkexBizList.do",
+    "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='yw.work24.go.kr', port=443): Max retries exceeded with url: /c/b/selectWkexBizList.do (Caused ): https://yw.work24.go.kr/c/b/sel",
+    "at": "2026-09-21T10:00:21+09:00",
     "fail_count": 1
   }
 ]
