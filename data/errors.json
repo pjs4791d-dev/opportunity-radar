@@ -4,79 +4,79 @@
     "name": "서울대 나눔SNU 대중강연·문화행사",
     "url": "https://www.snu.ac.kr/about/sharing-snu/public-lecture",
     "error": "RuntimeError: 파싱 결과 0건 (사이트 구조 변경?)",
-    "at": "2026-09-22T10:27:54+09:00",
-    "fail_count": 21
+    "at": "2026-09-22T22:50:22+09:00",
+    "fail_count": 22
   },
   {
     "source_id": "dgu-dvic-notice",
     "name": "동국대 창업기술본부 공지사항",
     "url": "https://dvic.dongguk.edu/dvic5_7",
     "error": "RuntimeError: 파싱 결과 0건 (사이트 구조 변경?)",
-    "at": "2026-09-22T10:27:42+09:00",
-    "fail_count": 15
+    "at": "2026-09-22T22:50:05+09:00",
+    "fail_count": 16
   },
   {
     "source_id": "dgu-dvic-programs",
     "name": "동국대 창업기술본부 사업모집공고",
     "url": "https://dvic.dongguk.edu/dvic2_2",
     "error": "RuntimeError: 파싱 결과 0건 (사이트 구조 변경?)",
-    "at": "2026-09-22T10:27:44+09:00",
-    "fail_count": 15
+    "at": "2026-09-22T22:50:07+09:00",
+    "fail_count": 16
   },
   {
     "source_id": "sogang-econ",
     "name": "서강대 경제대학 공지",
     "url": "https://econ.sogang.ac.kr/econ/1108/subview.do",
     "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='econ.sogang.ac.kr', port=443): Max retries exceeded with url: /econ/1108/subview.do (Caused by): https://econ.sogang.ac.kr/econ/",
-    "at": "2026-09-22T10:28:14+09:00",
-    "fail_count": 15
+    "at": "2026-09-22T22:50:47+09:00",
+    "fail_count": 16
   },
   {
     "source_id": "sogang-sbs",
     "name": "서강대 경영대학 학부 공지",
     "url": "https://sbs.sogang.ac.kr/sbs/2088/subview.do",
     "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='sbs.sogang.ac.kr', port=443): Max retries exceeded with url: /sbs/2088/subview.do (Caused by S): https://sbs.sogang.ac.kr/sbs/20",
-    "at": "2026-09-22T10:28:15+09:00",
-    "fail_count": 15
+    "at": "2026-09-22T22:50:47+09:00",
+    "fail_count": 16
   },
   {
     "source_id": "sogang-general",
     "name": "서강대 일반공지",
     "url": "https://www.sogang.ac.kr/api/api/v1/mainKo/BbsData/boardList?pageNum=1&pageSize=20&bbsConfigFk=1",
     "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='www.sogang.ac.kr', port=443): Max retries exceeded with url: /api/api/v1/mainKo/BbsData/boardL): https://www.sogang.ac.kr/api/ap",
-    "at": "2026-09-22T10:28:20+09:00",
-    "fail_count": 15
+    "at": "2026-09-22T22:50:48+09:00",
+    "fail_count": 16
   },
   {
     "source_id": "sogang-student",
     "name": "서강대 학생 일반공지",
     "url": "https://www.sogang.ac.kr/api/api/v1/mainKo/BbsData/boardList?pageNum=1&pageSize=20&bbsConfigFk=34",
     "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='www.sogang.ac.kr', port=443): Max retries exceeded with url: /api/api/v1/mainKo/BbsData/boardL): https://www.sogang.ac.kr/api/ap",
-    "at": "2026-09-22T10:28:23+09:00",
-    "fail_count": 15
+    "at": "2026-09-22T22:50:52+09:00",
+    "fail_count": 16
   },
   {
     "source_id": "sogang-haksa",
     "name": "서강대 학부 학사공지",
     "url": "https://www.sogang.ac.kr/api/api/v1/mainKo/BbsData/boardList?pageNum=1&pageSize=20&bbsConfigFk=2",
     "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='www.sogang.ac.kr', port=443): Max retries exceeded with url: /api/api/v1/mainKo/BbsData/boardL): https://www.sogang.ac.kr/api/ap",
-    "at": "2026-09-22T10:28:24+09:00",
-    "fail_count": 15
+    "at": "2026-09-22T22:50:54+09:00",
+    "fail_count": 16
   },
   {
     "source_id": "cau-econ",
     "name": "중앙대 경제학부 공지",
     "url": "https://econ.cau.ac.kr/news/notice/",
     "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='econ.cau.ac.kr', port=443): Max retries exceeded with url: /news/notice/ (Caused by SSLError(S): https://econ.cau.ac.kr/news/not",
-    "at": "2026-09-22T10:28:32+09:00",
-    "fail_count": 15
+    "at": "2026-09-22T22:51:00+09:00",
+    "fail_count": 16
   },
   {
-    "source_id": "shinhan-recruit",
-    "name": "신한투자증권 인재채용 공고",
-    "url": "https://recruit.shinhaninvest.com/recruit/list.do",
-    "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='recruit.shinhaninvest.com', port=443): Max retries exceeded with url: /recruit/list.do (Caused): https://recruit.shinhaninvest.c",
-    "at": "2026-09-22T10:32:13+09:00",
+    "source_id": "job-alio-intern",
+    "name": "잡알리오 청년인턴(체험형·채용형) 공고",
+    "url": "https://job.alio.go.kr/recruit.do?work_type=R1060&work_type=R1070&ing=Y&pageNo=1",
+    "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='job.alio.go.kr', port=443): Max retries exceeded with url: /recruit.do?work_type=R1060&work_ty): https://job.alio.go.kr/recruit.",
+    "at": "2026-09-22T22:55:30+09:00",
     "fail_count": 1
   }
 ]
