@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T01:45:33+09:00",
-  "count": 1589,
+  "generated_at": "2026-10-14T10:43:03+09:00",
+  "count": 1644,
   "user": {
     "university": "동국대",
     "expected_graduation": null
@@ -175,7 +175,7 @@
     },
     {
       "id": "e0e8c49b77fd",
-      "title": "[더제이자산운용] 마케팅팀 인턴~대리 채용공고",
+      "title": "[더제이자산운용] 마케팅팀 인턴~대리 채용공고 (마감완료)",
       "org": "더제이자산운용",
       "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42542",
       "section": "finance",
@@ -203,7 +203,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "더제이자산운용 [더제이자산운용] 마케팅팀 인턴~대리 채용공고",
+      "benefit": "더제이자산운용 [더제이자산운용] 마케팅팀 인턴~대리 채용공고 (마감완료)",
       "also_at": []
     },
     {
@@ -472,6 +472,72 @@
       "location": null,
       "state": null,
       "benefit": "미래에셋자산운용 [미래에셋자산운용] 디지털마케팅부문 마케팅지원팀 신입(정규직 전환형 인턴사원) 채용",
+      "also_at": []
+    },
+    {
+      "id": "7d9f13fe5eea",
+      "title": "[메리츠증권] 부산금융센터 아르바이트 채용",
+      "org": "메리츠증권",
+      "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42653",
+      "section": "finance",
+      "category": "채용·인턴",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "공개 공고",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": "2026-10-16",
+      "event_date": null,
+      "source_id": "kofia-recruit",
+      "university": null,
+      "group": "증권업",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 97,
+      "keywords": [
+        "증권업",
+        "채용·인턴"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "메리츠증권 [메리츠증권] 부산금융센터 아르바이트 채용",
+      "also_at": []
+    },
+    {
+      "id": "82eb3e35aeb0",
+      "title": "[IBK투자증권] 멀티에셋운용부(RP운용) 채용 공고",
+      "org": "IBK투자증권",
+      "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42655",
+      "section": "finance",
+      "category": "채용·인턴",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "공개 공고",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": "2026-10-14",
+      "event_date": null,
+      "source_id": "kofia-recruit",
+      "university": null,
+      "group": "증권업",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 97,
+      "keywords": [
+        "증권업",
+        "채용·인턴"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "IBK투자증권 [IBK투자증권] 멀티에셋운용부(RP운용) 채용 공고",
       "also_at": []
     },
     {
@@ -1066,6 +1132,72 @@
       "location": null,
       "state": null,
       "benefit": "270 한국수출입은행 2026년 하반기 장애인 청년인턴 채용 한국수출입은행 서울 외 1 청년인턴(체험형) 2026.10.13 26.10.27 D-13 진행중",
+      "also_at": []
+    },
+    {
+      "id": "79a5ddc4af71",
+      "title": "[신영자산운용] 2026년 하반기 신입사원 채용공고",
+      "org": "신영자산운용",
+      "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42658",
+      "section": "finance",
+      "category": "채용·인턴",
+      "subcategory": "신입",
+      "eligibility": "yes",
+      "eligibility_reason": "공개 공고",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": "2026-11-08",
+      "event_date": null,
+      "source_id": "kofia-recruit",
+      "university": null,
+      "group": "증권업",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 93,
+      "keywords": [
+        "증권업",
+        "채용·인턴"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "신영자산운용 [신영자산운용] 2026년 하반기 신입사원 채용공고",
+      "also_at": []
+    },
+    {
+      "id": "e69f621b2862",
+      "title": "[KB증권] 연금자산관리센터 I/B고객상담 단기계약직원 채용 공고 안내",
+      "org": "KB증권",
+      "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42659",
+      "section": "finance",
+      "category": "채용·인턴",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "공개 공고",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": "2026-10-19",
+      "event_date": null,
+      "source_id": "kofia-recruit",
+      "university": null,
+      "group": "증권업",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 93,
+      "keywords": [
+        "증권업",
+        "채용·인턴"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "KB증권 [KB증권] 연금자산관리센터 I/B고객상담 단기계약직원 채용 공고 안내",
       "also_at": []
     },
     {
@@ -1827,6 +1959,105 @@
       "location": null,
       "state": null,
       "benefit": "현대차증권 [현대차증권] 퇴직연금 상품 담당자(경력) 채용",
+      "also_at": []
+    },
+    {
+      "id": "68d5b886d909",
+      "title": "[IBK투자증권] 리스크관리부(부서장) 채용 공고",
+      "org": "IBK투자증권",
+      "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42654",
+      "section": "finance",
+      "category": "채용·인턴",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "공개 공고",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": "2026-10-25",
+      "event_date": null,
+      "source_id": "kofia-recruit",
+      "university": null,
+      "group": "증권업",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 89,
+      "keywords": [
+        "증권업",
+        "채용·인턴"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "IBK투자증권 [IBK투자증권] 리스크관리부(부서장) 채용 공고",
+      "also_at": []
+    },
+    {
+      "id": "c722a439719d",
+      "title": "[유리자산운용]채용공고 - 채권운용본부 트레이딩팀",
+      "org": "유리자산운용",
+      "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42656",
+      "section": "finance",
+      "category": "채용·인턴",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "공개 공고",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": "2026-10-22",
+      "event_date": null,
+      "source_id": "kofia-recruit",
+      "university": null,
+      "group": "증권업",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 89,
+      "keywords": [
+        "증권업",
+        "채용·인턴"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "유리자산운용 [유리자산운용]채용공고 - 채권운용본부 트레이딩팀",
+      "also_at": []
+    },
+    {
+      "id": "9b86f14d275d",
+      "title": "[우리자산운용] 혁신성장본부 첨단산업투자실 채용공고(~10/25 : 기간연장)",
+      "org": "우리자산운용",
+      "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42662",
+      "section": "finance",
+      "category": "채용·인턴",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "공개 공고",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": "2026-10-25",
+      "event_date": "2026-10-06",
+      "source_id": "kofia-recruit",
+      "university": null,
+      "group": "증권업",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 89,
+      "keywords": [
+        "증권업",
+        "채용·인턴"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "우리자산운용 [우리자산운용] 혁신성장본부 첨단산업투자실 채용공고(~10/25 : 기간연장)",
       "also_at": []
     },
     {
@@ -4981,7 +5212,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "705 채용 [채용] [크래프톤] 2027 크래프톤 채용연계형 인턴십(~10.23 11:59) 2026-10-13 2026-10-13 19",
+      "benefit": "705 채용 [채용] [크래프톤] 2027 크래프톤 채용연계형 인턴십(~10.23 11:59) 2026-10-13 2026-10-13 27",
       "also_at": []
     },
     {
@@ -5183,7 +5414,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "157 2026 랜선으로 만나는 학부 및 대학원 대상 글로벌 취·창업 인턴십 특강 (선착순) 학과 관리자 2026-10-02 35",
+      "benefit": "157 2026 랜선으로 만나는 학부 및 대학원 대상 글로벌 취·창업 인턴십 특강 (선착순) 학과 관리자 2026-10-02 39",
       "also_at": []
     },
     {
@@ -6051,7 +6282,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "352 채용 [채용][동원그룹] 2026 하반기 신입사원 채용 학과 관리자 2026-09-30 120",
+      "benefit": "352 채용 [채용][동원그룹] 2026 하반기 신입사원 채용 학과 관리자 2026-09-30 123",
       "also_at": []
     },
     {
@@ -6085,7 +6316,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "353 채용 [채용][S-OIL] 2026 사무직 신입사원 채용 학과 관리자 2026-09-30 112",
+      "benefit": "353 채용 [채용][S-OIL] 2026 사무직 신입사원 채용 학과 관리자 2026-09-30 117",
       "also_at": []
     },
     {
@@ -6421,7 +6652,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "82 [민간위탁] 서울청년기지개센터(서울시 청년미래센터) 직원 채용 공고 626 2026-09-14",
+      "benefit": "82 [민간위탁] 서울청년기지개센터(서울시 청년미래센터) 직원 채용 공고 628 2026-09-14",
       "also_at": [
         "https://youth.seoul.go.kr/bbs/view.do?key=2303300002&pstSn=2609280002&sc_bbsCtgrySn=2304110001"
       ]
@@ -6589,7 +6820,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "155 AI리터러시_뤼튼과 함께하는 예비 IPO 협업 프로젝트 모집 공고(~10/14) 학과 관리자 2026-10-02 41",
+      "benefit": "155 AI리터러시_뤼튼과 함께하는 예비 IPO 협업 프로젝트 모집 공고(~10/14) 학과 관리자 2026-10-02 47",
       "also_at": [
         "https://campustown.seoul.go.kr/site/main/board/university_news/3180?cp=1&sortOrder=BA_REGDATE&sortDirection=DESC&listType=list&bcId=university_news&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true"
       ]
@@ -6629,6 +6860,39 @@
       "also_at": []
     },
     {
+      "id": "6d59c11099b5",
+      "title": "2026 시흥시 청년창업가 네트워킹 행사 참가자 모집 새로운게시글",
+      "org": "K-Startup",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179480",
+      "section": "campus",
+      "category": "창업·VC",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "2026 시흥시 청년창업가 네트워킹 행사 참가자 모집 새로운게시글…",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": "2026-10-24",
+      "event_date": "2026-10-24",
+      "source_id": "kstartup-ongoing",
+      "university": null,
+      "group": "중앙정부",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 71,
+      "keywords": [
+        "중앙정부",
+        "창업·VC"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "지자체 행사ㆍ네트워크 D-10 2026 시흥시 청년창업가 네트워킹 행사 참가자 모집 새로운게시글 2026 시흥시 청년창업가 네트워킹 행사 참가자 모집 시흥시청 등록일자 2026-10-14 시작일자 2026-10-12 마감일자 2026-10-24 조회 70 스크랩",
+      "also_at": []
+    },
+    {
       "id": "2026a2490fda",
       "title": "[제주창조경제혁신센터]「상시매칭 오픈이노베이션 플랫폼」'에코프로 계열사''수요과제 매칭 스타트업 모집 (~10/16) 새로운게시글",
       "org": "K-Startup",
@@ -6659,6 +6923,72 @@
       "location": null,
       "state": null,
       "benefit": "공공 사업화 D-2 [제주창조경제혁신센터]「상시매칭 오픈이노베이션 플랫폼」'에코프로 계열사''수요과제 매칭 스타트업 모집 (~10/16) 새로운게시글 [제주창조경제혁신센터]「상시매칭 오픈이노베이션 플랫폼」'에코프로 계열사''수요과제 매칭 스타트업 모집 (~10/16) 제주창조경제혁신센터",
+      "also_at": []
+    },
+    {
+      "id": "0af6464a69e2",
+      "title": "2026년 전남광주 제3기「지역자원 연계 청년창업 지원사업」 모집 공고 새로운게시글",
+      "org": "K-Startup",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179500",
+      "section": "campus",
+      "category": "창업·VC",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "…026년 전남광주 제3기「지역자원 연계 청년창업 지원사업」 모집 공고 새로운게시글 2026년…",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": "2026-10-30",
+      "event_date": null,
+      "source_id": "kstartup-ongoing",
+      "university": null,
+      "group": "중앙정부",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 71,
+      "keywords": [
+        "중앙정부",
+        "창업·VC"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "공공 사업화 D-16 2026년 전남광주 제3기「지역자원 연계 청년창업 지원사업」 모집 공고 새로운게시글 2026년 전남광주 제3기「지역자원 연계 청년창업 지원사업」 모집 공고 (재)전남정보문화산업진흥원 등록일자 2026-10-14 시작일자 2026-10-13 마감일자 2026-10-3",
+      "also_at": []
+    },
+    {
+      "id": "776169f5ba64",
+      "title": "[중앙사회서비스원] 2026년 제3회 사회서비스 투자교류회 새로운게시글",
+      "org": "K-Startup",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179501",
+      "section": "campus",
+      "category": "창업·VC",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "공개 공고",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": "2026-10-22",
+      "event_date": "2026-10-12",
+      "source_id": "kstartup-ongoing",
+      "university": null,
+      "group": "중앙정부",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 71,
+      "keywords": [
+        "중앙정부",
+        "창업·VC"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "민간 사업화 D-8 [중앙사회서비스원] 2026년 제3회 사회서비스 투자교류회 새로운게시글 [중앙사회서비스원] 2026년 제3회 사회서비스 투자교류회 (주)엠와이소셜컴퍼니 등록일자 2026-10-14 시작일자 2026-10-13 마감일자 2026-10-22 조회 75 스크랩",
       "also_at": []
     },
     {
@@ -6758,7 +7088,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "695 홍보 [홍보] SK그룹] Pre-SKALA 모집 안내 (~10.14 09:00까지) 2026-09-28 2026-09-28 161",
+      "benefit": "695 홍보 [홍보] SK그룹] Pre-SKALA 모집 안내 (~10.14 09:00까지) 2026-09-28 2026-09-28 171",
       "also_at": []
     },
     {
@@ -6828,7 +7158,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "2026.10.12 진행 비교과·행사 (★트랙2 모집기간연장★ ~10/14 (수) 14:00까지 [창업지원단] 2026 창업 경진대회 참가자 모집 창업지원단 1679",
+      "benefit": "2026.10.12 진행 비교과·행사 (★트랙2 모집기간연장★ ~10/14 (수) 14:00까지 [창업지원단] 2026 창업 경진대회 참가자 모집 창업지원단 1746",
       "also_at": []
     },
     {
@@ -7962,7 +8292,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "공공 멘토링ㆍ컨설팅ㆍ교육 오늘마감 「2026 슈퍼:콘 엑셀러레이팅」 지원사업 참여기업 모집공고 새로운게시글 2026년 슈퍼:콘 액셀러레이팅 프로그램 (재)대전정보문화산업진흥원 등록일자 2026-10-13 시작일자 2026-10-12 마감일자 2026-10-14 조회 636 스크랩",
+      "benefit": "공공 멘토링ㆍ컨설팅ㆍ교육 오늘마감 「2026 슈퍼:콘 엑셀러레이팅」 지원사업 참여기업 모집공고 새로운게시글 2026년 슈퍼:콘 액셀러레이팅 프로그램 (재)대전정보문화산업진흥원 등록일자 2026-10-13 시작일자 2026-10-12 마감일자 2026-10-14 조회 1,286 스크랩",
       "also_at": []
     },
     {
@@ -8101,6 +8431,72 @@
       "also_at": []
     },
     {
+      "id": "5f3ac56ac9a8",
+      "title": "청년취업사관학교 영등포캠퍼스 <AI Harness Engineering 기반 헬스케어 데이터분석 실무과정>",
+      "org": "청년취업사관학교 영등포캠퍼스",
+      "url": "https://youth.seoul.go.kr/infoData/sprtInfo/view.do?sprtInfoId=74788",
+      "section": "campus",
+      "category": "교육·부트캠프",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "청년취업사관학교 영등포캠퍼스 <AI Harness…",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": null,
+      "deadline": "2026-11-01",
+      "event_date": "2026-11-30",
+      "source_id": "seoul-youth-sprt",
+      "university": null,
+      "group": "서울시",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 68,
+      "keywords": [
+        "서울시",
+        "교육·부트캠프"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": "모집중",
+      "benefit": "교육 모집중",
+      "also_at": []
+    },
+    {
+      "id": "2130109be0e8",
+      "title": "서울청년센터서초 <2026 청년, 리커넥트 홈플로우데이 청춘랜드 - 커뮤니티랜드> 참여자 모집",
+      "org": "서울청년센터서초",
+      "url": "https://youth.seoul.go.kr/infoData/sprtInfo/view.do?sprtInfoId=74850",
+      "section": "campus",
+      "category": "교육·부트캠프",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "서울청년센터서초 <2026 청년, 리커넥트 홈플로우데이…",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": null,
+      "deadline": "2026-10-28",
+      "event_date": "2026-11-05",
+      "source_id": "seoul-youth-sprt",
+      "university": null,
+      "group": "서울시",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 68,
+      "keywords": [
+        "서울시",
+        "교육·부트캠프"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": "모집중",
+      "benefit": "커뮤니티 모집중",
+      "also_at": []
+    },
+    {
       "id": "7f5a1dd6c48e",
       "title": "2026년 남구다운 청년 창업 지원사업 통합공고(수정) 새로운게시글 수정업데이트게시글",
       "org": "K-Startup",
@@ -8130,7 +8526,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "민간 사업화 D-29 2026년 남구다운 청년 창업 지원사업 통합공고(수정) 새로운게시글 수정업데이트게시글 2026년 남구다운 청년 창업 지원사업 통합공고(수정) 대구경북고용복지연구원 등록일자 2026-10-13 시작일자 2026-10-02 마감일자 2026-11-12 조회 377 스크",
+      "benefit": "민간 사업화 D-29 2026년 남구다운 청년 창업 지원사업 통합공고(수정) 새로운게시글 수정업데이트게시글 2026년 남구다운 청년 창업 지원사업 통합공고(수정) 대구경북고용복지연구원 등록일자 2026-10-13 시작일자 2026-10-02 마감일자 2026-11-12 조회 907 스크",
       "also_at": []
     },
     {
@@ -8200,8 +8596,74 @@
       "also_at": []
     },
     {
+      "id": "93487d5e12d3",
+      "title": "[대신자산운용] 주식운용본부 경력지원 채용 공고(팀장급)",
+      "org": "대신자산운용",
+      "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42657",
+      "section": "finance",
+      "category": "채용·인턴",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "공개 공고",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": "2026-10-14",
+      "event_date": null,
+      "source_id": "kofia-recruit",
+      "university": null,
+      "group": "증권업",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 67,
+      "keywords": [
+        "증권업",
+        "채용·인턴"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "대신자산운용 [대신자산운용] 주식운용본부 경력지원 채용 공고(팀장급)",
+      "also_at": []
+    },
+    {
+      "id": "bfa05ea23623",
+      "title": "[쿼터백자산운용] 마케팅 업무지원 신입·경력 채용 공고",
+      "org": "쿼터백자산운용",
+      "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42661",
+      "section": "finance",
+      "category": "채용·인턴",
+      "subcategory": "신입",
+      "eligibility": "yes",
+      "eligibility_reason": "공개 공고",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": "2026-10-31",
+      "event_date": null,
+      "source_id": "kofia-recruit",
+      "university": null,
+      "group": "증권업",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 67,
+      "keywords": [
+        "증권업",
+        "채용·인턴"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "쿼터백자산운용 [쿼터백자산운용] 마케팅 업무지원 신입·경력 채용 공고",
+      "also_at": []
+    },
+    {
       "id": "29e60b2c2bb5",
-      "title": "특강공지 [앵커사업단] 창조산업 인재양성 분야 AI·콘텐츠 산업 특강 「CONNECT」 사전 참가 신청 2026.10.12 앵커사업단 박주하 조회수 2472",
+      "title": "특강공지 [앵커사업단] 창조산업 인재양성 분야 AI·콘텐츠 산업 특강 「CONNECT」 사전 참가 신청 2026.10.12 앵커사업단 박주하 조회수 2624",
       "org": "국민대",
       "url": "https://www.kookmin.ac.kr/user/kmuNews/notice/6/12484/view.do?currentPageNo=1",
       "section": "campus",
@@ -8230,7 +8692,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "특강공지 [앵커사업단] 창조산업 인재양성 분야 AI·콘텐츠 산업 특강 「CONNECT」 사전 참가 신청 2026.10.12 앵커사업단 박주하 조회수 2472",
+      "benefit": "특강공지 [앵커사업단] 창조산업 인재양성 분야 AI·콘텐츠 산업 특강 「CONNECT」 사전 참가 신청 2026.10.12 앵커사업단 박주하 조회수 2624",
       "also_at": []
     },
     {
@@ -8300,6 +8762,39 @@
       "also_at": []
     },
     {
+      "id": "f8c777c08283",
+      "title": "송파구 <2026 송파구 여성이음매칭데이> 사전 참여자 모집",
+      "org": "송파구",
+      "url": "https://youth.seoul.go.kr/infoData/sprtInfo/view.do?sprtInfoId=74866",
+      "section": "campus",
+      "category": "채용·인턴",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "공개 공고",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": null,
+      "deadline": null,
+      "event_date": "2026-10-20",
+      "source_id": "seoul-youth-sprt",
+      "university": null,
+      "group": "서울시",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 67,
+      "keywords": [
+        "서울시",
+        "채용·인턴"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": "모집중",
+      "benefit": "일자리 모집중",
+      "also_at": []
+    },
+    {
       "id": "dd12b4da3f9d",
       "title": "[117회 매경TEST] 서울, 부산 지역 고사실 추가 개설 안내",
       "org": "매경TEST",
@@ -8329,7 +8824,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "1110 [117회 매경TEST] 서울, 부산 지역 고사실 추가 개설 안내 2026.10.12 543",
+      "benefit": "1110 [117회 매경TEST] 서울, 부산 지역 고사실 추가 개설 안내 2026.10.12 579",
       "also_at": []
     },
     {
@@ -8363,7 +8858,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "2026.10.12 진행 봉사 [동작구장애인체육회] 2026년 동작구장애인생활체육대회 봉사자모집 사회공헌팀 314",
+      "benefit": "2026.10.12 진행 봉사 [동작구장애인체육회] 2026년 동작구장애인생활체육대회 봉사자모집 사회공헌팀 372",
       "also_at": []
     },
     {
@@ -8398,6 +8893,41 @@
       "state": "모집중",
       "benefit": "커뮤니티 모집중",
       "also_at": []
+    },
+    {
+      "id": "cb1efddd2384",
+      "title": "서울광역청년센터 <2027년 SK 뉴스쿨 사업설명회 & 투어 프로그램>",
+      "org": "서울광역청년센터",
+      "url": "https://youth.seoul.go.kr/infoData/sprtInfo/view.do?sprtInfoId=74865",
+      "section": "campus",
+      "category": "장학",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "서울광역청년센터 <2027년 SK 뉴스쿨 사업설명회…",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": null,
+      "deadline": null,
+      "event_date": "2026-10-16",
+      "source_id": "seoul-youth-sprt",
+      "university": null,
+      "group": "서울시",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 66,
+      "keywords": [
+        "서울시",
+        "장학"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": "모집중",
+      "benefit": "진로 모집중",
+      "also_at": [
+        "https://youth.seoul.go.kr/infoData/sprtInfo/view.do?sprtInfoId=74867"
+      ]
     },
     {
       "id": "072662b8e950",
@@ -8839,10 +9369,44 @@
       "also_at": []
     },
     {
-      "id": "5f3ba30e55ff",
+      "id": "6e67f6a45392",
+      "title": "NEW 전기공사(산업)기사 필기,실기 종합반",
+      "org": "고용24 · 엘로드에듀",
+      "url": "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=ACG20253001140619&tracseTme=84&crseTracseSe=C0031&trainstCstmrId=500034209697",
+      "section": "trades",
+      "category": "현장·기술직",
+      "subcategory": "설비·전기",
+      "eligibility": "yes",
+      "eligibility_reason": "공개 공고",
+      "dongguk_only": false,
+      "requires_card": true,
+      "posted": null,
+      "deadline": null,
+      "event_date": "2026-10-14",
+      "source_id": "work24-training",
+      "university": null,
+      "group": "정부지원",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 65,
+      "keywords": [
+        "정부지원",
+        "현장·기술직",
+        "전기"
+      ],
+      "format": "2026-10-14 ~ 2026-12-12 (84회차)",
+      "cost": "201,820 원",
+      "location": "서울 강동구",
+      "state": "모집중",
+      "benefit": "모집중 훈련기간 2026-10-14 ~ 2026-12-12 (84회차) 총151시간 서울 강동구 본인부담 201,820 원 근로자원격 원격훈련(인터넷)",
+      "also_at": []
+    },
+    {
+      "id": "2a5d1919900e",
       "title": "소방설비(산업)기사 2차 실기(전기분야)",
       "org": "고용24 · (주) 올윈에듀",
-      "url": "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=ACG20253001145506&tracseTme=456&crseTracseSe=C0031&trainstCstmrId=500020024074",
+      "url": "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=ACG20253001145506&tracseTme=455&crseTracseSe=C0031&trainstCstmrId=500020024074",
       "section": "trades",
       "category": "현장·기술직",
       "subcategory": "설비·전기",
@@ -8865,12 +9429,50 @@
         "현장·기술직",
         "설비"
       ],
-      "format": "2026-10-14 ~ 2026-12-14 (456회차)",
+      "format": "2026-10-14 ~ 2026-11-13 (455회차)",
       "cost": "76,930 원",
       "location": "서울 금천구",
       "state": "모집중",
-      "benefit": "모집중 훈련기간 2026-10-14 ~ 2026-12-14 (456회차) 총74시간 서울 금천구 본인부담 76,930 원 근로자원격 원격훈련(인터넷)",
-      "also_at": []
+      "benefit": "모집중 훈련기간 2026-10-14 ~ 2026-11-13 (455회차) 총74시간 서울 금천구 본인부담 76,930 원 근로자원격 원격훈련(인터넷)",
+      "also_at": [
+        "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=ACG20253001145506&tracseTme=456&crseTracseSe=C0031&trainstCstmrId=500020024074"
+      ]
+    },
+    {
+      "id": "8457961e989a",
+      "title": "소방설비(산업)기사(전기분야)필기종합반",
+      "org": "고용24 · (주) 올윈에듀",
+      "url": "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=ACG20253001145511&tracseTme=228&crseTracseSe=C0031&trainstCstmrId=500020024074",
+      "section": "trades",
+      "category": "현장·기술직",
+      "subcategory": "설비·전기",
+      "eligibility": "yes",
+      "eligibility_reason": "공개 공고",
+      "dongguk_only": false,
+      "requires_card": true,
+      "posted": null,
+      "deadline": null,
+      "event_date": "2026-10-14",
+      "source_id": "work24-training",
+      "university": null,
+      "group": "정부지원",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 65,
+      "keywords": [
+        "정부지원",
+        "현장·기술직",
+        "설비"
+      ],
+      "format": "2026-10-14 ~ 2027-01-13 (228회차)",
+      "cost": "109,150 원",
+      "location": "서울 금천구",
+      "state": "모집중",
+      "benefit": "모집중 훈련기간 2026-10-14 ~ 2027-01-13 (228회차) 총105시간 서울 금천구 본인부담 109,150 원 근로자원격 원격훈련(인터넷)",
+      "also_at": [
+        "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=ACG20263001407882&tracseTme=36&crseTracseSe=C0031&trainstCstmrId=500034225481"
+      ]
     },
     {
       "id": "4c5230160206",
@@ -8938,13 +9540,15 @@
       "location": "서울 강남구",
       "state": "모집마감",
       "benefit": "모집마감 훈련기간 2026-10-14 ~ 2026-11-12 (267회차) 총25시간 서울 강남구 본인부담 33,420 원 근로자원격 원격훈련(인터넷)",
-      "also_at": []
+      "also_at": [
+        "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=ACG20263001341310&tracseTme=45&crseTracseSe=C0031&trainstCstmrId=500020035790"
+      ]
     },
     {
-      "id": "1e4aea967744",
-      "title": "[핵집]전기기능사(실기)",
-      "org": "고용24 · 케이지에듀원 원격평생교육원",
-      "url": "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=ACG20263001207983&tracseTme=28&crseTracseSe=C0031&trainstCstmrId=500020015894",
+      "id": "4443c8625a5c",
+      "title": "[핵집] 전기기능사(필기)",
+      "org": "고용24 · 러닝팩토리 원격평생교육원",
+      "url": "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=ACG20263001199819&tracseTme=113&crseTracseSe=C0031&trainstCstmrId=500020035790",
       "section": "trades",
       "category": "현장·기술직",
       "subcategory": "설비·전기",
@@ -8967,16 +9571,49 @@
         "현장·기술직",
         "전기"
       ],
-      "format": "2026-10-14 ~ 2026-11-13 (28회차)",
-      "cost": "22,730 원",
-      "location": "서울 동작구",
-      "state": "모집마감",
-      "benefit": "모집마감 훈련기간 2026-10-14 ~ 2026-11-13 (28회차) 총17시간 서울 동작구 본인부담 22,730 원 근로자원격 원격훈련(인터넷)",
+      "format": "2026-10-14 ~ 2026-12-13 (113회차)",
+      "cost": "101,580 원",
+      "location": "서울 서초구",
+      "state": "모집중",
+      "benefit": "모집중 훈련기간 2026-10-14 ~ 2026-12-13 (113회차) 총76시간 서울 서초구 본인부담 101,580 원 근로자원격 원격훈련(인터넷)",
       "also_at": [
-        "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=ACG20263001251164&tracseTme=112&crseTracseSe=C0031&trainstCstmrId=500020035790",
-        "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=ACG20263001255170&tracseTme=24&crseTracseSe=C0031&trainstCstmrId=500020015894",
-        "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=ACG20263001407850&tracseTme=36&crseTracseSe=C0031&trainstCstmrId=500034225481",
-        "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=ACG20263001410016&tracseTme=88&crseTracseSe=C0031&trainstCstmrId=500020024074"
+        "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=ACG20263001207983&tracseTme=28&crseTracseSe=C0031&trainstCstmrId=500020015894"
+      ]
+    },
+    {
+      "id": "e5224f0d1ef1",
+      "title": "[스킬업] 건설안전기사 필기 1편 (개정)",
+      "org": "고용24 · 러닝팩토리 원격평생교육원",
+      "url": "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=ACG20263001251668&tracseTme=133&crseTracseSe=C0031&trainstCstmrId=500020035790",
+      "section": "trades",
+      "category": "현장·기술직",
+      "subcategory": "설비·전기",
+      "eligibility": "yes",
+      "eligibility_reason": "공개 공고",
+      "dongguk_only": false,
+      "requires_card": true,
+      "posted": null,
+      "deadline": null,
+      "event_date": "2026-10-14",
+      "source_id": "work24-training",
+      "university": null,
+      "group": "정부지원",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 65,
+      "keywords": [
+        "정부지원",
+        "현장·기술직",
+        "전기"
+      ],
+      "format": "2026-10-14 ~ 2026-11-13 (133회차)",
+      "cost": "47,820 원",
+      "location": "서울 서초구",
+      "state": "모집중",
+      "benefit": "모집중 훈련기간 2026-10-14 ~ 2026-11-13 (133회차) 총46시간 서울 서초구 본인부담 47,820 원 근로자원격 원격훈련(인터넷)",
+      "also_at": [
+        "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=ACG20263001324403&tracseTme=96&crseTracseSe=C0031&trainstCstmrId=500020035790"
       ]
     },
     {
@@ -9011,7 +9648,9 @@
       "location": "서울 동작구",
       "state": "모집마감",
       "benefit": "모집마감 훈련기간 2026-10-14 ~ 2026-12-13 (24회차) 총51시간 서울 동작구 본인부담 53,020 원 근로자원격 원격훈련(인터넷)",
-      "also_at": []
+      "also_at": [
+        "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=ACG20263001416619&tracseTme=3&crseTracseSe=C0031&trainstCstmrId=500020015894"
+      ]
     },
     {
       "id": "fc6331859112",
@@ -9045,47 +9684,15 @@
       "location": "서울 강동구",
       "state": "모집중",
       "benefit": "모집중 훈련기간 2026-10-14 ~ 2026-11-12 (52회차) 총51시간 서울 강동구 본인부담 68,170 원 근로자원격 원격훈련(인터넷)",
-      "also_at": []
+      "also_at": [
+        "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=ACG20263001350350&tracseTme=31&crseTracseSe=C0031&trainstCstmrId=500034209697"
+      ]
     },
     {
-      "id": "3d2c3825301e",
-      "title": "[스킬업] 건설안전기사 필기 3편 (개정)",
-      "org": "고용24 · 러닝팩토리 원격평생교육원",
-      "url": "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=ACG20263001324403&tracseTme=96&crseTracseSe=C0031&trainstCstmrId=500020035790",
-      "section": "trades",
-      "category": "현장·기술직",
-      "subcategory": "설비·전기",
-      "eligibility": "yes",
-      "eligibility_reason": "공개 공고",
-      "dongguk_only": false,
-      "requires_card": true,
-      "posted": null,
-      "deadline": null,
-      "event_date": "2026-10-14",
-      "source_id": "work24-training",
-      "university": null,
-      "group": "정부지원",
-      "campus": null,
-      "first_seen": "2026-10-14",
-      "recurring": null,
-      "priority": 65,
-      "keywords": [
-        "정부지원",
-        "현장·기술직",
-        "전기"
-      ],
-      "format": "2026-10-14 ~ 2026-11-13 (96회차)",
-      "cost": "38,470 원",
-      "location": "서울 서초구",
-      "state": "모집중",
-      "benefit": "모집중 훈련기간 2026-10-14 ~ 2026-11-13 (96회차) 총37시간 서울 서초구 본인부담 38,470 원 근로자원격 원격훈련(인터넷)",
-      "also_at": []
-    },
-    {
-      "id": "2f575d6d0e48",
+      "id": "4051e4068efa",
       "title": "[원패스] 건축(산업)기사 필기 올인원(4과목 건축설비)",
-      "org": "고용24 · 에듀윌원격국비교육원",
-      "url": "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=ACG20263001334129&tracseTme=53&crseTracseSe=C0031&trainstCstmrId=500042836001",
+      "org": "고용24 · 마이에듀",
+      "url": "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=ACG20263001285880&tracseTme=20&crseTracseSe=C0031&trainstCstmrId=500020060316",
       "section": "trades",
       "category": "현장·기술직",
       "subcategory": "설비·전기",
@@ -9108,11 +9715,81 @@
         "현장·기술직",
         "설비"
       ],
-      "format": "2026-10-14 ~ 2026-11-10 (53회차)",
+      "format": "2026-10-14 ~ 2026-11-12 (20회차)",
       "cost": "21,830 원",
-      "location": "서울 구로구",
+      "location": "서울 금천구",
+      "state": "모집마감",
+      "benefit": "모집마감 훈련기간 2026-10-14 ~ 2026-11-12 (20회차) 총21시간 서울 금천구 본인부담 21,830 원 실업자+근로자원격 원격훈련(인터넷)",
+      "also_at": [
+        "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=ACG20263001334129&tracseTme=53&crseTracseSe=C0031&trainstCstmrId=500042836001"
+      ]
+    },
+    {
+      "id": "f83047bdbb32",
+      "title": "(신)소방설비(산업)기사 전기분야 2차실기반",
+      "org": "고용24 · 엘로드에듀",
+      "url": "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=ACG20263001335660&tracseTme=30&crseTracseSe=C0031&trainstCstmrId=500034209697",
+      "section": "trades",
+      "category": "현장·기술직",
+      "subcategory": "설비·전기",
+      "eligibility": "yes",
+      "eligibility_reason": "공개 공고",
+      "dongguk_only": false,
+      "requires_card": true,
+      "posted": null,
+      "deadline": null,
+      "event_date": "2026-10-14",
+      "source_id": "work24-training",
+      "university": null,
+      "group": "정부지원",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 65,
+      "keywords": [
+        "정부지원",
+        "현장·기술직",
+        "전기"
+      ],
+      "format": "2026-10-14 ~ 2026-11-12 (30회차)",
+      "cost": "74,620 원",
+      "location": "서울 강동구",
       "state": "모집중",
-      "benefit": "모집중 훈련기간 2026-10-14 ~ 2026-11-10 (53회차) 총21시간 서울 구로구 본인부담 21,830 원 근로자원격 원격훈련(인터넷)",
+      "benefit": "모집중 훈련기간 2026-10-14 ~ 2026-11-12 (30회차) 총51시간 서울 강동구 본인부담 74,620 원 근로자원격 원격훈련(인터넷)",
+      "also_at": []
+    },
+    {
+      "id": "b6301d8a18b0",
+      "title": "[스킬업] 산업안전기사 필기 1편",
+      "org": "고용24 · 러닝팩토리 원격평생교육원",
+      "url": "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=ACG20263001341343&tracseTme=58&crseTracseSe=C0031&trainstCstmrId=500020035790",
+      "section": "trades",
+      "category": "현장·기술직",
+      "subcategory": "설비·전기",
+      "eligibility": "yes",
+      "eligibility_reason": "공개 공고",
+      "dongguk_only": false,
+      "requires_card": true,
+      "posted": null,
+      "deadline": null,
+      "event_date": "2026-10-14",
+      "source_id": "work24-training",
+      "university": null,
+      "group": "정부지원",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 65,
+      "keywords": [
+        "정부지원",
+        "현장·기술직",
+        "전기"
+      ],
+      "format": "2026-10-14 ~ 2026-12-13 (58회차)",
+      "cost": "109,150 원",
+      "location": "서울 서초구",
+      "state": "모집중",
+      "benefit": "모집중 훈련기간 2026-10-14 ~ 2026-12-13 (58회차) 총105시간 서울 서초구 본인부담 109,150 원 근로자원격 원격훈련(인터넷)",
       "also_at": []
     },
     {
@@ -9184,10 +9861,10 @@
       "also_at": []
     },
     {
-      "id": "ca02cc86fa92",
-      "title": "[핵집]전기공사(산업)기사 실기",
+      "id": "7a7057b22b74",
+      "title": "[핵집]전기(산업)기사 실기",
       "org": "고용24 · 윈스펙원격평생교육원",
-      "url": "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=ACG20263001407865&tracseTme=36&crseTracseSe=C0031&trainstCstmrId=500034225481",
+      "url": "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=ACG20263001407861&tracseTme=36&crseTracseSe=C0031&trainstCstmrId=500034225481",
       "section": "trades",
       "category": "현장·기술직",
       "subcategory": "설비·전기",
@@ -9216,7 +9893,7 @@
       "state": "모집마감",
       "benefit": "모집마감 훈련기간 2026-10-14 ~ 2026-11-12 (36회차) 총26시간 서울 강남구 본인부담 34,750 원 근로자원격 원격훈련(인터넷)",
       "also_at": [
-        "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=ACG20263001410017&tracseTme=87&crseTracseSe=C0031&trainstCstmrId=500020024074"
+        "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=ACG20263001407865&tracseTme=36&crseTracseSe=C0031&trainstCstmrId=500034225481"
       ]
     },
     {
@@ -9251,6 +9928,74 @@
       "location": "서울 양천구",
       "state": "모집중",
       "benefit": "모집중 훈련기간 2026-12-08 ~ 2027-01-06 (9회차) 20일, 총160시간 서울 양천구 본인부담 381,920 원 국민내일배움카드(구직자) 재직자도 수강 가능!",
+      "also_at": []
+    },
+    {
+      "id": "96065e0b1a26",
+      "title": "전기기능사 실기 취득",
+      "org": "고용24 · 주식회사 중랑직업전문교육원",
+      "url": "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=AIG20240000467161&tracseTme=4&crseTracseSe=C0061&trainstCstmrId=500020056160",
+      "section": "trades",
+      "category": "현장·기술직",
+      "subcategory": "설비·전기",
+      "eligibility": "yes",
+      "eligibility_reason": "공개 공고",
+      "dongguk_only": false,
+      "requires_card": true,
+      "posted": null,
+      "deadline": null,
+      "event_date": "2026-10-14",
+      "source_id": "work24-training",
+      "university": null,
+      "group": "정부지원",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 65,
+      "keywords": [
+        "정부지원",
+        "현장·기술직",
+        "전기"
+      ],
+      "format": "2026-10-14 ~ 2026-11-11 (4회차)",
+      "cost": "208,590 원",
+      "location": "서울 중랑구",
+      "state": "모집중",
+      "benefit": "모집중 훈련기간 2026-10-14 ~ 2026-11-11 (4회차) 13일, 총87시간 서울 중랑구 본인부담 208,590 원 국민내일배움카드(구직자) 재직자도 수강 가능!",
+      "also_at": []
+    },
+    {
+      "id": "1cf56b5b797f",
+      "title": "무선설비기사(실기) 취득향상과정",
+      "org": "고용24 · 신성정보통신학원",
+      "url": "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=AIG20250000511751&tracseTme=3&crseTracseSe=C0061&trainstCstmrId=500020049189",
+      "section": "trades",
+      "category": "현장·기술직",
+      "subcategory": "설비·전기",
+      "eligibility": "yes",
+      "eligibility_reason": "공개 공고",
+      "dongguk_only": false,
+      "requires_card": true,
+      "posted": null,
+      "deadline": null,
+      "event_date": "2026-10-14",
+      "source_id": "work24-training",
+      "university": null,
+      "group": "정부지원",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 65,
+      "keywords": [
+        "정부지원",
+        "현장·기술직",
+        "설비"
+      ],
+      "format": "2026-10-14 ~ 2026-11-13 (3회차)",
+      "cost": "143,460 원",
+      "location": "서울 영등포구",
+      "state": "모집중",
+      "benefit": "모집중 훈련기간 2026-10-14 ~ 2026-11-13 (3회차) 10일, 총48시간 서울 영등포구 본인부담 143,460 원 내일배움카드제(재직자) 구직자도 수강 가능!",
       "also_at": []
     },
     {
@@ -9330,7 +10075,7 @@
       "category": "현장·기술직",
       "subcategory": "공고",
       "eligibility": "yes",
-      "eligibility_reason": "…진행 및 면접코칭 · 사후관리단계 : 미취업자 수강생 관리를 통한 유선, 방문상담 등…",
+      "eligibility_reason": "공개 공고",
       "dongguk_only": false,
       "requires_card": true,
       "posted": null,
@@ -9421,6 +10166,40 @@
       "location": "서울 종로구",
       "state": "모집중",
       "benefit": "모집중 훈련기간 2026-10-14 ~ 2026-11-23 (8회차) 12일, 총36시간 서울 종로구 본인부담 85,940 원 내일배움카드제(재직자) 구직자도 수강 가능!",
+      "also_at": []
+    },
+    {
+      "id": "a8d681be28d7",
+      "title": "소방설비(산업)기사 취득 대비 (소방기계시설설계 및 시공 실무) 합격대비",
+      "org": "고용24 · 모아소방전기학원",
+      "url": "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=AIG20250000531898&tracseTme=3&crseTracseSe=C0061&trainstCstmrId=500020011194",
+      "section": "trades",
+      "category": "현장·기술직",
+      "subcategory": "설비·전기",
+      "eligibility": "yes",
+      "eligibility_reason": "공개 공고",
+      "dongguk_only": false,
+      "requires_card": true,
+      "posted": null,
+      "deadline": null,
+      "event_date": "2026-10-14",
+      "source_id": "work24-training",
+      "university": null,
+      "group": "정부지원",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 65,
+      "keywords": [
+        "정부지원",
+        "현장·기술직",
+        "설비"
+      ],
+      "format": "2026-10-14 ~ 2026-11-03 (3회차)",
+      "cost": "287,010 원",
+      "location": "서울 영등포구",
+      "state": "모집중",
+      "benefit": "모집중 훈련기간 2026-10-14 ~ 2026-11-03 (3회차) 7일, 총42시간 서울 영등포구 본인부담 287,010 원 내일배움카드제(재직자) 구직자도 수강 가능!",
       "also_at": []
     },
     {
@@ -10128,7 +10907,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "24 2027학년도 상반기 일학습병행 설명회 참석 학생 모집 안내 학과관리자 2026-09-16 408",
+      "benefit": "24 2027학년도 상반기 일학습병행 설명회 참석 학생 모집 안내 학과관리자 2026-09-16 414",
       "also_at": [
         "https://intern.dongguk.edu/article/STU_NOTICE/detail/215386?pageIndex=1&",
         "https://www.dongguk.edu/article/HAKSANOTICE/detail/26766431"
@@ -10165,7 +10944,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "일반공지 [대학일자리플러스센터] 2026 하반기 대기업 면접 파이널 패키지 참여자 모집 진로취업센터 2026.10.01 342 0",
+      "benefit": "일반공지 [대학일자리플러스센터] 2026 하반기 대기업 면접 파이널 패키지 참여자 모집 진로취업센터 2026.10.01 351 0",
       "also_at": []
     },
     {
@@ -10267,7 +11046,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "160 소방청 채용설명회(11.09.(월)) 학과 관리자 2026-10-02 34",
+      "benefit": "160 소방청 채용설명회(11.09.(월)) 학과 관리자 2026-10-02 38",
       "also_at": []
     },
     {
@@ -10403,7 +11182,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "2026 경기 스타트업 서밋(G-SUMMIT 2026) 행사 개최 및 참여 안내 234 2026.10.06",
+      "benefit": "2026 경기 스타트업 서밋(G-SUMMIT 2026) 행사 개최 및 참여 안내 235 2026.10.06",
       "also_at": []
     },
     {
@@ -10437,7 +11216,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "151 LH청년창업지원주택 [연세 스타트업타운] 달팽이집 추가 모집 공고(10/15까지 접수) 269 2026.10.02",
+      "benefit": "151 LH청년창업지원주택 [연세 스타트업타운] 달팽이집 추가 모집 공고(10/15까지 접수) 274 2026.10.02",
       "also_at": []
     },
     {
@@ -10981,6 +11760,39 @@
       "also_at": []
     },
     {
+      "id": "d8eb91ccff4d",
+      "title": "2026 산업단지 오픈이노베이션프로그램 KICXUP 챌린지 & 로컬 스타트업 2차 모집 공고 새로운게시글",
+      "org": "K-Startup",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179496",
+      "section": "campus",
+      "category": "공모전·해커톤",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "…바로가기 지원분야 사업화 대상연령 만 20세 이상 ~ 만 39세 이하, 만 40세 이상 기관구분…",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": "2026-10-23",
+      "event_date": null,
+      "source_id": "kstartup-ongoing",
+      "university": null,
+      "group": "중앙정부",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 64,
+      "keywords": [
+        "중앙정부",
+        "공모전·해커톤"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "공공 사업화 D-9 2026 산업단지 오픈이노베이션프로그램 KICXUP 챌린지 & 로컬 스타트업 2차 모집 공고 새로운게시글 2026 산업단지 오픈이노베이션프로그램 KICXUP 챌린지 & 로컬 스타트업 2차모집 공고 한국산업단지공단 등록일자 2026-10-14 시작일자 2026-10-1",
+      "also_at": []
+    },
+    {
       "id": "fd7e62a5a798",
       "title": "2026 무역의 날 기념 KITA 채용박람회(26. 11. 27) 참가 구인기업 모집",
       "org": "한국무역협회",
@@ -11440,7 +12252,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "979 [공학교육센터] 조교 모집 첨부파일 979 공학교육센터 2026.09.29 330 공학교육센터 2026.09.29 330",
+      "benefit": "979 [공학교육센터] 조교 모집 첨부파일 979 공학교육센터 2026.09.29 334 공학교육센터 2026.09.29 334",
       "also_at": [
         "https://www.sejong.ac.kr/kor/intro/notice8.do?mode=view&articleNo=894068&article.offset=0&articleLimit=10"
       ]
@@ -11477,11 +12289,7 @@
       "state": "모집중",
       "benefit": "진로 모집중",
       "also_at": [
-        "https://youth.seoul.go.kr/infoData/sprtInfo/view.do?sprtInfoId=74856",
-        "https://youth.seoul.go.kr/infoData/sprtInfo/view.do?sprtInfoId=74857",
-        "https://youth.seoul.go.kr/infoData/sprtInfo/view.do?sprtInfoId=74858",
-        "https://youth.seoul.go.kr/infoData/sprtInfo/view.do?sprtInfoId=74859",
-        "https://youth.seoul.go.kr/orang/infoData/sprtInfo/view.do?key=2309210005&sprtInfoId=74859"
+        "https://youth.seoul.go.kr/infoData/sprtInfo/view.do?sprtInfoId=74857"
       ]
     },
     {
@@ -11651,10 +12459,8 @@
       "state": "모집중",
       "benefit": "진로 모집중",
       "also_at": [
-        "https://youth.seoul.go.kr/orang/infoData/sprtInfo/view.do?key=2309210005&sprtInfoId=74572",
         "https://youth.seoul.go.kr/orang/infoData/sprtInfo/view.do?key=2309210005&sprtInfoId=74752",
-        "https://youth.seoul.go.kr/orang/infoData/sprtInfo/view.do?key=2309210005&sprtInfoId=74755",
-        "https://youth.seoul.go.kr/orang/infoData/sprtInfo/view.do?key=2309210005&sprtInfoId=74861"
+        "https://youth.seoul.go.kr/orang/infoData/sprtInfo/view.do?key=2309210005&sprtInfoId=74755"
       ]
     },
     {
@@ -11858,6 +12664,142 @@
       "also_at": []
     },
     {
+      "id": "53fad5fc1837",
+      "title": "[일반채용][비테스코테크놀로지스코리아] 셰플러코리아 이천사업장 ... 2026-10-14",
+      "org": "홍익대",
+      "url": "https://inno.hongik.ac.kr/career/boardview/2/25451",
+      "section": "campus",
+      "category": "채용·인턴",
+      "subcategory": "공고",
+      "eligibility": "check",
+      "eligibility_reason": "소속 제한 문구 없음 — 원문 확인",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": "2026-10-20",
+      "event_date": null,
+      "source_id": "hongik-career",
+      "university": "홍익대",
+      "group": "건동홍",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 63,
+      "keywords": [
+        "홍익대",
+        "건동홍",
+        "채용·인턴"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "[일반채용][비테스코테크놀로지스코리아] 셰플러코리아 이천사업장 ... 2026-10-14",
+      "also_at": []
+    },
+    {
+      "id": "0a9397bed79d",
+      "title": "[계약채용][크래프톤] 2027 크래프톤 채용연계형 인턴십 2026-10-14",
+      "org": "홍익대",
+      "url": "https://inno.hongik.ac.kr/career/boardview/2/25453",
+      "section": "campus",
+      "category": "채용·인턴",
+      "subcategory": "채용연계형 인턴",
+      "eligibility": "check",
+      "eligibility_reason": "소속 제한 문구 없음 — 원문 확인",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": null,
+      "event_date": null,
+      "source_id": "hongik-career",
+      "university": "홍익대",
+      "group": "건동홍",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 63,
+      "keywords": [
+        "홍익대",
+        "건동홍",
+        "채용·인턴"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "[계약채용][크래프톤] 2027 크래프톤 채용연계형 인턴십 2026-10-14",
+      "also_at": []
+    },
+    {
+      "id": "9a2433ecca4a",
+      "title": "[계약채용][(주)GS] 미래사업팀 인턴 채용 2026-10-14",
+      "org": "홍익대",
+      "url": "https://inno.hongik.ac.kr/career/boardview/2/25454",
+      "section": "campus",
+      "category": "채용·인턴",
+      "subcategory": "인턴",
+      "eligibility": "check",
+      "eligibility_reason": "소속 제한 문구 없음 — 원문 확인",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": null,
+      "event_date": null,
+      "source_id": "hongik-career",
+      "university": "홍익대",
+      "group": "건동홍",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 63,
+      "keywords": [
+        "홍익대",
+        "건동홍",
+        "채용·인턴"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "[계약채용][(주)GS] 미래사업팀 인턴 채용 2026-10-14",
+      "also_at": []
+    },
+    {
+      "id": "6ebcbfdf21b0",
+      "title": "[계약채용][베이직스] CEO Staff팀 인턴 채용 2026-10-14",
+      "org": "홍익대",
+      "url": "https://inno.hongik.ac.kr/career/boardview/2/25455",
+      "section": "campus",
+      "category": "채용·인턴",
+      "subcategory": "인턴",
+      "eligibility": "check",
+      "eligibility_reason": "소속 제한 문구 없음 — 원문 확인",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": null,
+      "event_date": null,
+      "source_id": "hongik-career",
+      "university": "홍익대",
+      "group": "건동홍",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 63,
+      "keywords": [
+        "홍익대",
+        "건동홍",
+        "채용·인턴"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "[계약채용][베이직스] CEO Staff팀 인턴 채용 2026-10-14",
+      "also_at": []
+    },
+    {
       "id": "5583015380c7",
       "title": "장학 2026년 우양재단 동행 장학생 모집 안내(~10.18.일)",
       "org": "숭실대",
@@ -11890,6 +12832,42 @@
       "state": null,
       "benefit": "2026.10.01 진행 장학 2026년 우양재단 동행 장학생 모집 안내(~10.18.일) 학생지원팀 1256",
       "also_at": []
+    },
+    {
+      "id": "1b95a1f86543",
+      "title": "[단국대학교 기술지주회사] TECH IP-UP: IP 창출캠프 참가팀 모집",
+      "org": "연세대",
+      "url": "https://venture.yonsei.ac.kr/community/external/466",
+      "section": "campus",
+      "category": "창업·VC",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "공개 공고",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": "2026-10-28",
+      "event_date": "2026-11-06",
+      "source_id": "yonsei-venture-external",
+      "university": "연세대",
+      "group": "서연고",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 63,
+      "keywords": [
+        "연세대",
+        "서연고",
+        "창업·VC"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "[단국대학교 기술지주회사] TECH IP-UP: IP 창출캠프 참가팀 모집 0 2026.10.14",
+      "also_at": [
+        "https://venture.yonsei.ac.kr/community/notice/341"
+      ]
     },
     {
       "id": "83d3efc98c76",
@@ -11991,6 +12969,138 @@
       "location": null,
       "state": null,
       "benefit": "[기술경영전문대학원] 2027학년도 일반전형 입학설명회 안내 주요알림 행사 기술혁신대학 RC 행정팀 / 2026. 10. 1 0 0 0",
+      "also_at": []
+    },
+    {
+      "id": "8f5e00e59860",
+      "title": "2026 영등포구 라이브커머스 판로성장 프로그램 새로운게시글",
+      "org": "K-Startup",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179444",
+      "section": "campus",
+      "category": "창업·VC",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "…23:59 주관기관명 에이블브릿지 대상 대학생, 일반인, 일반기업, 1인 창조기업 창업업력…",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": "2026-10-30",
+      "event_date": "2026-11-02",
+      "source_id": "kstartup-ongoing",
+      "university": null,
+      "group": "중앙정부",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 63,
+      "keywords": [
+        "중앙정부",
+        "창업·VC"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "교육 멘토링ㆍ컨설팅ㆍ교육 D-16 2026 영등포구 라이브커머스 판로성장 프로그램 새로운게시글 2026 영등포구 라이브커머스 판로성장 프로그램 에이블브릿지 등록일자 2026-10-14 시작일자 2026-10-12 마감일자 2026-10-30 조회 59 스크랩",
+      "also_at": []
+    },
+    {
+      "id": "5398a821c23c",
+      "title": "2026 여성벤처활성화사업 「여성벤처CEO 경영혁신아카데미」 새로운게시글",
+      "org": "K-Startup",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179462",
+      "section": "campus",
+      "category": "창업·VC",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "공개 공고",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": "2026-11-02",
+      "event_date": "2026-11-04",
+      "source_id": "kstartup-ongoing",
+      "university": null,
+      "group": "중앙정부",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 63,
+      "keywords": [
+        "중앙정부",
+        "창업·VC"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "민간 창업교육 D-19 2026 여성벤처활성화사업 「여성벤처CEO 경영혁신아카데미」 새로운게시글 2026 여성벤처활성화사업 「여성벤처CEO 경영혁신아카데미」 (사)한국여성벤처협회 등록일자 2026-10-14 시작일자 2026-10-12 마감일자 2026-11-02 조회 71 스크랩",
+      "also_at": []
+    },
+    {
+      "id": "9f0c4f69df64",
+      "title": "마포비즈니스센터 4차 신규입주기업 모집 새로운게시글",
+      "org": "K-Startup",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179489",
+      "section": "campus",
+      "category": "창업·VC",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "공개 공고",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": "2026-10-22",
+      "event_date": null,
+      "source_id": "kstartup-ongoing",
+      "university": null,
+      "group": "중앙정부",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 63,
+      "keywords": [
+        "중앙정부",
+        "창업·VC"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "지자체 시설ㆍ공간ㆍ보육 D-8 마포비즈니스센터 4차 신규입주기업 모집 새로운게시글 마포비즈니스센터 마포비즈플라자지원센터 등록일자 2026-10-14 시작일자 2026-10-13 마감일자 2026-10-22 조회 99 스크랩",
+      "also_at": []
+    },
+    {
+      "id": "c9c396a6dce2",
+      "title": "[서울경제진흥원] 세계최대 이동통신 전시회 MWC 2027 – 4YFN 서울기업관 참가기업 모집 새로운게시글",
+      "org": "K-Startup",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179495",
+      "section": "campus",
+      "category": "창업·VC",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "공개 공고",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": "2026-10-29",
+      "event_date": null,
+      "source_id": "kstartup-ongoing",
+      "university": null,
+      "group": "중앙정부",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 63,
+      "keywords": [
+        "중앙정부",
+        "창업·VC"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "공공 글로벌 D-15 [서울경제진흥원] 세계최대 이동통신 전시회 MWC 2027 – 4YFN 서울기업관 참가기업 모집 새로운게시글 [서울경제진흥원] 세계최대 이동통신 전시회 MWC 2027 – 4YFN 서울기업관 참가기업 모집 서울경제진흥원 등록일자 2026-10-14 시작일자 2026",
       "also_at": []
     },
     {
@@ -13119,6 +14229,40 @@
       "also_at": []
     },
     {
+      "id": "e92e5afb17f1",
+      "title": "(토요반)가스텅스텐아크용접기능사 실기",
+      "org": "고용24 · 서울현대직업전문학교",
+      "url": "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=AIG20250000512117&tracseTme=1&crseTracseSe=C0061&trainstCstmrId=500020017021",
+      "section": "trades",
+      "category": "현장·기술직",
+      "subcategory": "용접",
+      "eligibility": "yes",
+      "eligibility_reason": "공개 공고",
+      "dongguk_only": false,
+      "requires_card": true,
+      "posted": null,
+      "deadline": null,
+      "event_date": "2026-12-19",
+      "source_id": "work24-training",
+      "university": null,
+      "group": "정부지원",
+      "campus": null,
+      "first_seen": "2026-09-16",
+      "recurring": null,
+      "priority": 62,
+      "keywords": [
+        "정부지원",
+        "현장·기술직",
+        "용접"
+      ],
+      "format": "2026-12-19 ~ 2027-01-16 (1회차)",
+      "cost": "370,690 원",
+      "location": "서울 구로구",
+      "state": "모집중",
+      "benefit": "모집중 훈련기간 2026-12-19 ~ 2027-01-16 (1회차) 5일, 총39시간 서울 구로구 본인부담 370,690 원 내일배움카드제(재직자) 구직자도 수강 가능!",
+      "also_at": []
+    },
+    {
       "id": "ad3fb1e13846",
       "title": "[주말]건축목공기능사자격증 취득(실기)",
       "org": "고용24 · 별관 서울인테리어기술교육원",
@@ -13938,6 +15082,39 @@
       "also_at": []
     },
     {
+      "id": "cd43f32e8901",
+      "title": "강서구청 <마을세무사와 함께하는 찾아가는 무료 세무상담>",
+      "org": "기타 (강서구) 담당기관 바로가기 상세정보 목록 Qui",
+      "url": "https://youth.seoul.go.kr/infoData/sprtInfo/view.do?sprtInfoId=74868",
+      "section": "campus",
+      "category": "AI·테크",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "…바로가기 하단링크 바로가기 홈으로 이동 청년정책 일자리 주거 금융복지 교육문화 참여소통…",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": null,
+      "deadline": "2026-10-23",
+      "event_date": null,
+      "source_id": "seoul-youth-sprt",
+      "university": null,
+      "group": "서울시",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 62,
+      "keywords": [
+        "서울시",
+        "AI·테크"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": "모집중",
+      "benefit": "생활지원 모집중",
+      "also_at": []
+    },
+    {
       "id": "seoul-career-portfolio",
       "title": "경험을 직무역량으로 요리하는 커리어 포트폴리오 플레이팅",
       "org": "서울청년센터 금천",
@@ -14236,7 +15413,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "민간 행사ㆍ네트워크 D-12 2026년 광명 글로컬 데모데이 참관객 모집 새로운게시글 2026년 광명 글로컬 데모데이 참관객 모집 씨엔티테크(주) 등록일자 2026-10-13 시작일자 2026-10-06 마감일자 2026-10-26 조회 343 스크랩",
+      "benefit": "민간 행사ㆍ네트워크 D-12 2026년 광명 글로컬 데모데이 참관객 모집 새로운게시글 2026년 광명 글로컬 데모데이 참관객 모집 씨엔티테크(주) 등록일자 2026-10-13 시작일자 2026-10-06 마감일자 2026-10-26 조회 775 스크랩",
       "also_at": []
     },
     {
@@ -14721,6 +15898,39 @@
       "also_at": [
         "https://youth.seoul.go.kr/orang/infoData/sprtInfo/view.do?key=2309210005&sprtInfoId=74785"
       ]
+    },
+    {
+      "id": "71ef4d3ddb99",
+      "title": "서울광역청년센터 <하나부터 열까지 건강검진 지원사업>",
+      "org": "서울광역청년센터",
+      "url": "https://youth.seoul.go.kr/infoData/sprtInfo/view.do?sprtInfoId=74863",
+      "section": "campus",
+      "category": "공지",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "서울광역청년센터 <하나부터 열까지 건강검진 지원사업>…",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": null,
+      "deadline": "2026-10-16",
+      "event_date": null,
+      "source_id": "seoul-youth-sprt",
+      "university": null,
+      "group": "서울시",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 61,
+      "keywords": [
+        "서울시",
+        "공지"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": "모집중",
+      "benefit": "신체건강 모집중",
+      "also_at": []
     },
     {
       "id": "bdc34f92384d",
@@ -15225,7 +16435,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "공지 모집 [모집] 2026년 OECD 인턴십 프로그램(Round 2) 참가자 모집 안내 2026-10-12 / 138 2026-10-12 138",
+      "benefit": "공지 모집 [모집] 2026년 OECD 인턴십 프로그램(Round 2) 참가자 모집 안내 2026-10-12 / 150 2026-10-12 150",
       "also_at": [
         "https://econ.snu.ac.kr/announcement/notice?bm=v&bbsidx=11613"
       ]
@@ -16841,7 +18051,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "90 [대학일자리+] 이트너스 2027년 1차 E-ON 채용연계형 인턴 온라인 채용설명회 참여자 모집 새글 진로취업센터 2026.10.13 101 0",
+      "benefit": "90 [대학일자리+] 이트너스 2027년 1차 E-ON 채용연계형 인턴 온라인 채용설명회 참여자 모집 새글 진로취업센터 2026.10.13 125 0",
       "also_at": []
     },
     {
@@ -16875,7 +18085,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "444 법무부 <2026 외국인 창업대전(OASIS-6)> 참가자 모집 공고 38 2026.10.09",
+      "benefit": "444 법무부 <2026 외국인 창업대전(OASIS-6)> 참가자 모집 공고 41 2026.10.09",
       "also_at": []
     },
     {
@@ -17146,7 +18356,7 @@
     },
     {
       "id": "771ffbbf1b5d",
-      "title": "행사ㆍ네트워크 D-19 마감일자 2026-11-02 「민관협력 오픈이노베이션 지원」2026년 제2차 상호 자율탐색형(바이오 분야) 참여기업 모집공고 민관협력 오픈이노베이션 지원사업 창업진흥원 조회 12,800",
+      "title": "행사ㆍ네트워크 D-19 마감일자 2026-11-02 「민관협력 오픈이노베이션 지원」2026년 제2차 상호 자율탐색형(바이오 분야) 참여기업 모집공고 민관협력 오픈이노베이션 지원사업 창업진흥원 조회 13,179",
       "org": "K-Startup",
       "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179408",
       "section": "campus",
@@ -17174,7 +18384,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "행사ㆍ네트워크 D-19 마감일자 2026-11-02 「민관협력 오픈이노베이션 지원」2026년 제2차 상호 자율탐색형(바이오 분야) 참여기업 모집공고 민관협력 오픈이노베이션 지원사업 창업진흥원 조회 12,800",
+      "benefit": "행사ㆍ네트워크 D-19 마감일자 2026-11-02 「민관협력 오픈이노베이션 지원」2026년 제2차 상호 자율탐색형(바이오 분야) 참여기업 모집공고 민관협력 오픈이노베이션 지원사업 창업진흥원 조회 13,179",
       "also_at": []
     },
     {
@@ -17311,7 +18521,7 @@
     },
     {
       "id": "b2f61b0c3e12",
-      "title": "사업화 D-15 마감일자 2026-10-29 2027년 초격차 스타트업 프로젝트 정부 첫 실증·구매 주관기관 모집공고 초격차 스타트업 프로젝트 창업진흥원 조회 7,330",
+      "title": "사업화 D-15 마감일자 2026-10-29 2027년 초격차 스타트업 프로젝트 정부 첫 실증·구매 주관기관 모집공고 초격차 스타트업 프로젝트 창업진흥원 조회 7,751",
       "org": "K-Startup",
       "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179428",
       "section": "campus",
@@ -17339,7 +18549,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "사업화 D-15 마감일자 2026-10-29 2027년 초격차 스타트업 프로젝트 정부 첫 실증·구매 주관기관 모집공고 초격차 스타트업 프로젝트 창업진흥원 조회 7,330",
+      "benefit": "사업화 D-15 마감일자 2026-10-29 2027년 초격차 스타트업 프로젝트 정부 첫 실증·구매 주관기관 모집공고 초격차 스타트업 프로젝트 창업진흥원 조회 7,751",
       "also_at": []
     },
     {
@@ -18499,7 +19709,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "3878 [추천채용/공통][중견기업][서류패스] 키엔스 코리아 컨설팅 세일즈 신입 채용 첨부파일 3878 진로취업지원센터 2026.09.21 533 진로취업지원센터 2026.09.21 533",
+      "benefit": "3878 [추천채용/공통][중견기업][서류패스] 키엔스 코리아 컨설팅 세일즈 신입 채용 첨부파일 3878 진로취업지원센터 2026.09.21 539 진로취업지원센터 2026.09.21 539",
       "also_at": []
     },
     {
@@ -18533,7 +19743,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "3879 [추천채용/공통][중견기업] KINX 국내영업 / 해외사업 / 네트워크 데이터 분석시스템 개발 신입 채용 첨부파일 3879 진로취업지원센터 2026.09.21 690 진로취업지원센터 2026.09.21 690",
+      "benefit": "3879 [추천채용/공통][중견기업] KINX 국내영업 / 해외사업 / 네트워크 데이터 분석시스템 개발 신입 채용 첨부파일 3879 진로취업지원센터 2026.09.21 698 진로취업지원센터 2026.09.21 698",
       "also_at": []
     },
     {
@@ -18700,6 +19910,40 @@
       "location": null,
       "state": null,
       "benefit": "1405 행사·네트워크 [광운대, 동국대, 시립대 캠퍼스타운] 2026 AI+X 커넥트 포럼 2026-10-13",
+      "also_at": []
+    },
+    {
+      "id": "5681c985b96e",
+      "title": "[홍보][한국식품연구원] 2026 KFRI Conference ... 2026-10-14",
+      "org": "홍익대",
+      "url": "https://inno.hongik.ac.kr/career/boardview/12/6238",
+      "section": "campus",
+      "category": "채용·인턴",
+      "subcategory": "공고",
+      "eligibility": "check",
+      "eligibility_reason": "소속 제한 문구 없음 — 원문 확인",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": "2026-10-29",
+      "event_date": null,
+      "source_id": "hongik-career",
+      "university": "홍익대",
+      "group": "건동홍",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 59,
+      "keywords": [
+        "홍익대",
+        "건동홍",
+        "채용·인턴"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "[홍보][한국식품연구원] 2026 KFRI Conference ... 2026-10-14",
       "also_at": []
     },
     {
@@ -18941,7 +20185,40 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "3434 공통 [홍보][현대자동차그룹] 모빌리티 국비지원교육 HINT 2기 모집기간 연장 및 모집대상 확대 안내 D-6 NEW 2026.10.12 ~ 2026.10.20 조회수 17 2026.10.13 진행중 17 2026.10.13",
+      "benefit": "3434 공통 [홍보][현대자동차그룹] 모빌리티 국비지원교육 HINT 2기 모집기간 연장 및 모집대상 확대 안내 D-5 NEW 2026.10.12 ~ 2026.10.20 조회수 25 2026.10.13 진행중 25 2026.10.13",
+      "also_at": []
+    },
+    {
+      "id": "13ff635c57ea",
+      "title": "[무료 AI 역량강화 교육] 글로벌 공공조달 AX 전략 전문가 과정 (선착순 모집) 새로운게시글",
+      "org": "K-Startup",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179497",
+      "section": "campus",
+      "category": "창업·VC",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "…지원분야 멘토링ㆍ컨설팅ㆍ교육 대상연령 만 20세 이상 ~ 만 39세 이하, 만 40세 이상 기관구분…",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": "2026-11-13",
+      "event_date": "2026-11-16",
+      "source_id": "kstartup-ongoing",
+      "university": null,
+      "group": "중앙정부",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 59,
+      "keywords": [
+        "중앙정부",
+        "창업·VC"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "민간 멘토링ㆍ컨설팅ㆍ교육 D-30 [무료 AI 역량강화 교육] 글로벌 공공조달 AX 전략 전문가 과정 (선착순 모집) 새로운게시글 2026 산업전문인력 AI역량강화 지원사업 (주)글로벌창업연구소 등록일자 2026-10-14 시작일자 2026-10-12 마감일자 2026-11-13 조회 ",
       "also_at": []
     },
     {
@@ -19176,6 +20453,105 @@
       "also_at": []
     },
     {
+      "id": "446cc28e9431",
+      "title": "[흥국자산운용] 대체투자금융본부 경력직 채용공고",
+      "org": "흥국자산운용",
+      "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42660",
+      "section": "finance",
+      "category": "채용·인턴",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "공개 공고",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": "2026-10-23",
+      "event_date": "2026-10-14",
+      "source_id": "kofia-recruit",
+      "university": null,
+      "group": "증권업",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 59,
+      "keywords": [
+        "증권업",
+        "채용·인턴"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "흥국자산운용 [흥국자산운용] 대체투자금융본부 경력직 채용공고",
+      "also_at": []
+    },
+    {
+      "id": "026e7c9ba43c",
+      "title": "[한화자산운용] 상품전략팀 경력직 채용 (~10/27)",
+      "org": "한화자산운용",
+      "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42663",
+      "section": "finance",
+      "category": "채용·인턴",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "공개 공고",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": "2026-10-27",
+      "event_date": null,
+      "source_id": "kofia-recruit",
+      "university": null,
+      "group": "증권업",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 59,
+      "keywords": [
+        "증권업",
+        "채용·인턴"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "한화자산운용 [한화자산운용] 상품전략팀 경력직 채용 (~10/27)",
+      "also_at": []
+    },
+    {
+      "id": "59d8e3dc8e17",
+      "title": "[코람코자산신탁] 리츠투자부문 사업팀 경력직 채용 (과~차장급) (~11/1)",
+      "org": "코람코자산신탁",
+      "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42664",
+      "section": "finance",
+      "category": "채용·인턴",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "공개 공고",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": "2026-11-01",
+      "event_date": null,
+      "source_id": "kofia-recruit",
+      "university": null,
+      "group": "증권업",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 59,
+      "keywords": [
+        "증권업",
+        "채용·인턴"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "코람코자산신탁 [코람코자산신탁] 리츠투자부문 사업팀 경력직 채용 (과~차장급) (~11/1)",
+      "also_at": []
+    },
+    {
       "id": "40964c93603a",
       "title": "(마감) [세무학과] ⭐AI 세무회계 실전 활용⭐특강 신청 안내 (누구나 신청가능!)",
       "org": "서울시립대",
@@ -19206,7 +20582,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "22434 (마감) [세무학과] ⭐AI 세무회계 실전 활용⭐특강 신청 안내 (누구나 신청가능!) 세무학과 2026-10-13 1997",
+      "benefit": "22432 (마감) [세무학과] ⭐AI 세무회계 실전 활용⭐특강 신청 안내 (누구나 신청가능!) 세무학과 2026-10-13 1997",
       "also_at": []
     },
     {
@@ -19478,7 +20854,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "289 KU GLOBAL STARTLINK 「글로벌 창업팀 발굴 · 육성 프로그램」 참여자 모집 고려대안암동캠퍼스타운 05-20 702",
+      "benefit": "289 KU GLOBAL STARTLINK 「글로벌 창업팀 발굴 · 육성 프로그램」 참여자 모집 고려대안암동캠퍼스타운 05-20 704",
       "also_at": []
     },
     {
@@ -19546,7 +20922,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "35 [신한 스퀘어브릿지] 2026 신한 스퀘어브릿지 대학생 창업 공모전 HERO IR_참여팀 모집 NEW 조회수 50 2026.10.08 50 2026.10.08",
+      "benefit": "35 [신한 스퀘어브릿지] 2026 신한 스퀘어브릿지 대학생 창업 공모전 HERO IR_참여팀 모집 NEW 조회수 51 2026.10.08 51 2026.10.08",
       "also_at": [
         "https://startup.hufs.ac.kr/bbs/startup/2398/268748/artclView.do",
         "https://venture.yonsei.ac.kr/community/external/464"
@@ -19583,7 +20959,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "공지 [휴강 안내] 10월 수업 휴강 일정 안내 관리자 2026-09-30 170 공지 2026년 가을축제에 따른 주차 및 차량 통제 안내 관리자 2026-09-21 208 공지 2026년 영캠프 행사에 따른 주차 및 차량 통제 안내 관리자 2026-09-14 207 공지 [서울앵커] ",
+      "benefit": "공지 [휴강 안내] 10월 수업 휴강 일정 안내 관리자 2026-09-30 174 공지 2026년 가을축제에 따른 주차 및 차량 통제 안내 관리자 2026-09-21 209 공지 2026년 영캠프 행사에 따른 주차 및 차량 통제 안내 관리자 2026-09-14 210 공지 [서울앵커] ",
       "also_at": []
     },
     {
@@ -19651,7 +21027,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "158 2026학년도 2학기 커리어로드맵 경진대회 시행 안내 학과 관리자 2026-10-02 32",
+      "benefit": "158 2026학년도 2학기 커리어로드맵 경진대회 시행 안내 학과 관리자 2026-10-02 36",
       "also_at": []
     },
     {
@@ -19685,7 +21061,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "159 CJ FNS 미국지사 채용설명회(10.07.(수)) 학과 관리자 2026-10-02 36",
+      "benefit": "159 CJ FNS 미국지사 채용설명회(10.07.(수)) 학과 관리자 2026-10-02 40",
       "also_at": []
     },
     {
@@ -19753,7 +21129,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "440 (홍보)2026 정주영 창업경진대회 신청 안내 99 2026.10.06",
+      "benefit": "440 (홍보)2026 정주영 창업경진대회 신청 안내 104 2026.10.06",
       "also_at": []
     },
     {
@@ -19787,7 +21163,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "441 c0mpiled-17: Seoul 해커톤 참가자 모집 210 2026.10.07",
+      "benefit": "441 c0mpiled-17: Seoul 해커톤 참가자 모집 225 2026.10.07",
       "also_at": []
     },
     {
@@ -19928,7 +21304,7 @@
     },
     {
       "id": "d1212da00e47",
-      "title": "행사·활동·이벤트 공지 [기후변화대응사업단] 2026 기후변화대응 비즈니스 아이디어 공모전(~10/17) 2026.10.06 기후변화대응사업단 오명혜 조회수 3955",
+      "title": "행사·활동·이벤트 공지 [기후변화대응사업단] 2026 기후변화대응 비즈니스 아이디어 공모전(~10/17) 2026.10.06 기후변화대응사업단 오명혜 조회수 4143",
       "org": "국민대",
       "url": "https://www.kookmin.ac.kr/user/kmuNews/notice/9/12472/view.do?currentPageNo=1",
       "section": "campus",
@@ -19957,7 +21333,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "행사·활동·이벤트 공지 [기후변화대응사업단] 2026 기후변화대응 비즈니스 아이디어 공모전(~10/17) 2026.10.06 기후변화대응사업단 오명혜 조회수 3955",
+      "benefit": "행사·활동·이벤트 공지 [기후변화대응사업단] 2026 기후변화대응 비즈니스 아이디어 공모전(~10/17) 2026.10.06 기후변화대응사업단 오명혜 조회수 4143",
       "also_at": []
     },
     {
@@ -20562,7 +21938,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "162 인성면접, 직무역량면접 대비 특강(10.21(수),12시까지 신청) 학과 관리자 2026-10-06 30",
+      "benefit": "162 인성면접, 직무역량면접 대비 특강(10.21(수),12시까지 신청) 학과 관리자 2026-10-06 36",
       "also_at": []
     },
     {
@@ -20901,12 +22277,12 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "3432 공통 [홍보] 「2026 청년정책 공모전」개최 안내 및 홍보 D-16 NEW 2026.10.07 ~ 2026.10.30 조회수 15 2026.10.13 첨부파일 진행중 15 2026.10.13 첨부파일",
+      "benefit": "3432 공통 [홍보] 「2026 청년정책 공모전」개최 안내 및 홍보 D-15 NEW 2026.10.07 ~ 2026.10.30 조회수 24 2026.10.13 첨부파일 진행중 24 2026.10.13 첨부파일",
       "also_at": []
     },
     {
       "id": "e479d57c1231",
-      "title": "인력 D-77 마감일자 2026-12-30 [Startup Korea Special Visa] Announcement on Application for Recommendations for the “Startup Korea Special Visa” Announcement on Application for Recommendations for the “Startup Korea Special Visa” 창업진흥원 조회 117,853",
+      "title": "인력 D-77 마감일자 2026-12-30 [Startup Korea Special Visa] Announcement on Application for Recommendations for the “Startup Korea Special Visa” Announcement on Application for Recommendations for the “Startup Korea Special Visa” 창업진흥원 조회 118,117",
       "org": "K-Startup",
       "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=171419",
       "section": "campus",
@@ -20939,7 +22315,7 @@
     },
     {
       "id": "be9972c6b606",
-      "title": "사업화 D-78 마감일자 2026-12-31 2026년 중앙부처 및 지자체 창업지원사업 통합공고 2026년 중앙부처 및 지자체 창업지원사업 통합공고 창업진흥원 조회 276,769",
+      "title": "사업화 D-78 마감일자 2026-12-31 2026년 중앙부처 및 지자체 창업지원사업 통합공고 2026년 중앙부처 및 지자체 창업지원사업 통합공고 창업진흥원 조회 277,220",
       "org": "K-Startup",
       "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=175783",
       "section": "campus",
@@ -20967,12 +22343,12 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "사업화 D-78 마감일자 2026-12-31 2026년 중앙부처 및 지자체 창업지원사업 통합공고 2026년 중앙부처 및 지자체 창업지원사업 통합공고 창업진흥원 조회 276,769",
+      "benefit": "사업화 D-78 마감일자 2026-12-31 2026년 중앙부처 및 지자체 창업지원사업 통합공고 2026년 중앙부처 및 지자체 창업지원사업 통합공고 창업진흥원 조회 277,220",
       "also_at": []
     },
     {
       "id": "4178a8749bb9",
-      "title": "사업화 D-78 마감일자 2026-12-31 2026년 팁스(TIPS) 창업기업 지원계획 수정 공고 2026년 팁스(TIPS) 창업기업 지원계획 수정 공고 창업진흥원 조회 168,094",
+      "title": "사업화 D-78 마감일자 2026-12-31 2026년 팁스(TIPS) 창업기업 지원계획 수정 공고 2026년 팁스(TIPS) 창업기업 지원계획 수정 공고 창업진흥원 조회 168,559",
       "org": "K-Startup",
       "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176076",
       "section": "campus",
@@ -21000,12 +22376,12 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "사업화 D-78 마감일자 2026-12-31 2026년 팁스(TIPS) 창업기업 지원계획 수정 공고 2026년 팁스(TIPS) 창업기업 지원계획 수정 공고 창업진흥원 조회 168,094",
+      "benefit": "사업화 D-78 마감일자 2026-12-31 2026년 팁스(TIPS) 창업기업 지원계획 수정 공고 2026년 팁스(TIPS) 창업기업 지원계획 수정 공고 창업진흥원 조회 168,559",
       "also_at": []
     },
     {
       "id": "a4ebcd3a5a6b",
-      "title": "시설ㆍ공간ㆍ보육 D-58 마감일자 2026-12-11 2026 SVC Seoul 멤버십(확장형) 모집공고 2026 SVC Seoul 멤버십(확장형) 모집공고 창업진흥원 조회 60,982",
+      "title": "시설ㆍ공간ㆍ보육 D-58 마감일자 2026-12-11 2026 SVC Seoul 멤버십(확장형) 모집공고 2026 SVC Seoul 멤버십(확장형) 모집공고 창업진흥원 조회 61,421",
       "org": "K-Startup",
       "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178802",
       "section": "campus",
@@ -21033,12 +22409,12 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "시설ㆍ공간ㆍ보육 D-58 마감일자 2026-12-11 2026 SVC Seoul 멤버십(확장형) 모집공고 2026 SVC Seoul 멤버십(확장형) 모집공고 창업진흥원 조회 60,982",
+      "benefit": "시설ㆍ공간ㆍ보육 D-58 마감일자 2026-12-11 2026 SVC Seoul 멤버십(확장형) 모집공고 2026 SVC Seoul 멤버십(확장형) 모집공고 창업진흥원 조회 61,421",
       "also_at": []
     },
     {
       "id": "149e2038464e",
-      "title": "시설ㆍ공간ㆍ보육 D-58 마감일자 2026-12-11 2026 SVC Seoul Membership(Global) Recruitment Announcement 2026 SVC Seoul Membership(Global) Recruitment Announcement 창업진흥원 조회 52,121",
+      "title": "시설ㆍ공간ㆍ보육 D-58 마감일자 2026-12-11 2026 SVC Seoul Membership(Global) Recruitment Announcement 2026 SVC Seoul Membership(Global) Recruitment Announcement 창업진흥원 조회 52,500",
       "org": "K-Startup",
       "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178803",
       "section": "campus",
@@ -23501,7 +24877,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "공통 제61회 연세경영 A/S특강 신청 안내 2026-10-01 조회수 4,494 2026-10-01 조회수 4,494",
+      "benefit": "공통 제61회 연세경영 A/S특강 신청 안내 2026-10-01 조회수 4,599 2026-10-01 조회수 4,599",
       "also_at": []
     },
     {
@@ -23674,6 +25050,40 @@
       "also_at": []
     },
     {
+      "id": "da1efef7c503",
+      "title": "[계약채용][KT&G] 2026년 하반기 계약사원 채용 2026-10-14",
+      "org": "홍익대",
+      "url": "https://inno.hongik.ac.kr/career/boardview/2/25452",
+      "section": "campus",
+      "category": "채용·인턴",
+      "subcategory": "공고",
+      "eligibility": "check",
+      "eligibility_reason": "소속 제한 문구 없음 — 원문 확인",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": null,
+      "event_date": null,
+      "source_id": "hongik-career",
+      "university": "홍익대",
+      "group": "건동홍",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 55,
+      "keywords": [
+        "홍익대",
+        "건동홍",
+        "채용·인턴"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "[계약채용][KT&G] 2026년 하반기 계약사원 채용 2026-10-14",
+      "also_at": []
+    },
+    {
       "id": "7e9f9ef9d26d",
       "title": "AI 연구지원 플랫폼 (SCiNiTO) 시범서비스 (9.7.~11.7.)",
       "org": "동국대",
@@ -23842,7 +25252,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "2026.10.08 진행 비교과·행사 [2026년 서울캠퍼스타운] 생성형 AI 활용 기초 및 업무 자동화 과정 참여자 모집 창업지원단 1248",
+      "benefit": "2026.10.08 진행 비교과·행사 [2026년 서울캠퍼스타운] 생성형 AI 활용 기초 및 업무 자동화 과정 참여자 모집 창업지원단 1312",
       "also_at": []
     },
     {
@@ -23876,7 +25286,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "2026.10.13 외국인유학생 2026 서울 외국인 취업채용박람회 참여 안내 국제팀 84",
+      "benefit": "2026.10.13 외국인유학생 2026 서울 외국인 취업채용박람회 참여 안내 국제팀 177",
       "also_at": []
     },
     {
@@ -23943,7 +25353,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "445 (활동비 150만원+멘토링 지원) 머릿속 아이디어를 실제 AI 서비스로 구현할 100개 프로젝트 모집 68 2026.10.09",
+      "benefit": "445 (활동비 150만원+멘토링 지원) 머릿속 아이디어를 실제 AI 서비스로 구현할 100개 프로젝트 모집 79 2026.10.09",
       "also_at": []
     },
     {
@@ -24286,6 +25696,40 @@
       "location": null,
       "state": null,
       "benefit": "3353 공통 [홍보][에이블런]모두의 AI 실험실 프로젝트 D-8 NEW 2026.10.01 ~ 2026.10.14 조회수 93 2026.10.01 첨부파일 진행중 93 2026.10.01 첨부파일",
+      "also_at": []
+    },
+    {
+      "id": "0a48c4ba2b3a",
+      "title": "[홍보] 「종로 가족사랑 어울림 한마당」 대학생 자원봉사자 모집 홍보 자세히 보기",
+      "org": "홍익대",
+      "url": "https://www.hongik.ac.kr/kr/newscenter/event-contest.do?mode=view&articleNo=159205&article.offset=0&articleLimit=10",
+      "section": "campus",
+      "category": "창업·VC",
+      "subcategory": "공고",
+      "eligibility": "check",
+      "eligibility_reason": "소속 제한 문구 없음 — 원문 확인",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-24",
+      "deadline": null,
+      "event_date": null,
+      "source_id": "hongik-event-contest",
+      "university": "홍익대",
+      "group": "건동홍",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 55,
+      "keywords": [
+        "홍익대",
+        "건동홍",
+        "창업·VC"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "3440 공통 [홍보] 「종로 가족사랑 어울림 한마당」 대학생 자원봉사자 모집 홍보 D-10 NEW 2026.10.24 11:00 ~ 2026.10.24 16:00 조회수 6 2026.10.14 첨부파일 예정 6 2026.10.14 첨부파일",
       "also_at": []
     },
     {
@@ -24987,7 +26431,9 @@
       "location": null,
       "state": null,
       "benefit": "교육/취업 SNS와 숏폼으로 만드는 바이럴 마케팅 실무 (11/19, 선착순) 교육/취업 2026.10.01",
-      "also_at": []
+      "also_at": [
+        "https://www.kita.net/board/notice/noticeDetail.do?postIndex=1873853"
+      ]
     },
     {
       "id": "ee0903838b72",
@@ -25994,7 +27440,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "공지 [휴강 안내] 10월 수업 휴강 일정 안내 관리자 2026-09-30 170 공지 2026년 가을축제에 따른 주차 및 차량 통제 안내 관리자 2026-09-21 208 공지 2026년 영캠프 행사에 따른 주차 및 차량 통제 안내 관리자 2026-09-14 207 공지 [서울앵커] ",
+      "benefit": "공지 [휴강 안내] 10월 수업 휴강 일정 안내 관리자 2026-09-30 174 공지 2026년 가을축제에 따른 주차 및 차량 통제 안내 관리자 2026-09-21 209 공지 2026년 영캠프 행사에 따른 주차 및 차량 통제 안내 관리자 2026-09-14 210 공지 [서울앵커] ",
       "also_at": []
     },
     {
@@ -26028,7 +27474,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "공지 [휴강 안내] 10월 수업 휴강 일정 안내 관리자 2026-09-30 170 공지 2026년 가을축제에 따른 주차 및 차량 통제 안내 관리자 2026-09-21 208 공지 2026년 영캠프 행사에 따른 주차 및 차량 통제 안내 관리자 2026-09-14 207 공지 [서울앵커] ",
+      "benefit": "공지 [휴강 안내] 10월 수업 휴강 일정 안내 관리자 2026-09-30 174 공지 2026년 가을축제에 따른 주차 및 차량 통제 안내 관리자 2026-09-21 209 공지 2026년 영캠프 행사에 따른 주차 및 차량 통제 안내 관리자 2026-09-14 210 공지 [서울앵커] ",
       "also_at": []
     },
     {
@@ -26166,7 +27612,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "일반공지 [대학일자리+] 2026년 대학일자리플러스센터 만족도 조사 진로취업센터 2026.10.12 129 0",
+      "benefit": "일반공지 [대학일자리+] 2026년 대학일자리플러스센터 만족도 조사 진로취업센터 2026.10.12 143 0",
       "also_at": []
     },
     {
@@ -27721,7 +29167,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "공지 모집 [모집] 2027학년도 FSU 디즈니 인턴십 프로그램 참가자 모집 안내 2026-10-12 / 183 2026-10-12 183",
+      "benefit": "공지 모집 [모집] 2027학년도 FSU 디즈니 인턴십 프로그램 참가자 모집 안내 2026-10-12 / 202 2026-10-12 202",
       "also_at": [
         "https://econ.snu.ac.kr/announcement/notice?bm=v&bbsidx=11621"
       ]
@@ -27757,7 +29203,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "공지 [휴강 안내] 10월 수업 휴강 일정 안내 관리자 2026-09-30 170 공지 2026년 가을축제에 따른 주차 및 차량 통제 안내 관리자 2026-09-21 208 공지 2026년 영캠프 행사에 따른 주차 및 차량 통제 안내 관리자 2026-09-14 207 공지 [서울앵커] ",
+      "benefit": "공지 [휴강 안내] 10월 수업 휴강 일정 안내 관리자 2026-09-30 174 공지 2026년 가을축제에 따른 주차 및 차량 통제 안내 관리자 2026-09-21 209 공지 2026년 영캠프 행사에 따른 주차 및 차량 통제 안내 관리자 2026-09-14 210 공지 [서울앵커] ",
       "also_at": []
     },
     {
@@ -29291,7 +30737,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "154 [특강] 양자컴퓨팅과 경영의 미래 : 기술 혁신에서 비즈니스 가치로 학과 관리자 2026-10-01 54",
+      "benefit": "154 [특강] 양자컴퓨팅과 경영의 미래 : 기술 혁신에서 비즈니스 가치로 학과 관리자 2026-10-01 60",
       "also_at": []
     },
     {
@@ -29325,7 +30771,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "2026.10.13 진행 비교과·행사 [모집] SSU:Lib AI Challenge 2026: 영상 기획·제작 공모전 참가자 모집(10/07~11/02) 중앙도서관 188",
+      "benefit": "2026.10.13 진행 비교과·행사 [모집] SSU:Lib AI Challenge 2026: 영상 기획·제작 공모전 참가자 모집(10/07~11/02) 중앙도서관 290",
       "also_at": []
     },
     {
@@ -30106,7 +31552,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "일반공지 [입학] 2027학년도 전기 대학원 외국인전형(신입학) 모집요강(국문,영문) 안내 외국인학생센터 2026.09.15 479 3",
+      "benefit": "일반공지 [입학] 2027학년도 전기 대학원 외국인전형(신입학) 모집요강(국문,영문) 안내 외국인학생센터 2026.09.15 487 3",
       "also_at": []
     },
     {
@@ -30140,7 +31586,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "73 [기술지주회사] '2026 KUnicorn IR-Day' 참가팀(기업) 모집 안내 총관리자 2026.09.28 269 2",
+      "benefit": "73 [기술지주회사] '2026 KUnicorn IR-Day' 참가팀(기업) 모집 안내 총관리자 2026.09.28 273 2",
       "also_at": []
     },
     {
@@ -30472,7 +31918,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "984 [호텔외식비즈니스학과] 계약직원 모집 첨부파일 984 호텔외식비즈니스학과 2026.10.02 290 호텔외식비즈니스학과 2026.10.02 290",
+      "benefit": "984 [호텔외식비즈니스학과] 계약직원 모집 첨부파일 984 호텔외식비즈니스학과 2026.10.02 294 호텔외식비즈니스학과 2026.10.02 294",
       "also_at": []
     },
     {
@@ -30647,7 +32093,7 @@
     },
     {
       "id": "dd44d7275597",
-      "title": "932 [모집] 청년·창업자 대상「RE:CREATE 성수 2026 성수, 브랜드의 전성시대」참가자 모집 창업지원단 199 2026-09-28",
+      "title": "932 [모집] 청년·창업자 대상「RE:CREATE 성수 2026 성수, 브랜드의 전성시대」참가자 모집 창업지원단 200 2026-09-28",
       "org": "서울시립대",
       "url": "https://www.uos.ac.kr/korColumn/view.do?list_id=FA35&seq=959&identified=anonymous",
       "section": "campus",
@@ -30676,7 +32122,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "932 [모집] 청년·창업자 대상「RE:CREATE 성수 2026 성수, 브랜드의 전성시대」참가자 모집 창업지원단 199 2026-09-28",
+      "benefit": "932 [모집] 청년·창업자 대상「RE:CREATE 성수 2026 성수, 브랜드의 전성시대」참가자 모집 창업지원단 200 2026-09-28",
       "also_at": []
     },
     {
@@ -30916,7 +32362,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "2026학년도 동계 단기 해외봉사 참가자 모집 안내 2026학년도 동계 단기 해외봉사 참가자 모집 안내 숭실대학교 사... 2026-10-13 / 숭실대 경영학부 조회수: 10",
+      "benefit": "2026학년도 동계 단기 해외봉사 참가자 모집 안내 2026학년도 동계 단기 해외봉사 참가자 모집 안내 숭실대학교 사... 2026-10-13 / 숭실대 경영학부 조회수: 14",
       "also_at": []
     },
     {
@@ -30986,41 +32432,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "2026.10.12 진행 장학 ★2026학년도 2학기 인송문화재단 장학생 추천 공고(~10/21수 14시) 학생지원팀 611",
-      "also_at": []
-    },
-    {
-      "id": "3973d8ebc3e3",
-      "title": "[단국대학교 기술지주회사] TECH IP-UP: IP 창출캠프 참가팀 모집",
-      "org": "연세대",
-      "url": "https://venture.yonsei.ac.kr/community/notice/341",
-      "section": "campus",
-      "category": "창업·VC",
-      "subcategory": "공고",
-      "eligibility": "check",
-      "eligibility_reason": "소속 제한 문구 없음 — 원문 확인",
-      "dongguk_only": false,
-      "requires_card": false,
-      "posted": "2026-10-13",
-      "deadline": "2026-10-28",
-      "event_date": "2026-11-06",
-      "source_id": "yonsei-venture-notice",
-      "university": "연세대",
-      "group": "서연고",
-      "campus": null,
-      "first_seen": "2026-10-14",
-      "recurring": null,
-      "priority": 51,
-      "keywords": [
-        "연세대",
-        "서연고",
-        "창업·VC"
-      ],
-      "format": null,
-      "cost": null,
-      "location": null,
-      "state": null,
-      "benefit": "[단국대학교 기술지주회사] TECH IP-UP: IP 창출캠프 참가팀 모집 18 2026.10.13",
+      "benefit": "2026.10.12 진행 장학 ★2026학년도 2학기 인송문화재단 장학생 추천 공고(~10/21수 14시) 학생지원팀 720",
       "also_at": []
     },
     {
@@ -31158,7 +32570,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "1676 장학 2026-2 자율전공 러닝메이트 프로그램 멘토멘티 모집 NEW 조회수 636 2026.10.12 636 2026.10.12",
+      "benefit": "1675 장학 2026-2 자율전공 러닝메이트 프로그램 멘토멘티 모집 NEW 조회수 668 2026.10.12 668 2026.10.12",
       "also_at": [
         "https://www.hongik.ac.kr/kr/newscenter/notice.do?mode=view&articleNo=159145&noCat=501"
       ]
@@ -31331,40 +32743,6 @@
       "also_at": []
     },
     {
-      "id": "a515f1373964",
-      "title": "2026학년도 2학기 커리어-Up(자격증부문) 장학생 공지",
-      "org": "국민대",
-      "url": "https://biz.kookmin.ac.kr/community/notice/5808",
-      "section": "campus",
-      "category": "장학",
-      "subcategory": "공고",
-      "eligibility": "check",
-      "eligibility_reason": "소속 제한 문구 없음 — 원문 확인",
-      "dongguk_only": false,
-      "requires_card": false,
-      "posted": null,
-      "deadline": "2026-11-02",
-      "event_date": "2026-10-13",
-      "source_id": "kookmin-biz",
-      "university": "국민대",
-      "group": "국숭세단",
-      "campus": null,
-      "first_seen": "2026-10-14",
-      "recurring": null,
-      "priority": 50,
-      "keywords": [
-        "국민대",
-        "국숭세단",
-        "장학"
-      ],
-      "format": null,
-      "cost": null,
-      "location": null,
-      "state": null,
-      "benefit": "2026학년도 2학기 커리어-Up(자격증부문) 장학생 공지",
-      "also_at": []
-    },
-    {
       "id": "8135cb3ecd0e",
       "title": "10월 14일(수)~ 10월 15일(목) 헌혈 버스 시행 안내",
       "org": "동국대학교",
@@ -31480,7 +32858,7 @@
       "requires_card": false,
       "posted": "2026-10-13",
       "deadline": "2026-10-25",
-      "event_date": "2026-11-11",
+      "event_date": null,
       "source_id": "korea-general",
       "university": "고려대",
       "group": "서연고",
@@ -31497,7 +32875,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "403 [학부대학_BK21] 인문사회계열 대학원생을 위한 「나만의 AI 연구 운영 체제(Research OS) 설계 워크숍」 참여자 모집 (~10/25) 학부대학행정팀 2026-10-13 33",
+      "benefit": "401 [학부대학_BK21] 인문사회계열 대학원생을 위한 「나만의 AI 연구 운영 체제(Research OS) 설계 워크숍」 참여자 모집 (~10/25) 학부대학행정팀 2026-10-13 33",
       "also_at": []
     },
     {
@@ -31731,6 +33109,40 @@
       "location": null,
       "state": "모집중",
       "benefit": "커뮤니티 모집중",
+      "also_at": []
+    },
+    {
+      "id": "93e3014a00a5",
+      "title": "2026학년도 태재연구재단 장학생 선발 안내 (~10/22) 자세히 보기",
+      "org": "연세대",
+      "url": "https://ysb.yonsei.ac.kr/ysb/news/notice.do?mode=view&articleNo=55268&article.offset=0&articleLimit=10",
+      "section": "campus",
+      "category": "장학",
+      "subcategory": "공고",
+      "eligibility": "check",
+      "eligibility_reason": "소속 제한 문구 없음 — 원문 확인",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": "2026-10-22",
+      "event_date": null,
+      "source_id": "yonsei-ysb",
+      "university": "연세대",
+      "group": "서연고",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 50,
+      "keywords": [
+        "연세대",
+        "서연고",
+        "장학"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "학부 2026학년도 태재연구재단 장학생 선발 안내 (~10/22) 2026-10-14 조회수 4 2026-10-14 조회수 4",
       "also_at": []
     },
     {
@@ -32006,6 +33418,40 @@
       "also_at": []
     },
     {
+      "id": "f95c13169beb",
+      "title": "[대학일자리+] (졸업생특화) 금융직무로드맵 \"금융직무특화교육\" 참여자 모집 새글",
+      "org": "건국대",
+      "url": "https://job.konkuk.ac.kr/bbs/job/4083/1209735/artclView.do",
+      "section": "campus",
+      "category": "교육·부트캠프",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "…있으니 금융권 취업을 희망하는 건국대 및 타대생, 청년분들의 많은 참여 부탁드립니다. 🍀…",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-13",
+      "deadline": null,
+      "event_date": "2026-11-02",
+      "source_id": "konkuk-job",
+      "university": "건국대",
+      "group": "건동홍",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 49,
+      "keywords": [
+        "건국대",
+        "건동홍",
+        "교육·부트캠프"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "91 [대학일자리+] (졸업생특화) 금융직무로드맵 \"금융직무특화교육\" 참여자 모집 새글 진로취업센터 2026.10.13 36 0",
+      "also_at": []
+    },
+    {
       "id": "593d21390f84",
       "title": "[아산나눔재단] 2026 정주영 창업경진대회에 초대합니다 (10.28 수 13:00 | 코엑스)",
       "org": "KU",
@@ -32212,6 +33658,39 @@
       "also_at": []
     },
     {
+      "id": "1b144c23308d",
+      "title": "바이오/헬스케어 기업들을 위한 「2026 혁신신약살롱 마곡」 참여 안내 새로운게시글",
+      "org": "K-Startup",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179492",
+      "section": "campus",
+      "category": "공지",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "공개 공고",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": "2026-10-21",
+      "event_date": null,
+      "source_id": "kstartup-ongoing",
+      "university": null,
+      "group": "중앙정부",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 49,
+      "keywords": [
+        "중앙정부",
+        "공지"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "공공 행사ㆍ네트워크 D-7 바이오/헬스케어 기업들을 위한 「2026 혁신신약살롱 마곡」 참여 안내 새로운게시글 바이오/헬스케어 기업들을 위한 「2026 혁신신약살롱 마곡」 참여 안내 서울경제진흥원 등록일자 2026-10-14 시작일자 2026-10-12 마감일자 2026-10-21 조회",
+      "also_at": []
+    },
+    {
       "id": "4f809da270ca",
       "title": "[학생생활상담소] 2026-2학기 온라인 자살예방교육 안내 자세히 보기",
       "org": "세종대",
@@ -32242,7 +33721,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "2157 [학생생활상담소] 2026-2학기 온라인 자살예방교육 안내 2157 학생생활상담소 2026.09.08 27572 학생생활상담소 2026.09.08 27572",
+      "benefit": "2157 [학생생활상담소] 2026-2학기 온라인 자살예방교육 안내 2157 학생생활상담소 2026.09.08 27601 학생생활상담소 2026.09.08 27601",
       "also_at": []
     },
     {
@@ -32276,7 +33755,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "2163 [신청] 26-2 (2~4학년) 대면 그룹 컨설팅/온라인 셀프 학습 컨설팅 프로그램 (9/21~10/18) NEW 2163 교수학습개발센터 2026.10.06 367 교수학습개발센터 2026.10.06 367",
+      "benefit": "2163 [신청] 26-2 (2~4학년) 대면 그룹 컨설팅/온라인 셀프 학습 컨설팅 프로그램 (9/21~10/18) NEW 2163 교수학습개발센터 2026.10.06 380 교수학습개발센터 2026.10.06 380",
       "also_at": []
     },
     {
@@ -32514,7 +33993,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "2026.10.13 외국인유학생 [교내행사] 2026-2학기 외국인 유학생 문화체험 프로그램 참가 모집 안내 국제팀 177",
+      "benefit": "2026.10.13 외국인유학생 [교내행사] 2026-2학기 외국인 유학생 문화체험 프로그램 참가 모집 안내 국제팀 259",
       "also_at": []
     },
     {
@@ -32654,7 +34133,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "3433 공통 [홍보][메이캔] 지식재산 보호 광고 공모전 D-19 NEW 2026.10.06 ~ 2026.11.02 조회수 14 2026.10.13 첨부파일 진행중 14 2026.10.13 첨부파일",
+      "benefit": "3433 공통 [홍보][메이캔] 지식재산 보호 광고 공모전 D-18 NEW 2026.10.06 ~ 2026.11.02 조회수 19 2026.10.13 첨부파일 진행중 19 2026.10.13 첨부파일",
       "also_at": []
     },
     {
@@ -32688,7 +34167,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "3435 공통 「2026학년도 전국 대학(원)생 빅데이터 경진대회」 NEW 2026.10.13 ~ 2026.10.30 조회수 13 2026.10.13 첨부파일 진행중 13 2026.10.13 첨부파일",
+      "benefit": "3435 공통 「2026학년도 전국 대학(원)생 빅데이터 경진대회」 NEW 2026.10.13 ~ 2026.10.30 조회수 19 2026.10.13 첨부파일 진행중 19 2026.10.13 첨부파일",
       "also_at": []
     },
     {
@@ -32722,7 +34201,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "3436 공통 -농업가치 확산을 위한 농심천심 대학(원)생 논문 공모전- D-131 NEW 2027.02.22 ~ 2027.02.26 조회수 10 2026.10.13 첨부파일 예정 10 2026.10.13 첨부파일",
+      "benefit": "3436 공통 -농업가치 확산을 위한 농심천심 대학(원)생 논문 공모전- D-130 NEW 2027.02.22 ~ 2027.02.26 조회수 20 2026.10.13 첨부파일 예정 20 2026.10.13 첨부파일",
       "also_at": []
     },
     {
@@ -32892,7 +34371,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "campaign [학술정보] Web of Science 생성형 AI Research Assistant 시범 서비스 안내 (~10/27) 공지 학술정보큐레이션팀 2026-09-29 Views 1044 학술정보큐레이션팀 2026-09-29 1044",
+      "benefit": "campaign [학술정보] Web of Science 생성형 AI Research Assistant 시범 서비스 안내 (~10/27) 공지 학술정보큐레이션팀 2026-09-29 Views 1087 학술정보큐레이션팀 2026-09-29 1087",
       "also_at": []
     },
     {
@@ -32926,7 +34405,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "campaign [시설] 과학도서관 5층 Carrels-Bee 배관 공사 안내(2026.10.17(토) 07:00-17:00) New 공지 학술정보큐레이션팀 2026-10-13 Views 25 학술정보큐레이션팀 2026-10-13 25",
+      "benefit": "campaign [시설] 과학도서관 5층 Carrels-Bee 배관 공사 안내(2026.10.17(토) 07:00-17:00) New 공지 학술정보큐레이션팀 2026-10-13 Views 40 학술정보큐레이션팀 2026-10-13 40",
       "also_at": []
     },
     {
@@ -32960,7 +34439,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "2026.10.12 진행 장학 ★ 2026학년도 동계방학 중 국가근로(교외근로) 신청 안내 학생지원팀 721",
+      "benefit": "2026.10.12 진행 장학 ★ 2026학년도 동계방학 중 국가근로(교외근로) 신청 안내 학생지원팀 815",
       "also_at": []
     },
     {
@@ -32994,7 +34473,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "2026.10.12 진행 장학 은평구민장학재단 2026 하반기 은평구민 장학생 선발 안내(~10/28수 18시) 학생지원팀 433",
+      "benefit": "2026.10.12 진행 장학 은평구민장학재단 2026 하반기 은평구민 장학생 선발 안내(~10/28수 18시) 학생지원팀 519",
       "also_at": []
     },
     {
@@ -33062,7 +34541,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "3439 공통 2026 창업 및 기업연계형 캡스톤디자인 프로그램 참가공고 D-17 NEW 2026.10.13 ~ 2026.10.30 12:00 조회수 17 2026.10.13 첨부파일 진행중 17 2026.10.13 첨부파일",
+      "benefit": "3439 공통 2026 창업 및 기업연계형 캡스톤디자인 프로그램 참가공고 D-16 NEW 2026.10.13 ~ 2026.10.30 12:00 조회수 35 2026.10.13 첨부파일 진행중 35 2026.10.13 첨부파일",
       "also_at": []
     },
     {
@@ -33096,7 +34575,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "1677 학생활동 2026학년도 동계 국제봉사활동 참가자 모집 (서울캠퍼스) NEW 조회수 635 2026.10.13 첨부파일 635 2026.10.13 첨부파일",
+      "benefit": "1676 학생활동 2026학년도 동계 국제봉사활동 참가자 모집 (서울캠퍼스) NEW 조회수 723 2026.10.13 첨부파일 723 2026.10.13 첨부파일",
       "also_at": [
         "https://www.hongik.ac.kr/kr/newscenter/notice.do?mode=view&articleNo=159150&noCat=514"
       ]
@@ -33132,7 +34611,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "344 2027 독일 정부초청(DAAD) 섬머코스 장학생 선발 안내 새글 국제교류협력팀 2026.10.12 196 1",
+      "benefit": "344 2027 독일 정부초청(DAAD) 섬머코스 장학생 선발 안내 새글 국제교류협력팀 2026.10.12 205 1",
       "also_at": []
     },
     {
@@ -33375,7 +34854,7 @@
     },
     {
       "id": "f4e74337d37b",
-      "title": "8268 2026 하반기 은평구민 장학생 선발 안내 새글 장학 조회수 63 작성일 2026.10.13 기간 2026.10.12 ~ 2026.10.28 학생지원팀(장학)",
+      "title": "8268 2026 하반기 은평구민 장학생 선발 안내 새글 장학 조회수 65 작성일 2026.10.13 기간 2026.10.12 ~ 2026.10.28 학생지원팀(장학)",
       "org": "연세대",
       "url": "https://www.yonsei.ac.kr/bbs/sc/58/944337/artclView.do",
       "section": "campus",
@@ -33404,7 +34883,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "8268 2026 하반기 은평구민 장학생 선발 안내 새글 장학 조회수 63 작성일 2026.10.13 기간 2026.10.12 ~ 2026.10.28 학생지원팀(장학)",
+      "benefit": "8268 2026 하반기 은평구민 장학생 선발 안내 새글 장학 조회수 65 작성일 2026.10.13 기간 2026.10.12 ~ 2026.10.28 학생지원팀(장학)",
       "also_at": []
     },
     {
@@ -33442,8 +34921,76 @@
       "also_at": []
     },
     {
+      "id": "a515f1373964",
+      "title": "2026학년도 2학기 커리어-Up(자격증부문) 장학생 공지",
+      "org": "국민대",
+      "url": "https://biz.kookmin.ac.kr/community/notice/5808",
+      "section": "campus",
+      "category": "장학",
+      "subcategory": "공고",
+      "eligibility": "check",
+      "eligibility_reason": "소속 제한 문구 없음 — 원문 확인",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": null,
+      "deadline": null,
+      "event_date": null,
+      "source_id": "kookmin-biz",
+      "university": "국민대",
+      "group": "국숭세단",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 46,
+      "keywords": [
+        "국민대",
+        "국숭세단",
+        "장학"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "2026학년도 2학기 커리어-Up(자격증부문) 장학생 공지",
+      "also_at": []
+    },
+    {
+      "id": "89d227c4b5f7",
+      "title": "2026학년도 2학기 중간시험 부정행위 예방 및 생성형 AI 윤리적 활용 안내",
+      "org": "국민대",
+      "url": "https://biz.kookmin.ac.kr/community/notice/5811",
+      "section": "campus",
+      "category": "AI·테크",
+      "subcategory": "공고",
+      "eligibility": "check",
+      "eligibility_reason": "소속 제한 문구 없음 — 원문 확인",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": null,
+      "deadline": null,
+      "event_date": null,
+      "source_id": "kookmin-biz",
+      "university": "국민대",
+      "group": "국숭세단",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 46,
+      "keywords": [
+        "국민대",
+        "국숭세단",
+        "AI·테크"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "2026학년도 2학기 중간시험 부정행위 예방 및 생성형 AI 윤리적 활용 안내",
+      "also_at": []
+    },
+    {
       "id": "14c138382808",
-      "title": "[공지] [일반]2026학년도 고려대학교 학부생 대학생활 만족도 조사 2026.09.18 Views 348 1) 제 목 : 2026학년도 고려대학교 학부생 대학생활 만족도 조사 2) 대 상 : 본교 서울캠퍼스 학부 재학생 3) 기 간 : 2026.09.07.(월) ~ 10.16.(금) 4) 방 법 : 포스터 내 QR코드 스캔 또는 아래 링크 접속 5) 주관 및 문의 : 대학정책연구원(ayeonghan@korea.ac.kr, 02-3290-2758) - https://rnr.svybx.kr/sp7/S21164i8q34l/langin.asp",
+      "title": "[공지] [일반]2026학년도 고려대학교 학부생 대학생활 만족도 조사 2026.09.18 Views 358 1) 제 목 : 2026학년도 고려대학교 학부생 대학생활 만족도 조사 2) 대 상 : 본교 서울캠퍼스 학부 재학생 3) 기 간 : 2026.09.07.(월) ~ 10.16.(금) 4) 방 법 : 포스터 내 QR코드 스캔 또는 아래 링크 접속 5) 주관 및 문의 : 대학정책연구원(ayeonghan@korea.ac.kr, 02-3290-2758) - https://rnr.svybx.kr/sp7/S21164i8q34l/langin.asp",
       "org": "고려대",
       "url": "https://biz.korea.ac.kr/news/notice_view.html?no=7333&key=&keyfield=&kind=&cate=&page=1",
       "section": "campus",
@@ -33472,12 +35019,12 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "[공지] [일반]2026학년도 고려대학교 학부생 대학생활 만족도 조사 2026.09.18 Views 348 1) 제 목 : 2026학년도 고려대학교 학부생 대학생활 만족도 조사 2) 대 상 : 본교 서울캠퍼스 학부 재학생 3) 기 간 : 2026.09.07.(월) ~ 10.16.(금) ",
+      "benefit": "[공지] [일반]2026학년도 고려대학교 학부생 대학생활 만족도 조사 2026.09.18 Views 358 1) 제 목 : 2026학년도 고려대학교 학부생 대학생활 만족도 조사 2) 대 상 : 본교 서울캠퍼스 학부 재학생 3) 기 간 : 2026.09.07.(월) ~ 10.16.(금) ",
       "also_at": []
     },
     {
       "id": "3b83929f22c2",
-      "title": "[일반]2026 중견기업 혁신 컨퍼런스 개최 및 사전등록 안내(~11/13금) 2026.10.13 Views 56 2026 중견기업 혁신 컨퍼런스 개최 및 사전등록 안내 급변하는 글로벌 통상환경과 AI·디지털 전환 등 빠르게 변화하는 경영환경 속에서 중견기업의 새로운 성장 방향과 혁신 전략을 모색하는 「2026 중견기업 혁신 컨퍼런스」가 오는 11월 18일(수) 개최됩니다. 이번 컨퍼런스에서는 삼성SDS, 신성이엔지, BGF리테일 등 기업의 성공 사례를 바탕으로 중견기업에 실질적인 도움이 될 성장 전략을 살펴보고, 글로벌 통상환경 변화에 따른 기업의 대응 전략과 AI를 활용한 기업 혁신 및 지속가능한 성장 방안을 함께 논의할 예정입니다. 또한 중견기업 대표 및 관련 분야 전문가들이 참여해 변화하는 산업환경에 대한 인사이트와 현장의 생생한 경험을 공유합니다. 중견기업의 혁신과 지속가능한 성장을 위한 이번 행사에 많은 관심과 참여 부탁드립니다. ■ 행사 개요 행사명: 2026 중견기업 혁신 컨퍼런스 일시: 2026년 11월 18일(수) 13:30~17:00 장소: 웨스틴 조선 서울, 그랜드볼룸 참가비: 무료 사전등록 마감: 2026년 11월 13일(금) ■ 참가 신청 및 안내 참가 신청: https://buly.kr/BTSUSdc 공식 홈페이지: https://middlemarket2026.kr/ ※ 원활한 행사 운영을 위해 사전등록 후 참석해 주시기 바랍니다. -------------------------------------------------------------------------------------------- 2026 중견기업 혁신 컨퍼런스 사무국 문의: 02-6925-0651 이메일: cimme2026@gmail.com --------------------------------------------------------------------------------------------",
+      "title": "[일반]2026 중견기업 혁신 컨퍼런스 개최 및 사전등록 안내(~11/13금) 2026.10.13 Views 91 2026 중견기업 혁신 컨퍼런스 개최 및 사전등록 안내 급변하는 글로벌 통상환경과 AI·디지털 전환 등 빠르게 변화하는 경영환경 속에서 중견기업의 새로운 성장 방향과 혁신 전략을 모색하는 「2026 중견기업 혁신 컨퍼런스」가 오는 11월 18일(수) 개최됩니다. 이번 컨퍼런스에서는 삼성SDS, 신성이엔지, BGF리테일 등 기업의 성공 사례를 바탕으로 중견기업에 실질적인 도움이 될 성장 전략을 살펴보고, 글로벌 통상환경 변화에 따른 기업의 대응 전략과 AI를 활용한 기업 혁신 및 지속가능한 성장 방안을 함께 논의할 예정입니다. 또한 중견기업 대표 및 관련 분야 전문가들이 참여해 변화하는 산업환경에 대한 인사이트와 현장의 생생한 경험을 공유합니다. 중견기업의 혁신과 지속가능한 성장을 위한 이번 행사에 많은 관심과 참여 부탁드립니다. ■ 행사 개요 행사명: 2026 중견기업 혁신 컨퍼런스 일시: 2026년 11월 18일(수) 13:30~17:00 장소: 웨스틴 조선 서울, 그랜드볼룸 참가비: 무료 사전등록 마감: 2026년 11월 13일(금) ■ 참가 신청 및 안내 참가 신청: https://buly.kr/BTSUSdc 공식 홈페이지: https://middlemarket2026.kr/ ※ 원활한 행사 운영을 위해 사전등록 후 참석해 주시기 바랍니다. -------------------------------------------------------------------------------------------- 2026 중견기업 혁신 컨퍼런스 사무국 문의: 02-6925-0651 이메일: cimme2026@gmail.com --------------------------------------------------------------------------------------------",
       "org": "고려대",
       "url": "https://biz.korea.ac.kr/news/notice_view.html?no=7351&key=&keyfield=&kind=&cate=&page=1",
       "section": "campus",
@@ -33506,7 +35053,75 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "[일반]2026 중견기업 혁신 컨퍼런스 개최 및 사전등록 안내(~11/13금) 2026.10.13 Views 56 2026 중견기업 혁신 컨퍼런스 개최 및 사전등록 안내 급변하는 글로벌 통상환경과 AI·디지털 전환 등 빠르게 변화하는 경영환경 속에서 중견기업의 새로운 성장 방향과 혁신 ",
+      "benefit": "[일반]2026 중견기업 혁신 컨퍼런스 개최 및 사전등록 안내(~11/13금) 2026.10.13 Views 91 2026 중견기업 혁신 컨퍼런스 개최 및 사전등록 안내 급변하는 글로벌 통상환경과 AI·디지털 전환 등 빠르게 변화하는 경영환경 속에서 중견기업의 새로운 성장 방향과 혁신 ",
+      "also_at": []
+    },
+    {
+      "id": "73a14d060df9",
+      "title": "[홍보][SK텔레콤] FLY AI 10기 모집 2026-10-14",
+      "org": "홍익대",
+      "url": "https://inno.hongik.ac.kr/career/boardview/12/6239",
+      "section": "campus",
+      "category": "AI·테크",
+      "subcategory": "공고",
+      "eligibility": "check",
+      "eligibility_reason": "소속 제한 문구 없음 — 원문 확인",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": "2026-11-08",
+      "event_date": "2026-12-18",
+      "source_id": "hongik-career",
+      "university": "홍익대",
+      "group": "건동홍",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 46,
+      "keywords": [
+        "홍익대",
+        "건동홍",
+        "AI·테크"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "[홍보][SK텔레콤] FLY AI 10기 모집 2026-10-14",
+      "also_at": []
+    },
+    {
+      "id": "463e323ea250",
+      "title": "[홍보]12월 국비지원 3D·미디어아트 교육과정 안내 2026-10-14",
+      "org": "홍익대",
+      "url": "https://inno.hongik.ac.kr/career/boardview/12/6240",
+      "section": "campus",
+      "category": "AI·테크",
+      "subcategory": "공고",
+      "eligibility": "check",
+      "eligibility_reason": "소속 제한 문구 없음 — 원문 확인",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": null,
+      "event_date": null,
+      "source_id": "hongik-career",
+      "university": "홍익대",
+      "group": "건동홍",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 46,
+      "keywords": [
+        "홍익대",
+        "건동홍",
+        "AI·테크"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "[홍보]12월 국비지원 3D·미디어아트 교육과정 안내 2026-10-14",
       "also_at": []
     },
     {
@@ -33540,7 +35155,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "일반공지 [대학일자리+] (졸업생특화) 2026학년도 반도체 실습 프로그램 신청안내 진로취업센터 2026.09.28 516 1",
+      "benefit": "일반공지 [대학일자리+] (졸업생특화) 2026학년도 반도체 실습 프로그램 신청안내 진로취업센터 2026.09.28 526 1",
       "also_at": []
     },
     {
@@ -33642,7 +35257,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "1682 장학 [STX] 2027년 STX장학재단 장학생 선발 NEW 조회수 373 2026.10.13 373 2026.10.13",
+      "benefit": "1681 장학 [STX] 2027년 STX장학재단 장학생 선발 NEW 조회수 521 2026.10.13 521 2026.10.13",
       "also_at": [
         "https://www.hongik.ac.kr/kr/newscenter/notice.do?mode=view&articleNo=159191&noCat=501"
       ]
@@ -33686,7 +35301,8 @@
         "https://youth.seoul.go.kr/infoData/sprtInfo/view.do?sprtInfoId=74847",
         "https://youth.seoul.go.kr/orang/infoData/sprtInfo/view.do?key=2309210005&sprtInfoId=74578",
         "https://youth.seoul.go.kr/orang/infoData/sprtInfo/view.do?key=2309210005&sprtInfoId=74825",
-        "https://youth.seoul.go.kr/orang/infoData/sprtInfo/view.do?key=2309210005&sprtInfoId=74847"
+        "https://youth.seoul.go.kr/orang/infoData/sprtInfo/view.do?key=2309210005&sprtInfoId=74847",
+        "https://youth.seoul.go.kr/orang/infoData/sprtInfo/view.do?key=2309210005&sprtInfoId=74850"
       ]
     },
     {
@@ -34202,8 +35818,10 @@
       "state": "모집중",
       "benefit": "주거 모집중",
       "also_at": [
+        "https://youth.seoul.go.kr/infoData/sprtInfo/view.do?sprtInfoId=74862",
         "https://youth.seoul.go.kr/orang/infoData/sprtInfo/view.do?key=2309210005&sprtInfoId=74518",
-        "https://youth.seoul.go.kr/orang/infoData/sprtInfo/view.do?key=2309210005&sprtInfoId=74781"
+        "https://youth.seoul.go.kr/orang/infoData/sprtInfo/view.do?key=2309210005&sprtInfoId=74781",
+        "https://youth.seoul.go.kr/orang/infoData/sprtInfo/view.do?key=2309210005&sprtInfoId=74862"
       ]
     },
     {
@@ -34807,7 +36425,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "「2026학년도 서울대학교 학생 글로벌 창업 챌린지(실리콘밸리)」 참가자 모집 공고(~11. 6.(금) 23:59까지) N 새글 2026-10-13 2026-10-13 39",
+      "benefit": "「2026학년도 서울대학교 학생 글로벌 창업 챌린지(실리콘밸리)」 참가자 모집 공고(~11. 6.(금) 23:59까지) N 새글 2026-10-13 2026-10-13 58",
       "also_at": []
     },
     {
@@ -34841,7 +36459,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "2026 학생창업경진대회 왕중왕전 (~11/8 12:00까지)_구글링크수정 1,024 2026.09.28",
+      "benefit": "2026 학생창업경진대회 왕중왕전 (~11/8 12:00까지)_구글링크수정 1,039 2026.09.28",
       "also_at": []
     },
     {
@@ -35881,7 +37499,7 @@
     },
     {
       "id": "8fe9387fcc59",
-      "title": "행사·활동·이벤트 공지 [해양수산부] '2026년 해양안전 콘텐츠 공모전' 안내 2026.10.07 해양수산부 김주현 조회수 3755",
+      "title": "행사·활동·이벤트 공지 [해양수산부] '2026년 해양안전 콘텐츠 공모전' 안내 2026.10.07 해양수산부 김주현 조회수 3880",
       "org": "국민대",
       "url": "https://www.kookmin.ac.kr/user/kmuNews/notice/9/12478/view.do?currentPageNo=1",
       "section": "campus",
@@ -35910,7 +37528,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "행사·활동·이벤트 공지 [해양수산부] '2026년 해양안전 콘텐츠 공모전' 안내 2026.10.07 해양수산부 김주현 조회수 3755",
+      "benefit": "행사·활동·이벤트 공지 [해양수산부] '2026년 해양안전 콘텐츠 공모전' 안내 2026.10.07 해양수산부 김주현 조회수 3880",
       "also_at": []
     },
     {
@@ -35983,7 +37601,7 @@
     },
     {
       "id": "62a6c6689c85",
-      "title": "933 [모집] 2026년 실험실 창업경진대회 참가자 모집 (※ 상금 총 1,000만원) 산학협력단 256 2026-09-28",
+      "title": "933 [모집] 2026년 실험실 창업경진대회 참가자 모집 (※ 상금 총 1,000만원) 산학협력단 257 2026-09-28",
       "org": "서울시립대",
       "url": "https://www.uos.ac.kr/korColumn/view.do?list_id=FA35&seq=960&identified=anonymous",
       "section": "campus",
@@ -36012,7 +37630,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "933 [모집] 2026년 실험실 창업경진대회 참가자 모집 (※ 상금 총 1,000만원) 산학협력단 256 2026-09-28",
+      "benefit": "933 [모집] 2026년 실험실 창업경진대회 참가자 모집 (※ 상금 총 1,000만원) 산학협력단 257 2026-09-28",
       "also_at": []
     },
     {
@@ -36185,7 +37803,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "공지 모집 [모집] 2026학년도 동계 벤처경영 Global Camp 참가자 모집 2026-10-12 / 147 2026-10-12 147",
+      "benefit": "공지 모집 [모집] 2026학년도 동계 벤처경영 Global Camp 참가자 모집 2026-10-12 / 158 2026-10-12 158",
       "also_at": []
     },
     {
@@ -36257,6 +37875,40 @@
       "also_at": []
     },
     {
+      "id": "7249c0549097",
+      "title": "[홍보] [서경대학교] 2026학년도 2학기 직무 맞춤형 포토폴... 2026-10-14",
+      "org": "홍익대",
+      "url": "https://inno.hongik.ac.kr/career/boardview/12/6242",
+      "section": "campus",
+      "category": "교육·부트캠프",
+      "subcategory": "공고",
+      "eligibility": "check",
+      "eligibility_reason": "소속 제한 문구 없음 — 원문 확인",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": null,
+      "event_date": null,
+      "source_id": "hongik-career",
+      "university": "홍익대",
+      "group": "건동홍",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 44,
+      "keywords": [
+        "홍익대",
+        "건동홍",
+        "교육·부트캠프"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "[홍보] [서경대학교] 2026학년도 2학기 직무 맞춤형 포토폴... 2026-10-14",
+      "also_at": []
+    },
+    {
       "id": "146e79c63b63",
       "title": "[혁신사업] 2026 직무의 발견 현직자 직무특강 모집 (첫 강의 10/30 마감)",
       "org": "건국대",
@@ -36287,7 +37939,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "일반공지 [혁신사업] 2026 직무의 발견 현직자 직무특강 모집 (첫 강의 10/30 마감) 진로취업센터 2026.10.12 122 0",
+      "benefit": "일반공지 [혁신사업] 2026 직무의 발견 현직자 직무특강 모집 (첫 강의 10/30 마감) 진로취업센터 2026.10.12 134 0",
       "also_at": []
     },
     {
@@ -36423,7 +38075,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "campaign [시설] 2026학년도 2학기 중간고사 기간 열람실 연장운영 안내 (10/13~10/25) 공지 학술정보서비스팀 2026-10-01 Views 767 학술정보서비스팀 2026-10-01 767",
+      "benefit": "campaign [시설] 2026학년도 2학기 중간고사 기간 열람실 연장운영 안내 (10/13~10/25) 공지 학술정보서비스팀 2026-10-01 Views 803 학술정보서비스팀 2026-10-01 803",
       "also_at": []
     },
     {
@@ -36797,7 +38449,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "809 2026 경기 스타트업 서밋(G-SUMMIT 2026) 참여 모집 글로벌창업지원단 2026.10.08 20 0",
+      "benefit": "809 2026 경기 스타트업 서밋(G-SUMMIT 2026) 참여 모집 글로벌창업지원단 2026.10.08 24 0",
       "also_at": []
     },
     {
@@ -37142,7 +38794,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "일반공지 [입학] 2027 전기 외국인특별전형 모집요강 안내(2027 Spring Semester Admission Guidelines - KOR/ENG/CHN) 외국인학생센터 2026.10.02 249 3",
+      "benefit": "일반공지 [입학] 2027 전기 외국인특별전형 모집요강 안내(2027 Spring Semester Admission Guidelines - KOR/ENG/CHN) 외국인학생센터 2026.10.02 253 3",
       "also_at": []
     },
     {
@@ -37176,7 +38828,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "일반공지 2026 동계방학 국제단기 프로그램(2차) 추가 모집 안내 국제교류협력팀 2026.10.08 489 4",
+      "benefit": "일반공지 2026 동계방학 국제단기 프로그램(2차) 추가 모집 안내 국제교류협력팀 2026.10.08 503 4",
       "also_at": []
     },
     {
@@ -37210,7 +38862,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "61 2026년도 서울형 지역혁신중심 대학지원체계(RISE) 산학연공동 기술개발 신규과제 공모 총관리자 2026.06.25 732 2",
+      "benefit": "61 2026년도 서울형 지역혁신중심 대학지원체계(RISE) 산학연공동 기술개발 신규과제 공모 총관리자 2026.06.25 737 2",
       "also_at": []
     },
     {
@@ -37414,7 +39066,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "공지 2027 가을학기 아웃바운드 교환학생 모집 공고 / International Outbound Exchange Student Program for Fall 2027 첨부파일 공지 대외협력과 2026.10.01 3148 대외협력과 2026.10.01 3148",
+      "benefit": "공지 2027 가을학기 아웃바운드 교환학생 모집 공고 / International Outbound Exchange Student Program for Fall 2027 첨부파일 공지 대외협력과 2026.10.01 3221 대외협력과 2026.10.01 3221",
       "also_at": []
     },
     {
@@ -37448,7 +39100,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "2124 2027 가을학기 아웃바운드 교환학생 설명회 안내 (10/7, 10/8) / Information Session for 2027 Fall Outbound Exchange Student Program NEW 2124 대외협력과 2026.10.06 1231 대외협력과 2026.10",
+      "benefit": "2124 2027 가을학기 아웃바운드 교환학생 설명회 안내 (10/7, 10/8) / Information Session for 2027 Fall Outbound Exchange Student Program NEW 2124 대외협력과 2026.10.06 1247 대외협력과 2026.10",
       "also_at": []
     },
     {
@@ -37657,7 +39309,7 @@
     },
     {
       "id": "cde95bd71fa1",
-      "title": "929 [모집] 뷰티 크리에이터 '레오제이(LEOJ)' 초청 창업 토크콘서트 개최 및 참가자 모집 안내 창업지원단 221 2026-09-15",
+      "title": "929 [모집] 뷰티 크리에이터 '레오제이(LEOJ)' 초청 창업 토크콘서트 개최 및 참가자 모집 안내 창업지원단 222 2026-09-15",
       "org": "서울시립대",
       "url": "https://www.uos.ac.kr/korColumn/view.do?list_id=FA35&seq=956&identified=anonymous",
       "section": "campus",
@@ -37686,12 +39338,12 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "929 [모집] 뷰티 크리에이터 '레오제이(LEOJ)' 초청 창업 토크콘서트 개최 및 참가자 모집 안내 창업지원단 221 2026-09-15",
+      "benefit": "929 [모집] 뷰티 크리에이터 '레오제이(LEOJ)' 초청 창업 토크콘서트 개최 및 참가자 모집 안내 창업지원단 222 2026-09-15",
       "also_at": []
     },
     {
       "id": "dfddf2bc15e8",
-      "title": "930 [모집] 2026년도 실험실 특화형 창업선도대학 「Lab-Startup 밋업(3차)」 참가자 모집 창업지원단 219 2026-09-16",
+      "title": "930 [모집] 2026년도 실험실 특화형 창업선도대학 「Lab-Startup 밋업(3차)」 참가자 모집 창업지원단 220 2026-09-16",
       "org": "서울시립대",
       "url": "https://www.uos.ac.kr/korColumn/view.do?list_id=FA35&seq=957&identified=anonymous",
       "section": "campus",
@@ -37720,12 +39372,12 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "930 [모집] 2026년도 실험실 특화형 창업선도대학 「Lab-Startup 밋업(3차)」 참가자 모집 창업지원단 219 2026-09-16",
+      "benefit": "930 [모집] 2026년도 실험실 특화형 창업선도대학 「Lab-Startup 밋업(3차)」 참가자 모집 창업지원단 220 2026-09-16",
       "also_at": []
     },
     {
       "id": "418187f7d1b9",
-      "title": "931 [모집] 서울콜라보레이션 성공창업스쿨 참가자 모집 창업보육센터 260 2026-09-16",
+      "title": "931 [모집] 서울콜라보레이션 성공창업스쿨 참가자 모집 창업보육센터 261 2026-09-16",
       "org": "서울시립대",
       "url": "https://www.uos.ac.kr/korColumn/view.do?list_id=FA35&seq=958&identified=anonymous",
       "section": "campus",
@@ -37754,7 +39406,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "931 [모집] 서울콜라보레이션 성공창업스쿨 참가자 모집 창업보육센터 260 2026-09-16",
+      "benefit": "931 [모집] 서울콜라보레이션 성공창업스쿨 참가자 모집 창업보육센터 261 2026-09-16",
       "also_at": []
     },
     {
@@ -38026,7 +39678,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "공지 장학 [장학] 2026년 우양재단 동행 장학생 모집 안내 2026-10-07 / 245 2026-10-07 245",
+      "benefit": "공지 장학 [장학] 2026년 우양재단 동행 장학생 모집 안내 2026-10-07 / 248 2026-10-07 248",
       "also_at": []
     },
     {
@@ -38536,7 +40188,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "campaign [시설] 과학도서관 1층 열람 공간 24시간 개방 안내(2026학년도 2학기 중간고사 기간) 공지 학술정보큐레이션팀 2026-10-07 Views 641 학술정보큐레이션팀 2026-10-07 641",
+      "benefit": "campaign [시설] 과학도서관 1층 열람 공간 24시간 개방 안내(2026학년도 2학기 중간고사 기간) 공지 학술정보큐레이션팀 2026-10-07 Views 708 학술정보큐레이션팀 2026-10-07 708",
       "also_at": []
     },
     {
@@ -39536,7 +41188,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "1675 장학 [은평구] 2026 하반기 은평구민 장학생 선발 NEW 조회수 530 2026.10.12 530 2026.10.12",
+      "benefit": "1674 장학 [은평구] 2026 하반기 은평구민 장학생 선발 NEW 조회수 567 2026.10.12 567 2026.10.12",
       "also_at": [
         "https://www.hongik.ac.kr/kr/newscenter/notice.do?mode=view&articleNo=159140&noCat=501"
       ]
@@ -39572,12 +41224,12 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "1683 일반 [대학혁신지원사업] 2026학년도 2학기 마음건강 특강 <마음을 다루는 기술 : 감정의 이해, 마음의 조율> NEW 조회수 236 2026.10.13 236 2026.10.13",
+      "benefit": "1682 일반 [대학혁신지원사업] 2026학년도 2학기 마음건강 특강 <마음을 다루는 기술 : 감정의 이해, 마음의 조율> NEW 조회수 353 2026.10.13 353 2026.10.13",
       "also_at": []
     },
     {
       "id": "ad2f48c32fc4",
-      "title": "특강공지 [앵커사업단] 「생성형 AI 기반 직무 기초 콘텐츠 활용 과정」 무료 강좌 안내 2026.10.07 앵커사업단 양은지 조회수 4698",
+      "title": "특강공지 [앵커사업단] 「생성형 AI 기반 직무 기초 콘텐츠 활용 과정」 무료 강좌 안내 2026.10.07 앵커사업단 양은지 조회수 4971",
       "org": "국민대",
       "url": "https://www.kookmin.ac.kr/user/kmuNews/notice/6/12475/view.do?currentPageNo=1",
       "section": "campus",
@@ -39606,7 +41258,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "특강공지 [앵커사업단] 「생성형 AI 기반 직무 기초 콘텐츠 활용 과정」 무료 강좌 안내 2026.10.07 앵커사업단 양은지 조회수 4698",
+      "benefit": "특강공지 [앵커사업단] 「생성형 AI 기반 직무 기초 콘텐츠 활용 과정」 무료 강좌 안내 2026.10.07 앵커사업단 양은지 조회수 4971",
       "also_at": []
     },
     {
@@ -39747,7 +41399,7 @@
     },
     {
       "id": "23ae61a4f354",
-      "title": "장학공지 2027년 아산사회복지재단 북한이탈청소년 장학생 선발 안내 2026.10.06 아산사회복지재단 복지사업팀 황새롬 조회수 4178",
+      "title": "장학공지 2027년 아산사회복지재단 북한이탈청소년 장학생 선발 안내 2026.10.06 아산사회복지재단 복지사업팀 황새롬 조회수 4339",
       "org": "국민대",
       "url": "https://www.kookmin.ac.kr/user/kmuNews/notice/7/12471/view.do?currentPageNo=1",
       "section": "campus",
@@ -39776,14 +41428,46 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "장학공지 2027년 아산사회복지재단 북한이탈청소년 장학생 선발 안내 2026.10.06 아산사회복지재단 복지사업팀 황새롬 조회수 4178",
-      "also_at": [
-        "https://www.kookmin.ac.kr/user/kmuNews/notice/7/12473/view.do?currentPageNo=1"
-      ]
+      "benefit": "장학공지 2027년 아산사회복지재단 북한이탈청소년 장학생 선발 안내 2026.10.06 아산사회복지재단 복지사업팀 황새롬 조회수 4339",
+      "also_at": []
+    },
+    {
+      "id": "c93297e824e9",
+      "title": "장학공지 2027년 아산사회복지재단 의생명과학분야 대학 장학생 선발 안내 2026.10.06 아산사회복지재단 복지사업팀 황새롬 조회수 4885",
+      "org": "국민대",
+      "url": "https://www.kookmin.ac.kr/user/kmuNews/notice/7/12473/view.do?currentPageNo=1",
+      "section": "campus",
+      "category": "장학",
+      "subcategory": "공고",
+      "eligibility": "check",
+      "eligibility_reason": "소속 제한 문구 없음 — 원문 확인",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-06",
+      "deadline": null,
+      "event_date": null,
+      "source_id": "kookmin-general",
+      "university": "국민대",
+      "group": "국숭세단",
+      "campus": null,
+      "first_seen": "2026-10-07",
+      "recurring": null,
+      "priority": 43,
+      "keywords": [
+        "국민대",
+        "국숭세단",
+        "장학"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "장학공지 2027년 아산사회복지재단 의생명과학분야 대학 장학생 선발 안내 2026.10.06 아산사회복지재단 복지사업팀 황새롬 조회수 4885",
+      "also_at": []
     },
     {
       "id": "b0bb793ad46a",
-      "title": "장학공지 2026 하반기 은평구민장학재단 은평구민 장학생 선발 공고 2026.10.12 은평구민장학재단 황새롬 조회수 2782",
+      "title": "장학공지 2026 하반기 은평구민장학재단 은평구민 장학생 선발 공고 2026.10.12 은평구민장학재단 황새롬 조회수 2971",
       "org": "국민대",
       "url": "https://www.kookmin.ac.kr/user/kmuNews/notice/7/12483/view.do?currentPageNo=1",
       "section": "campus",
@@ -39812,7 +41496,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "장학공지 2026 하반기 은평구민장학재단 은평구민 장학생 선발 공고 2026.10.12 은평구민장학재단 황새롬 조회수 2782",
+      "benefit": "장학공지 2026 하반기 은평구민장학재단 은평구민 장학생 선발 공고 2026.10.12 은평구민장학재단 황새롬 조회수 2971",
       "also_at": []
     },
     {
@@ -39982,7 +41666,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "399 [인문사회 융합인재양성사업] 2027학년도 1학기 인문사회디지털콘텐츠융합전공 신청 안내 인문사회디지털융합인재양성사업단 2026-10-12 109",
+      "benefit": "399 [인문사회 융합인재양성사업] 2027학년도 1학기 인문사회디지털콘텐츠융합전공 신청 안내 인문사회디지털융합인재양성사업단 2026-10-12 115",
       "also_at": []
     },
     {
@@ -40016,7 +41700,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "2161 [교양영어실] 2026 영어말하기 & 발표대회 안내 2161 교양영어실 2026.09.15 16214 교양영어실 2026.09.15 16214",
+      "benefit": "2161 [교양영어실] 2026 영어말하기 & 발표대회 안내 2161 교양영어실 2026.09.15 16237 교양영어실 2026.09.15 16237",
       "also_at": []
     },
     {
@@ -40431,7 +42115,7 @@
     },
     {
       "id": "240c1b84679b",
-      "title": "8263 풀브라이트 미국 유학·연구 장학금 설명회 안내 장학 조회수 357 작성일 2026.10.06 학생지원팀(장학)",
+      "title": "8263 풀브라이트 미국 유학·연구 장학금 설명회 안내 장학 조회수 358 작성일 2026.10.06 학생지원팀(장학)",
       "org": "연세대",
       "url": "https://www.yonsei.ac.kr/bbs/sc/58/944278/artclView.do",
       "section": "campus",
@@ -40460,7 +42144,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "8263 풀브라이트 미국 유학·연구 장학금 설명회 안내 장학 조회수 357 작성일 2026.10.06 학생지원팀(장학)",
+      "benefit": "8263 풀브라이트 미국 유학·연구 장학금 설명회 안내 장학 조회수 358 작성일 2026.10.06 학생지원팀(장학)",
       "also_at": []
     },
     {
@@ -40494,7 +42178,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "1954 공통 헤럴드경제 월드 디지털에셋 포럼(WDAF) 2026 참여 안내 2026-10-08 조회수 342 2026-10-08 조회수 342",
+      "benefit": "1954 공통 헤럴드경제 월드 디지털에셋 포럼(WDAF) 2026 참여 안내 2026-10-08 조회수 391 2026-10-08 조회수 391",
       "also_at": []
     },
     {
@@ -40528,7 +42212,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "1955 국제 글로벌 리더십 포럼 James Rhee 특별 강연 Global Leadership Forum James Rhee Special Session 2026-10-08 조회수 2,707 2026-10-08 조회수 2,707",
+      "benefit": "1955 국제 글로벌 리더십 포럼 James Rhee 특별 강연 Global Leadership Forum James Rhee Special Session 2026-10-08 조회수 2,760 2026-10-08 조회수 2,760",
       "also_at": []
     },
     {
@@ -41351,7 +43035,7 @@
     },
     {
       "id": "074c4cff2d17",
-      "title": "[일반][학생상담센터] 학생상담센터 2026년 2학기 ‘내 마음의 보고서(Mental Wellness Report)’ 안내 2026.09.18 Views 600 학생상담센터에서는 학생들의 정신건강증진 및 대학(원) 생활 적응을 지원하고, 심리 위기 예방을 위한 조기 개입을 위해 개인심리상담 · 심리검사 · 집단상담 · 위기학생 지원 등 다양한 정신건강 프로그램을 운영하고 있습니다. 고려대 재학 중인 학생들이 현재 자신의 마음건강수준을 확인하여 스스로를 돌볼 수 있도록 학생상담센터에서 ‘내 마음의 보고서(Mental Wellness Report)’ 프로그램을 아래와 같이 운영하오니 많은 이용 바랍니다.",
+      "title": "[일반][학생상담센터] 학생상담센터 2026년 2학기 ‘내 마음의 보고서(Mental Wellness Report)’ 안내 2026.09.18 Views 625 학생상담센터에서는 학생들의 정신건강증진 및 대학(원) 생활 적응을 지원하고, 심리 위기 예방을 위한 조기 개입을 위해 개인심리상담 · 심리검사 · 집단상담 · 위기학생 지원 등 다양한 정신건강 프로그램을 운영하고 있습니다. 고려대 재학 중인 학생들이 현재 자신의 마음건강수준을 확인하여 스스로를 돌볼 수 있도록 학생상담센터에서 ‘내 마음의 보고서(Mental Wellness Report)’ 프로그램을 아래와 같이 운영하오니 많은 이용 바랍니다.",
       "org": "고려대",
       "url": "https://biz.korea.ac.kr/news/notice_view.html?no=7332&key=&keyfield=&kind=&cate=&page=1",
       "section": "campus",
@@ -41380,7 +43064,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "[일반][학생상담센터] 학생상담센터 2026년 2학기 ‘내 마음의 보고서(Mental Wellness Report)’ 안내 2026.09.18 Views 600 학생상담센터에서는 학생들의 정신건강증진 및 대학(원) 생활 적응을 지원하고, 심리 위기 예방을 위한 조기 개입을 위해 개인심리",
+      "benefit": "[일반][학생상담센터] 학생상담센터 2026년 2학기 ‘내 마음의 보고서(Mental Wellness Report)’ 안내 2026.09.18 Views 625 학생상담센터에서는 학생들의 정신건강증진 및 대학(원) 생활 적응을 지원하고, 심리 위기 예방을 위한 조기 개입을 위해 개인심리",
       "also_at": []
     },
     {
@@ -41516,7 +43200,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "공지 모집 [모집] [프루터웍스] 진주시 중학생 대학탐방 멘토 모집 안내 2026-10-08 / 148 2026-10-08 148",
+      "benefit": "공지 모집 [모집] [프루터웍스] 진주시 중학생 대학탐방 멘토 모집 안내 2026-10-08 / 151 2026-10-08 151",
       "also_at": []
     },
     {
@@ -42656,7 +44340,9 @@
       "state": null,
       "benefit": "1668 세종캠퍼스 [대학혁신지원사업] 예술심리 자기성장 워크숍 \"마음 충전, 또 하나의 성장\" 참여자 모집 NEW 조회수 106 2026.10.06 106 2026.10.06",
       "also_at": [
-        "https://www.hongik.ac.kr/kr/newscenter/notice.do?mode=view&articleNo=158817&noCat=32"
+        "https://www.hongik.ac.kr/kr/newscenter/notice.do?mode=view&articleNo=158817&noCat=32",
+        "https://www.hongik.ac.kr/kr/newscenter/notice.do?mode=view&articleNo=159204&article.offset=0&articleLimit=10&noCat=32",
+        "https://www.hongik.ac.kr/kr/newscenter/notice.do?mode=view&articleNo=159204&noCat=32"
       ]
     },
     {
@@ -42862,7 +44548,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "2122 [설문조사] 외국인 학생 비교과 요구 조사 참여 안내 / International Student Extracurricular Needs Survey 첨부파일 2122 대양글로벌칼리지 2026.09.18 15274 대양글로벌칼리지 2026.09.18 15274",
+      "benefit": "2122 [설문조사] 외국인 학생 비교과 요구 조사 참여 안내 / International Student Extracurricular Needs Survey 첨부파일 2122 대양글로벌칼리지 2026.09.18 15299 대양글로벌칼리지 2026.09.18 15299",
       "also_at": []
     },
     {
@@ -43240,6 +44926,39 @@
       "also_at": []
     },
     {
+      "id": "843108a92e34",
+      "title": "킹십리 <설레는 미리크리스마스! 마크라메 리스 만들기 클래스>",
+      "org": "킹십리",
+      "url": "https://youth.seoul.go.kr/infoData/sprtInfo/view.do?sprtInfoId=74790",
+      "section": "campus",
+      "category": "공지",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "공개 공고",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": null,
+      "deadline": null,
+      "event_date": "2026-10-15",
+      "source_id": "seoul-youth-sprt",
+      "university": null,
+      "group": "서울시",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 41,
+      "keywords": [
+        "서울시",
+        "공지"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": "모집중",
+      "benefit": "문화/예술 모집중",
+      "also_at": []
+    },
+    {
       "id": "72f4759c9ff3",
       "title": "서울대학교 인액터스 미라클팀<동네소풍 가이드 소풍지기 >안내",
       "org": "서울대학교 인액터스 미라클팀",
@@ -43303,7 +45022,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "831 2026학년도 2학기 강의 Feedback 실시 안내 2026.09.15 view 133",
+      "benefit": "831 2026학년도 2학기 강의 Feedback 실시 안내 2026.09.15 view 140",
       "also_at": []
     },
     {
@@ -43543,7 +45262,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "campaign [일반] CCL 10월 멀티미디어 교육 안내 공지 학술정보기획팀 2026-09-22 Views 1476 학술정보기획팀 2026-09-22 1476",
+      "benefit": "campaign [일반] CCL 10월 멀티미디어 교육 안내 공지 학술정보기획팀 2026-09-22 Views 1525 학술정보기획팀 2026-09-22 1525",
       "also_at": []
     },
     {
@@ -43645,7 +45364,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "campaign [학술정보] The New York Times 이용권 패스 신청/갱신 안내 New 공지 학술정보큐레이션팀 2026-10-13 Views 74 학술정보큐레이션팀 2026-10-13 74",
+      "benefit": "campaign [학술정보] The New York Times 이용권 패스 신청/갱신 안내 공지 학술정보큐레이션팀 2026-10-13 Views 87 학술정보큐레이션팀 2026-10-13 87",
       "also_at": []
     },
     {
@@ -44057,7 +45776,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "5591 이성철 한국일보 사장 초청 HUFS특강 진로취업지원센터(서울) 2026.09.30 1160 0",
+      "benefit": "5591 이성철 한국일보 사장 초청 HUFS특강 진로취업지원센터(서울) 2026.09.30 1179 0",
       "also_at": []
     },
     {
@@ -44172,7 +45891,7 @@
     },
     {
       "id": "8cda4872ca88",
-      "title": "행사·활동·이벤트 공지 [교육부] 「글로벌 인재포럼 2026」 개최 안내 2026.10.08 교육부 김주현 조회수 3771",
+      "title": "행사·활동·이벤트 공지 [교육부] 「글로벌 인재포럼 2026」 개최 안내 2026.10.08 교육부 김주현 조회수 3914",
       "org": "국민대",
       "url": "https://www.kookmin.ac.kr/user/kmuNews/notice/9/12480/view.do?currentPageNo=1",
       "section": "campus",
@@ -44201,7 +45920,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "행사·활동·이벤트 공지 [교육부] 「글로벌 인재포럼 2026」 개최 안내 2026.10.08 교육부 김주현 조회수 3771",
+      "benefit": "행사·활동·이벤트 공지 [교육부] 「글로벌 인재포럼 2026」 개최 안내 2026.10.08 교육부 김주현 조회수 3914",
       "also_at": []
     },
     {
@@ -44988,7 +46707,7 @@
     },
     {
       "id": "d4c2e400beda",
-      "title": "* [일반][일반대학원/ Graduate School] 2026학년도 고려대학교 대학원생 대학원생활 만족도 조사/ Korea University Graduate Student Satisfac 2026.10.02 Views 254 1) 제 목(Title) : 2026학년도 고려대학교 대학원생 대학원생활 만족도 조사 (Korea University Graduate Student Satisfaction Survey 2026) 2) 대 상(Survey Target) : 본교 서울캠퍼스 일반대학원 재학생 (Graduate Students at Korea University's Seoul Campus (Graduate School – General)) 3) 기 간(Survey Period) : 2026.09.07.(월/Mon) ~ 10.16.(금/Fri) 4) 방 법(Method) : 포스터 내 QR코드 스캔 또는 아래 링크 접속 (Scan the QR code on the poster or access the link below.) 5) 주관 및 문의(Organizer & Contact) : 대학정책연구원(Institute for University Policy Research)(ayeonghan@korea.ac.kr, 02-3290-2758) - https://rnr.svybx.kr/sp7/S21203g5u1g1/langin.asp",
+      "title": "* [일반][일반대학원/ Graduate School] 2026학년도 고려대학교 대학원생 대학원생활 만족도 조사/ Korea University Graduate Student Satisfac 2026.10.02 Views 267 1) 제 목(Title) : 2026학년도 고려대학교 대학원생 대학원생활 만족도 조사 (Korea University Graduate Student Satisfaction Survey 2026) 2) 대 상(Survey Target) : 본교 서울캠퍼스 일반대학원 재학생 (Graduate Students at Korea University's Seoul Campus (Graduate School – General)) 3) 기 간(Survey Period) : 2026.09.07.(월/Mon) ~ 10.16.(금/Fri) 4) 방 법(Method) : 포스터 내 QR코드 스캔 또는 아래 링크 접속 (Scan the QR code on the poster or access the link below.) 5) 주관 및 문의(Organizer & Contact) : 대학정책연구원(Institute for University Policy Research)(ayeonghan@korea.ac.kr, 02-3290-2758) - https://rnr.svybx.kr/sp7/S21203g5u1g1/langin.asp",
       "org": "고려대",
       "url": "https://biz.korea.ac.kr/news/notice_view.html?no=7341&key=&keyfield=&kind=&cate=&page=1",
       "section": "campus",
@@ -45017,7 +46736,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "* [일반][일반대학원/ Graduate School] 2026학년도 고려대학교 대학원생 대학원생활 만족도 조사/ Korea University Graduate Student Satisfac 2026.10.02 Views 254 1) 제 목(Title) : 2026학년도 고려대학교 대학",
+      "benefit": "* [일반][일반대학원/ Graduate School] 2026학년도 고려대학교 대학원생 대학원생활 만족도 조사/ Korea University Graduate Student Satisfac 2026.10.02 Views 267 1) 제 목(Title) : 2026학년도 고려대학교 대학",
       "also_at": []
     },
     {
@@ -45153,7 +46872,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "일반공지 [대학일자리+] 2026년 졸업생 특화프로그램 만족도 조사 진로취업센터 2026.10.12 102 0",
+      "benefit": "일반공지 [대학일자리+] 2026년 졸업생 특화프로그램 만족도 조사 진로취업센터 2026.10.12 120 0",
       "also_at": []
     },
     {
@@ -45599,7 +47318,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "공지 [학생생활상담소] 세종이의 마음지킴이 학생생활상담소 이용 안내 NEW 공지 학생생활상담소 2026.10.12 1391 학생생활상담소 2026.10.12 1391",
+      "benefit": "공지 [학생생활상담소] 세종이의 마음지킴이 학생생활상담소 이용 안내 NEW 공지 학생생활상담소 2026.10.12 1472 학생생활상담소 2026.10.12 1472",
       "also_at": []
     },
     {
@@ -46573,7 +48292,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "974 교내 [대학원 대학원실] 단기 교내근로장학생 모집안내(~10/16까지) 관리자 2026-10-08 249",
+      "benefit": "974 교내 [대학원 대학원실] 단기 교내근로장학생 모집안내(~10/16까지) 관리자 2026-10-08 260",
       "also_at": []
     },
     {
@@ -46914,7 +48633,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "156 [교수학습혁신센터] 2026학년도 10월 학습상담 진행 안내 학과 관리자 2026-10-02 33",
+      "benefit": "156 [교수학습혁신센터] 2026학년도 10월 학습상담 진행 안내 학과 관리자 2026-10-02 39",
       "also_at": []
     },
     {
@@ -46987,7 +48706,7 @@
     },
     {
       "id": "046f83a8e72b",
-      "title": "(D-3🎁경품🎁) 📢2026학년도 대학생활 만족도 조사 안내",
+      "title": "(D-2🎁경품🎁) 📢2026학년도 대학생활 만족도 조사 안내",
       "org": "고려대",
       "url": "https://www.korea.ac.kr/portalBoard/ko/1/000060000000061311/portalBoardView.do",
       "section": "campus",
@@ -46997,7 +48716,7 @@
       "eligibility_reason": "소속 제한 문구 없음 — 원문 확인",
       "dongguk_only": false,
       "requires_card": false,
-      "posted": "2026-10-13",
+      "posted": "2026-10-14",
       "deadline": null,
       "event_date": null,
       "source_id": "korea-general",
@@ -47016,7 +48735,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "400 (D-3🎁경품🎁) 📢2026학년도 대학생활 만족도 조사 안내 대학정책연구원 2026-10-13 2025",
+      "benefit": "407 (D-2🎁경품🎁) 📢2026학년도 대학생활 만족도 조사 안내 대학정책연구원 2026-10-14 2030",
       "also_at": [
         "https://www.korea.ac.kr/portalBoard/ko/1/000060000000061312/portalBoardView.do"
       ]
@@ -47224,8 +48943,75 @@
       "also_at": []
     },
     {
+      "id": "6cf08b907f82",
+      "title": "[단국대학교 기술지주회사] TECH DISCOVERY 실험실창업경진대회 참가팀 모집",
+      "org": "연세대",
+      "url": "https://venture.yonsei.ac.kr/community/external/465",
+      "section": "campus",
+      "category": "학사·행정",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "…창업을 준비 중인 개인 또는 팀(대학원 재·휴학생·연구학기 및 박사후연구원 등) 접수 및…",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": "2026-10-23",
+      "event_date": null,
+      "source_id": "yonsei-venture-external",
+      "university": "연세대",
+      "group": "서연고",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 32,
+      "keywords": [
+        "연세대",
+        "서연고",
+        "학사·행정"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "[단국대학교 기술지주회사] TECH DISCOVERY 실험실창업경진대회 참가팀 모집 0 2026.10.14",
+      "also_at": []
+    },
+    {
+      "id": "008ea5a5a0ee",
+      "title": "2026년 석탄전환지역 기업이전 사업 새로운게시글",
+      "org": "K-Startup",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179491",
+      "section": "campus",
+      "category": "학사·행정",
+      "subcategory": "공고",
+      "eligibility": "yes",
+      "eligibility_reason": "…위기를 극복하고 관광 편중 구조를 다각화할 청년 중심 신성장 동력을 확보하고자 합니다.…",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": "2026-10-30",
+      "event_date": null,
+      "source_id": "kstartup-ongoing",
+      "university": null,
+      "group": "중앙정부",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 32,
+      "keywords": [
+        "중앙정부",
+        "학사·행정"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "교육 사업화 D-16 2026년 석탄전환지역 기업이전 사업 새로운게시글 2026년 석탄전환지역 기업이전 사업 강원대학교 KNU창업혁신원 등록일자 2026-10-14 시작일자 2026-10-12 마감일자 2026-10-30 조회 85 스크랩",
+      "also_at": []
+    },
+    {
       "id": "efcfd8331b3f",
-      "title": "학사공지 2026학년도 2학기 중간시험 부정행위 예방 및 생성형 AI 윤리적 활용 안내 2026.10.13 교무팀 연규종 조회수 309",
+      "title": "학사공지 2026학년도 2학기 중간시험 부정행위 예방 및 생성형 AI 윤리적 활용 안내 2026.10.13 교무팀 연규종 조회수 586",
       "org": "국민대",
       "url": "https://www.kookmin.ac.kr/user/kmuNews/notice/4/12489/view.do?currentPageNo=1",
       "section": "campus",
@@ -47254,7 +49040,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "학사공지 2026학년도 2학기 중간시험 부정행위 예방 및 생성형 AI 윤리적 활용 안내 2026.10.13 교무팀 연규종 조회수 309",
+      "benefit": "학사공지 2026학년도 2학기 중간시험 부정행위 예방 및 생성형 AI 윤리적 활용 안내 2026.10.13 교무팀 연규종 조회수 586",
       "also_at": []
     },
     {
@@ -47322,7 +49108,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "공지 일반 [일반] 2026-2 경영대학 학부 자치 동아리 등록 공고 2026-10-12 / 72 2026-10-12 72",
+      "benefit": "공지 일반 [일반] 2026-2 경영대학 학부 자치 동아리 등록 공고 2026-10-12 / 74 2026-10-12 74",
       "also_at": []
     },
     {
@@ -47493,6 +49279,40 @@
       "location": null,
       "state": null,
       "benefit": "공지 [중앙도서관] 2026년 2학기 중간고사 대비 자유열람실 이용 안내 (10.08.(목)~10.26(월)) 사서과 2026-10-08 1676",
+      "also_at": []
+    },
+    {
+      "id": "9a1b157307c5",
+      "title": "[홍보] [서경대학교] 2026학년도 2학기 온라인 현직자 직무... 2026-10-14",
+      "org": "홍익대",
+      "url": "https://inno.hongik.ac.kr/career/boardview/12/6241",
+      "section": "campus",
+      "category": "공지",
+      "subcategory": "공고",
+      "eligibility": "check",
+      "eligibility_reason": "소속 제한 문구 없음 — 원문 확인",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": null,
+      "event_date": null,
+      "source_id": "hongik-career",
+      "university": "홍익대",
+      "group": "건동홍",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 29,
+      "keywords": [
+        "홍익대",
+        "건동홍",
+        "공지"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "[홍보] [서경대학교] 2026학년도 2학기 온라인 현직자 직무... 2026-10-14",
       "also_at": []
     },
     {
@@ -47673,7 +49493,7 @@
       "category": "학사·행정",
       "subcategory": "공고",
       "eligibility": "yes",
-      "eligibility_reason": "…제출하시기 바랍니다. ※ 해당 과정은 만 15세 이상의 서울 거소 미취업자 를 대상으로 진행되며…",
+      "eligibility_reason": "공개 공고",
       "dongguk_only": false,
       "requires_card": false,
       "posted": "2026-10-13",
@@ -47830,7 +49650,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "348 학사 [기타]2026 셰익스피어 원어연극제 참가 신청 공모 학과 관리자 2026-09-15 259",
+      "benefit": "348 학사 [기타]2026 셰익스피어 원어연극제 참가 신청 공모 학과 관리자 2026-09-15 262",
       "also_at": []
     },
     {
@@ -48102,7 +49922,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "공지 입학/졸업 [입학/졸업] [학부] 2026-2학기 학부생연구지원 유형4_우수졸업논문 학생연구지원(사회과학분야) 프로그램 안내 2026-09-16 2026-09-16 233",
+      "benefit": "공지 입학/졸업 [입학/졸업] [학부] 2026-2학기 학부생연구지원 유형4_우수졸업논문 학생연구지원(사회과학분야) 프로그램 안내 2026-09-16 2026-09-16 234",
       "also_at": []
     },
     {
@@ -48272,7 +50092,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "일반공지 [진로취업센터] 우리 학교는 잡플래닛 제휴대학! 진로취업센터 2026.10.02 304 0",
+      "benefit": "일반공지 [진로취업센터] 우리 학교는 잡플래닛 제휴대학! 진로취업센터 2026.10.02 311 0",
       "also_at": []
     },
     {
@@ -49246,7 +51066,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "5592 (서울) 2026년도 후반기 학생예비군 기본 2차훈련(안내) 예비군연대(서울) 2026.10.01 677 2",
+      "benefit": "일반공지 (서울) 2026년도 후반기 학생예비군 기본 2차훈련(안내) 예비군연대(서울) 2026.10.01 694 2",
       "also_at": []
     },
     {
@@ -49280,7 +51100,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "5594 정치외교학과, 4개 미국 대학원 입학설명회 개최 정치외교학과 2026.10.06 522 0",
+      "benefit": "5594 정치외교학과, 4개 미국 대학원 입학설명회 개최 정치외교학과 2026.10.06 543 0",
       "also_at": []
     },
     {
@@ -49314,7 +51134,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "5596 [행사 안내] 1st Asia-Africa Network International Conference 및 특별 문화 행사(영화 아프리카연구소 2026.10.08 401 0",
+      "benefit": "5596 [행사 안내] 1st Asia-Africa Network International Conference 및 특별 문화 행사(영화 아프리카연구소 2026.10.08 418 0",
       "also_at": []
     },
     {
@@ -49348,7 +51168,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "5597 한국외대 글로벌캠퍼스 명수당 가을철 단풍 관람객 행락차량 사전 예약 안내 행정지원처 2026.10.12 899 0",
+      "benefit": "5597 한국외대 글로벌캠퍼스 명수당 가을철 단풍 관람객 행락차량 사전 예약 안내 행정지원처 2026.10.12 1040 0",
       "also_at": []
     },
     {
@@ -49382,7 +51202,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "67 [ANCHOR사업단]기술애로 컨설팅 지원사업 공고 총관리자 2026.08.19 359 5",
+      "benefit": "67 [ANCHOR사업단]기술애로 컨설팅 지원사업 공고 총관리자 2026.08.19 363 5",
       "also_at": []
     },
     {
@@ -49450,7 +51270,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "일반공지 [이달의 기부자 26년 9월] 총관리자 2026.10.02 289 0",
+      "benefit": "일반공지 [이달의 기부자 26년 9월] 총관리자 2026.10.02 303 0",
       "also_at": []
     },
     {
@@ -49727,7 +51547,7 @@
     },
     {
       "id": "f70672740624",
-      "title": "행사·활동·이벤트 공지 [서울특별시] 2026년 「제12회 서울 29초영화제」 안내 2026.10.06 서울특별시 김주현 조회수 2940",
+      "title": "행사·활동·이벤트 공지 [서울특별시] 2026년 「제12회 서울 29초영화제」 안내 2026.10.06 서울특별시 김주현 조회수 3065",
       "org": "국민대",
       "url": "https://www.kookmin.ac.kr/user/kmuNews/notice/9/12466/view.do?currentPageNo=1",
       "section": "campus",
@@ -49756,7 +51576,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "행사·활동·이벤트 공지 [서울특별시] 2026년 「제12회 서울 29초영화제」 안내 2026.10.06 서울특별시 김주현 조회수 2940",
+      "benefit": "행사·활동·이벤트 공지 [서울특별시] 2026년 「제12회 서울 29초영화제」 안내 2026.10.06 서울특별시 김주현 조회수 3065",
       "also_at": []
     },
     {
@@ -50130,7 +51950,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "402 🔎 26년 가을학기 멘탈Check↗ 학생상담센터 '내 마음의 보고서' (매달참여가능) 학생상담센터 2026-10-13 93",
+      "benefit": "400 🔎 26년 가을학기 멘탈Check↗ 학생상담센터 '내 마음의 보고서' (매달참여가능) 학생상담센터 2026-10-13 95",
       "also_at": []
     },
     {
@@ -50198,7 +52018,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "2123 2026-2 외국인등록 단체접수 지문등록 안내 / Fingerprint Registration for ARC Group Applicants 2123 SOS 2026.10.02 2579 SOS 2026.10.02 2579",
+      "benefit": "2123 2026-2 외국인등록 단체접수 지문등록 안내 / Fingerprint Registration for ARC Group Applicants 2123 SOS 2026.10.02 2603 SOS 2026.10.02 2603",
       "also_at": []
     },
     {
@@ -51199,7 +53019,7 @@
       "eligibility_reason": "소속 제한 문구 없음 — 원문 확인",
       "dongguk_only": false,
       "requires_card": false,
-      "posted": "2026-10-13",
+      "posted": "2026-10-14",
       "deadline": null,
       "event_date": null,
       "source_id": "uos-general",
@@ -51218,7 +53038,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "22434 [제68호] 학생처 대학일자리플러스센터 뉴스레터 인재개발실 2026-10-13 0",
+      "benefit": "22439 [제68호] 학생처 대학일자리플러스센터 뉴스레터 인재개발실 2026-10-14 211",
       "also_at": []
     },
     {
@@ -51252,7 +53072,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "1947 학부 Discover Bloomberg Seoul Event (Sept 29) 2026-09-18 조회수 2,397 2026-09-18 조회수 2,397",
+      "benefit": "1947 학부 Discover Bloomberg Seoul Event (Sept 29) 2026-09-18 조회수 2,411 2026-09-18 조회수 2,411",
       "also_at": []
     },
     {
@@ -51286,12 +53106,12 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "[★] [2027년 2월 졸업희망자] 졸업인정제/ 공통교양(영어) 대체/ 다전공취소 및 이수구분변경신청서 제출 안내 2026.10.02 view 323",
+      "benefit": "[★] [2027년 2월 졸업희망자] 졸업인정제/ 공통교양(영어) 대체/ 다전공취소 및 이수구분변경신청서 제출 안내 2026.10.02 view 332",
       "also_at": []
     },
     {
       "id": "9acc04b7d225",
-      "title": "[경력개발센터] 팀플도 쉽지 않은데, 이들은 어떻게 함께 일할까? 큐레이터 × 경영학자 대담 (10/29 목 18:00) 2026.10.13 Views 78 자기 세계가 뚜렷한 작가, 큐레이터, 기술자가 모여 단 하나의 전시를 만듭니다. , 전시를 총괄한 국립현대미술관 송수정 큐레이터와 서로 다른 사람들이 함께 성과를 내는 전략과 실행을 연구해 온 경영전략 전문가 고려대 경영대학 김언수 교수가 그 생생한 뒷이야기를 대본 없이 나눕니다. 여러분의 질문이 대화의 방향을 정합니다. 1. 일시: 2026년 10월 29일(목) 18:00 – 19:30 (총 90분) 2. 장소: 현대자동차경영관 B1 KUBS81 Trading Zone - Trading Zone 소개 : https://buly.kr/ChrhRHv 3. 대상: 고려대학교 학부생 누구나 (전공 무관 · 한국어 진행) · 선착순 70명 4. 구성: 강연 · 대담 · 학생 Q&A 5. 신청: 쿠카이브 https://buly.kr/2Jr7Fr1 (선착순) - 사전 신청 참석자 기념품 증정 · 신청자 대상으로 연사에게 묻고 싶은 질문 접수 예정 목요일 저녁 90분, 이것을 가져가세요 01. 나와 다른 사람과 함께 결과를 만드는 법 / 협업의 기술 — 아이디어와 소통이 만들어내는 연금술. 상상초월의 장르 융합 속에서, 대체불가한 사람들이 하나의 전시를 완성하는 과정을 들여다봅니다. 02. 정답 없는 문제 앞에서 시도하는 용기 / 인류의 창의적인 놀이터 — 미술사를 흔든 실험들. 정답도 실패도 없는 장소, 모든 상상력이 예술로 통하는 미술관에서 새로운 시도의 힘을 만납니다. 03. 내 전공의 새로운 가능성 발견 / 미술관에서 발견하는 경영 — 경영자 중 컬렉터가 많은 이유는? 미술관의 시간과 자원 활용법에서 경영 전공이 쓰이는 새로운 무대를 발견합니다. 미술을 잘 몰라도 괜찮습니다. 팀플의 고민, 진로의 궁금증을 질문으로 가지고 오세요. 고려대학교 경영대학 경력개발센터",
+      "title": "[경력개발센터] 팀플도 쉽지 않은데, 이들은 어떻게 함께 일할까? 큐레이터 × 경영학자 대담 (10/29 목 18:00) 2026.10.13 Views 104 자기 세계가 뚜렷한 작가, 큐레이터, 기술자가 모여 단 하나의 전시를 만듭니다. , 전시를 총괄한 국립현대미술관 송수정 큐레이터와 서로 다른 사람들이 함께 성과를 내는 전략과 실행을 연구해 온 경영전략 전문가 고려대 경영대학 김언수 교수가 그 생생한 뒷이야기를 대본 없이 나눕니다. 여러분의 질문이 대화의 방향을 정합니다. 1. 일시: 2026년 10월 29일(목) 18:00 – 19:30 (총 90분) 2. 장소: 현대자동차경영관 B1 KUBS81 Trading Zone - Trading Zone 소개 : https://buly.kr/ChrhRHv 3. 대상: 고려대학교 학부생 누구나 (전공 무관 · 한국어 진행) · 선착순 70명 4. 구성: 강연 · 대담 · 학생 Q&A 5. 신청: 쿠카이브 https://buly.kr/2Jr7Fr1 (선착순) - 사전 신청 참석자 기념품 증정 · 신청자 대상으로 연사에게 묻고 싶은 질문 접수 예정 목요일 저녁 90분, 이것을 가져가세요 01. 나와 다른 사람과 함께 결과를 만드는 법 / 협업의 기술 — 아이디어와 소통이 만들어내는 연금술. 상상초월의 장르 융합 속에서, 대체불가한 사람들이 하나의 전시를 완성하는 과정을 들여다봅니다. 02. 정답 없는 문제 앞에서 시도하는 용기 / 인류의 창의적인 놀이터 — 미술사를 흔든 실험들. 정답도 실패도 없는 장소, 모든 상상력이 예술로 통하는 미술관에서 새로운 시도의 힘을 만납니다. 03. 내 전공의 새로운 가능성 발견 / 미술관에서 발견하는 경영 — 경영자 중 컬렉터가 많은 이유는? 미술관의 시간과 자원 활용법에서 경영 전공이 쓰이는 새로운 무대를 발견합니다. 미술을 잘 몰라도 괜찮습니다. 팀플의 고민, 진로의 궁금증을 질문으로 가지고 오세요. 고려대학교 경영대학 경력개발센터",
       "org": "고려대",
       "url": "https://biz.korea.ac.kr/news/notice_view.html?no=7349&key=&keyfield=&kind=&cate=&page=1",
       "section": "campus",
@@ -51320,7 +53140,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "[경력개발센터] 팀플도 쉽지 않은데, 이들은 어떻게 함께 일할까? 큐레이터 × 경영학자 대담 (10/29 목 18:00) 2026.10.13 Views 78 자기 세계가 뚜렷한 작가, 큐레이터, 기술자가 모여 단 하나의 전시를 만듭니다. , 전시를 총괄한 국립현대미술관 송수정 큐레이터와",
+      "benefit": "[경력개발센터] 팀플도 쉽지 않은데, 이들은 어떻게 함께 일할까? 큐레이터 × 경영학자 대담 (10/29 목 18:00) 2026.10.13 Views 104 자기 세계가 뚜렷한 작가, 큐레이터, 기술자가 모여 단 하나의 전시를 만듭니다. , 전시를 총괄한 국립현대미술관 송수정 큐레이터",
       "also_at": []
     },
     {
@@ -51621,7 +53441,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "446 학생 창업팀 대상 「제주 학생창업기업 AI 해커톤 2026」 안내 (11/13~16, 1등 100만원) 60 2026.10.09",
+      "benefit": "446 학생 창업팀 대상 「제주 학생창업기업 AI 해커톤 2026」 안내 (11/13~16, 1등 100만원) 70 2026.10.09",
       "also_at": []
     },
     {
@@ -51825,7 +53645,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "350 학사 [학사]2026-2학기 영어문학전공 졸업논문 제출 안내 학과 관리자 2026-09-28 137",
+      "benefit": "350 학사 [학사]2026-2학기 영어문학전공 졸업논문 제출 안내 학과 관리자 2026-09-28 140",
       "also_at": [
         "https://english.dongguk.edu/article/notice1/detail/215280?pageIndex=1&"
       ]
@@ -51866,7 +53686,7 @@
     },
     {
       "id": "ae87db05dd4b",
-      "title": "학사공지 [기후변화대응사업단] 2026학년도 2학기 넷제로 리빙랩 공간 사용 신청자 모집 안내 2026.10.08 기후변화대응사업단 최석임 조회수 7361",
+      "title": "학사공지 [기후변화대응사업단] 2026학년도 2학기 넷제로 리빙랩 공간 사용 신청자 모집 안내 2026.10.08 기후변화대응사업단 최석임 조회수 8061",
       "org": "국민대",
       "url": "https://www.kookmin.ac.kr/user/kmuNews/notice/4/12482/view.do?currentPageNo=1",
       "section": "campus",
@@ -51895,7 +53715,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "학사공지 [기후변화대응사업단] 2026학년도 2학기 넷제로 리빙랩 공간 사용 신청자 모집 안내 2026.10.08 기후변화대응사업단 최석임 조회수 7361",
+      "benefit": "학사공지 [기후변화대응사업단] 2026학년도 2학기 넷제로 리빙랩 공간 사용 신청자 모집 안내 2026.10.08 기후변화대응사업단 최석임 조회수 8061",
       "also_at": []
     },
     {
@@ -52270,7 +54090,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "1679 세종캠퍼스 [대학혁신지원사업/교수학습지원센터(세종)] 2026-2 홍익 스피치 캠프 참가자 모집 안내 NEW 조회수 280 2026.10.13 280 2026.10.13",
+      "benefit": "1678 세종캠퍼스 [대학혁신지원사업/교수학습지원센터(세종)] 2026-2 홍익 스피치 캠프 참가자 모집 안내 NEW 조회수 386 2026.10.13 386 2026.10.13",
       "also_at": [
         "https://www.hongik.ac.kr/kr/newscenter/notice.do?mode=view&articleNo=159184&noCat=32"
       ]
@@ -52306,7 +54126,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "전체게시판공지 [ 전체게시판공지 ] <현대 민화 · 수묵화 6기> 교육과정 수강생 모집 안내(~10/25까지) 서울평생교육원 2026.09.29 121 1",
+      "benefit": "전체게시판공지 [ 전체게시판공지 ] <현대 민화 · 수묵화 6기> 교육과정 수강생 모집 안내(~10/25까지) 서울평생교육원 2026.09.29 122 1",
       "also_at": []
     },
     {
@@ -52374,7 +54194,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "1680 세종캠퍼스 [대학혁신지원사업/교수학습지원센터(세종)] 2026- 2 홍익 스피치 캠프 보조인력 모집 안내 NEW 조회수 297 2026.10.13 첨부파일 297 2026.10.13 첨부파일",
+      "benefit": "1679 세종캠퍼스 [대학혁신지원사업/교수학습지원센터(세종)] 2026- 2 홍익 스피치 캠프 보조인력 모집 안내 NEW 조회수 405 2026.10.13 첨부파일 405 2026.10.13 첨부파일",
       "also_at": [
         "https://www.hongik.ac.kr/kr/newscenter/notice.do?mode=view&articleNo=159186&noCat=32"
       ]
@@ -52478,6 +54298,40 @@
       "location": null,
       "state": null,
       "benefit": "[IC-PBL교수학습센터] 2026 DIY 학습법 프로그램 공모전 안내 주요알림 ERICA 행사 IC-PBL교수학습센터 / 2026. 9. 30 0 0 0",
+      "also_at": []
+    },
+    {
+      "id": "2b395dd2d0c6",
+      "title": "[한국어센터] 월례문화특강-10 「알면 쓸모있는 최소한의 AI상식」 (김준연 국제어학원장, 중어중문학과 교수)에 초대합니다",
+      "org": "고려대",
+      "url": "https://www.korea.ac.kr/portalBoard/ko/1/000060000000061508/portalBoardView.do",
+      "section": "campus",
+      "category": "세미나",
+      "subcategory": "공고",
+      "eligibility": "check",
+      "eligibility_reason": "소속 제한 문구 없음 — 원문 확인",
+      "dongguk_only": false,
+      "requires_card": false,
+      "posted": "2026-10-14",
+      "deadline": null,
+      "event_date": null,
+      "source_id": "korea-general",
+      "university": "고려대",
+      "group": "서연고",
+      "campus": null,
+      "first_seen": "2026-10-14",
+      "recurring": null,
+      "priority": 13,
+      "keywords": [
+        "고려대",
+        "서연고",
+        "세미나"
+      ],
+      "format": null,
+      "cost": null,
+      "location": null,
+      "state": null,
+      "benefit": "406 [한국어센터] 월례문화특강-10 「알면 쓸모있는 최소한의 AI상식」 (김준연 국제어학원장, 중어중문학과 교수)에 초대합니다 한국어센터행정팀 2026-10-14 17",
       "also_at": []
     },
     {
@@ -52856,7 +54710,7 @@
     },
     {
       "id": "5b8e63d609c3",
-      "title": "일반공지 2027년 2월 졸업신청 안내 [학사학위수료자 대상] (Notices for February 2027 Graduation Application) 신촌/국제 조회수 1386 작성일 2026.08.14 교무처 학사지원팀",
+      "title": "일반공지 2027년 2월 졸업신청 안내 [학사학위수료자 대상] (Notices for February 2027 Graduation Application) 신촌/국제 조회수 1388 작성일 2026.08.14 교무처 학사지원팀",
       "org": "연세대",
       "url": "https://www.yonsei.ac.kr/bbs/sc/58/943876/artclView.do",
       "section": "campus",
@@ -52885,12 +54739,12 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "일반공지 2027년 2월 졸업신청 안내 [학사학위수료자 대상] (Notices for February 2027 Graduation Application) 신촌/국제 조회수 1386 작성일 2026.08.14 교무처 학사지원팀",
+      "benefit": "일반공지 2027년 2월 졸업신청 안내 [학사학위수료자 대상] (Notices for February 2027 Graduation Application) 신촌/국제 조회수 1388 작성일 2026.08.14 교무처 학사지원팀",
       "also_at": []
     },
     {
       "id": "04c4050762be",
-      "title": "일반공지 2027학년도 1학기 캠퍼스내 소속변경 전형 안내 신촌/국제 조회수 372 작성일 2026.10.08 교무처 학사지원팀",
+      "title": "일반공지 2027학년도 1학기 캠퍼스내 소속변경 전형 안내 신촌/국제 조회수 381 작성일 2026.10.08 교무처 학사지원팀",
       "org": "연세대",
       "url": "https://www.yonsei.ac.kr/bbs/sc/58/944304/artclView.do",
       "section": "campus",
@@ -52919,7 +54773,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "일반공지 2027학년도 1학기 캠퍼스내 소속변경 전형 안내 신촌/국제 조회수 372 작성일 2026.10.08 교무처 학사지원팀",
+      "benefit": "일반공지 2027학년도 1학기 캠퍼스내 소속변경 전형 안내 신촌/국제 조회수 381 작성일 2026.10.08 교무처 학사지원팀",
       "also_at": []
     },
     {
@@ -53201,7 +55055,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "공지 [휴강 안내] 10월 수업 휴강 일정 안내 관리자 2026-09-30 170 공지 2026년 가을축제에 따른 주차 및 차량 통제 안내 관리자 2026-09-21 208 공지 2026년 영캠프 행사에 따른 주차 및 차량 통제 안내 관리자 2026-09-14 207 공지 [서울앵커] ",
+      "benefit": "공지 [휴강 안내] 10월 수업 휴강 일정 안내 관리자 2026-09-30 174 공지 2026년 가을축제에 따른 주차 및 차량 통제 안내 관리자 2026-09-21 209 공지 2026년 영캠프 행사에 따른 주차 및 차량 통제 안내 관리자 2026-09-14 210 공지 [서울앵커] ",
       "also_at": []
     },
     {
@@ -53647,7 +55501,7 @@
     },
     {
       "id": "f338ecdf10fb",
-      "title": "[공지] [일반][CAIA] 2027년 3월 시험 등록 및 장학금 안내 / [CAIA] March 2027 Exam Registration and Scholarship Information 2026.10.08 Views 274 [CAIA] 2027년 3월 시험 등록 및 장학금 안내 고려대학교 경영대학은 CAIA Association의 Academic Partner로, 학생들에게 CAIA 시험 응시료 장학금 혜택을 제공하고 있습니다. 대체투자와 관련 자격시험에 관심 있는 학생들의 많은 관심 바랍니다. CAIA 시험 안내 CAIA(Chartered Alternative Investment Analyst) 시험은 대체투자 분야의 전문 자격인 CAIA Charter 취득을 위한 시험으로, Level I과 Level II로 구성됩니다. 사모펀드·사모대출, 헤지펀드, 부동산·인프라 등 실물자산과 포트폴리오 및 리스크 관리 등을 다룹니다. 시험 등록 및 장학 혜택 2027년 3월 시험 등록이 곧 시작될 예정입니다. CAIA Academic Scholarship 수혜자는 향후 세 번의 시험 일정 중 한 번을 선택해 응시할 수 있으며, 미화 350달러로 등록할 수 있습니다. (일반 등록비 총액: 미화 1,795달러) 학생지원서 및 참고 링크 학생 장학금 지원서: CAIA Academic Partners Scholarship Student Application 지원서 제출 후 CAIA 담당 교수의 검토 및 승인이 필요합니다. 자세한 사항은 KUBS × CAIA Academic Partnership 공지와 CAIA 공식 홈페이지를 확인해 주시기 바랍니다. [CAIA] March 2027 Exam Registration and Scholarship Information Korea University Business School is an Academic Partner of the CAIA Association and provides students with the opportunity to receive a CAIA exam fee scholarship. Students interested in alternative investments and the CAIA exam are encouraged to learn more. About the CAIA Exam The CAIA (Chartered Alternative Investment Analyst) exam is the professional examination for the CAIA Charter, a credential focused on alternative investments. The program consists of Level I and Level II and covers areas such as private equity and private credit, hedge funds, real assets including real estate and infrastructure, and portfolio and risk management. Exam Registration and Scholarship Registration for the March 2027 exam will open soon. Students awarded a CAIA Academic Scholarship may choose one of the next three exam windows and register for US$350. (Standard total registration fee: US$1,795) Student Application and Further Information Student scholarship application: CAIA Academic Partners Scholarship Student Application After submission, the application must be reviewed and approved by the CAIA faculty contact. For details, visit the KUBS × CAIA Academic Partnership notice and the CAIA official website.",
+      "title": "[공지] [일반][CAIA] 2027년 3월 시험 등록 및 장학금 안내 / [CAIA] March 2027 Exam Registration and Scholarship Information 2026.10.08 Views 292 [CAIA] 2027년 3월 시험 등록 및 장학금 안내 고려대학교 경영대학은 CAIA Association의 Academic Partner로, 학생들에게 CAIA 시험 응시료 장학금 혜택을 제공하고 있습니다. 대체투자와 관련 자격시험에 관심 있는 학생들의 많은 관심 바랍니다. CAIA 시험 안내 CAIA(Chartered Alternative Investment Analyst) 시험은 대체투자 분야의 전문 자격인 CAIA Charter 취득을 위한 시험으로, Level I과 Level II로 구성됩니다. 사모펀드·사모대출, 헤지펀드, 부동산·인프라 등 실물자산과 포트폴리오 및 리스크 관리 등을 다룹니다. 시험 등록 및 장학 혜택 2027년 3월 시험 등록이 곧 시작될 예정입니다. CAIA Academic Scholarship 수혜자는 향후 세 번의 시험 일정 중 한 번을 선택해 응시할 수 있으며, 미화 350달러로 등록할 수 있습니다. (일반 등록비 총액: 미화 1,795달러) 학생지원서 및 참고 링크 학생 장학금 지원서: CAIA Academic Partners Scholarship Student Application 지원서 제출 후 CAIA 담당 교수의 검토 및 승인이 필요합니다. 자세한 사항은 KUBS × CAIA Academic Partnership 공지와 CAIA 공식 홈페이지를 확인해 주시기 바랍니다. [CAIA] March 2027 Exam Registration and Scholarship Information Korea University Business School is an Academic Partner of the CAIA Association and provides students with the opportunity to receive a CAIA exam fee scholarship. Students interested in alternative investments and the CAIA exam are encouraged to learn more. About the CAIA Exam The CAIA (Chartered Alternative Investment Analyst) exam is the professional examination for the CAIA Charter, a credential focused on alternative investments. The program consists of Level I and Level II and covers areas such as private equity and private credit, hedge funds, real assets including real estate and infrastructure, and portfolio and risk management. Exam Registration and Scholarship Registration for the March 2027 exam will open soon. Students awarded a CAIA Academic Scholarship may choose one of the next three exam windows and register for US$350. (Standard total registration fee: US$1,795) Student Application and Further Information Student scholarship application: CAIA Academic Partners Scholarship Student Application After submission, the application must be reviewed and approved by the CAIA faculty contact. For details, visit the KUBS × CAIA Academic Partnership notice and the CAIA official website.",
       "org": "고려대",
       "url": "https://biz.korea.ac.kr/news/notice_view.html?no=7345&key=&keyfield=&kind=&cate=&page=1",
       "section": "campus",
@@ -53676,12 +55530,12 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "[공지] [일반][CAIA] 2027년 3월 시험 등록 및 장학금 안내 / [CAIA] March 2027 Exam Registration and Scholarship Information 2026.10.08 Views 274 [CAIA] 2027년 3월 시험 등록 및 장학금 안내 고려",
+      "benefit": "[공지] [일반][CAIA] 2027년 3월 시험 등록 및 장학금 안내 / [CAIA] March 2027 Exam Registration and Scholarship Information 2026.10.08 Views 292 [CAIA] 2027년 3월 시험 등록 및 장학금 안내 고려",
       "also_at": []
     },
     {
       "id": "ce818cb67ce1",
-      "title": "[일반]2026 KUBS Finance Homecoming Day 안내 2026.10.10 Views 108 [2026 KUBS Finance Homecoming Day 안내] 고려대학교 일반대학원 경영학과 재무금융(Finance) 전공의 졸업생, 재학생 및 교수진이 함께하는 「2026 KUBS Finance Homecoming Day」를 개최합니다. 이번 행사는 일반대학원 경영학과 재무금융 전공 구성원을 위한 교류의 자리로, 동문과 재학생, 교수진이 한자리에 모여 연구 성과와 서로의 소식을 나누고 유대를 다지고자 마련되었습니다. 1부에서는 박사과정 학생들의 논문 발표와 졸업생 토론을 통해 학문적 교류를 나누며, 2부에서는 저녁 만찬과 함께 자유롭게 소통하는 시간을 갖습니다. 재무금융 전공 구성원 여러분의 많은 관심과 참여를 바랍니다. 참석 대상: 고려대학교 일반대학원 경영학과 재무금융 전공 졸업생, 재학생 및 교수진 일시: 2026년 11월 13일(금) 오후 2시–9시 장소: 고려대학교 LG-POSCO 경영관 6층 안영일홀 [주요 일정] 1부 | 오후 2시–6시: 박사과정 논문 발표 및 졸업생 토론 (논문당 발표 20분, 토론 10분) 2부 | 오후 6시–9시: 저녁 만찬 문의: 재무금융 전공주임교수 김배호 (baehokim@korea.ac.kr) 2026 KUBS Finance Homecoming Day Korea University Business School invites alumni, current students, and faculty of the Finance area in Korea University Business School to the 2026 KUBS Finance Homecoming Day. This event is dedicated to bringing together members of the graduate Finance community to reconnect, share research and updates, and strengthen ties across generations. The first session will feature research paper presentations by doctoral students, with alumni serving as discussants. An evening dinner will follow, offering an opportunity to catch up and connect with fellow members of the Finance community. We warmly welcome our Finance alumni, students, and faculty to join us for this special occasion. Who is invited: Alumni, current students, and faculty of the Finance area, Department of Business Administration, Korea University Graduate School Date and time: Friday, November 13, 2026, 2:00–9:00 p.m. Venue: Ahn Young Il Hall, 6th Floor, LG-POSCO Building, Korea University Program Part 1 | 2:00–6:00 p.m.: Doctoral research paper presentations and alumni discussions (20-minute presentation and 10-minute discussion per paper) Part 2 | 6:00–9:00 p.m.: Dinner Contact: Professor Baeho Kim, Area Chair of Finance (baehokim@korea.ac.kr)",
+      "title": "[일반]2026 KUBS Finance Homecoming Day 안내 2026.10.10 Views 119 [2026 KUBS Finance Homecoming Day 안내] 고려대학교 일반대학원 경영학과 재무금융(Finance) 전공의 졸업생, 재학생 및 교수진이 함께하는 「2026 KUBS Finance Homecoming Day」를 개최합니다. 이번 행사는 일반대학원 경영학과 재무금융 전공 구성원을 위한 교류의 자리로, 동문과 재학생, 교수진이 한자리에 모여 연구 성과와 서로의 소식을 나누고 유대를 다지고자 마련되었습니다. 1부에서는 박사과정 학생들의 논문 발표와 졸업생 토론을 통해 학문적 교류를 나누며, 2부에서는 저녁 만찬과 함께 자유롭게 소통하는 시간을 갖습니다. 재무금융 전공 구성원 여러분의 많은 관심과 참여를 바랍니다. 참석 대상: 고려대학교 일반대학원 경영학과 재무금융 전공 졸업생, 재학생 및 교수진 일시: 2026년 11월 13일(금) 오후 2시–9시 장소: 고려대학교 LG-POSCO 경영관 6층 안영일홀 [주요 일정] 1부 | 오후 2시–6시: 박사과정 논문 발표 및 졸업생 토론 (논문당 발표 20분, 토론 10분) 2부 | 오후 6시–9시: 저녁 만찬 문의: 재무금융 전공주임교수 김배호 (baehokim@korea.ac.kr) 2026 KUBS Finance Homecoming Day Korea University Business School invites alumni, current students, and faculty of the Finance area in Korea University Business School to the 2026 KUBS Finance Homecoming Day. This event is dedicated to bringing together members of the graduate Finance community to reconnect, share research and updates, and strengthen ties across generations. The first session will feature research paper presentations by doctoral students, with alumni serving as discussants. An evening dinner will follow, offering an opportunity to catch up and connect with fellow members of the Finance community. We warmly welcome our Finance alumni, students, and faculty to join us for this special occasion. Who is invited: Alumni, current students, and faculty of the Finance area, Department of Business Administration, Korea University Graduate School Date and time: Friday, November 13, 2026, 2:00–9:00 p.m. Venue: Ahn Young Il Hall, 6th Floor, LG-POSCO Building, Korea University Program Part 1 | 2:00–6:00 p.m.: Doctoral research paper presentations and alumni discussions (20-minute presentation and 10-minute discussion per paper) Part 2 | 6:00–9:00 p.m.: Dinner Contact: Professor Baeho Kim, Area Chair of Finance (baehokim@korea.ac.kr)",
       "org": "고려대",
       "url": "https://biz.korea.ac.kr/news/notice_view.html?no=7346&key=&keyfield=&kind=&cate=&page=1",
       "section": "campus",
@@ -53710,7 +55564,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "[일반]2026 KUBS Finance Homecoming Day 안내 2026.10.10 Views 108 [2026 KUBS Finance Homecoming Day 안내] 고려대학교 일반대학원 경영학과 재무금융(Finance) 전공의 졸업생, 재학생 및 교수진이 함께하는 「2026",
+      "benefit": "[일반]2026 KUBS Finance Homecoming Day 안내 2026.10.10 Views 119 [2026 KUBS Finance Homecoming Day 안내] 고려대학교 일반대학원 경영학과 재무금융(Finance) 전공의 졸업생, 재학생 및 교수진이 함께하는 「2026",
       "also_at": []
     },
     {
@@ -53744,7 +55598,7 @@
       "cost": null,
       "location": null,
       "state": null,
-      "benefit": "[공지]2026-2학기 경영학부 진로지도 상담 배정 희망교수 신청 안내 2026-2학기 경영학부 진로지도 상담 배정 희망교수 신청 안내 1.신... 2026-10-12 / 숭실대 경영학부 조회수: 71",
+      "benefit": "[공지]2026-2학기 경영학부 진로지도 상담 배정 희망교수 신청 안내 2026-2학기 경영학부 진로지도 상담 배정 희망교수 신청 안내 1.신... 2026-10-12 / 숭실대 경영학부 조회수: 75",
       "also_at": []
     },
     {
