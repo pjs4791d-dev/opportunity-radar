@@ -4,143 +4,151 @@
     "name": "서울대 나눔SNU 대중강연·문화행사",
     "url": "https://www.snu.ac.kr/about/sharing-snu/public-lecture",
     "error": "RuntimeError: 파싱 결과 0건 (사이트 구조 변경?)",
-    "at": "2026-11-24T05:48:09+09:00",
-    "fail_count": 146
+    "at": "2026-11-24T15:48:29+09:00",
+    "fail_count": 147
   },
   {
     "source_id": "dgu-dvic-notice",
     "name": "동국대 창업기술본부 공지사항",
     "url": "https://dvic.dongguk.edu/dvic5_7",
     "error": "RuntimeError: 파싱 결과 0건 (사이트 구조 변경?)",
-    "at": "2026-11-24T05:47:59+09:00",
-    "fail_count": 140
+    "at": "2026-11-24T15:48:10+09:00",
+    "fail_count": 141
   },
   {
     "source_id": "dgu-dvic-programs",
     "name": "동국대 창업기술본부 사업모집공고",
     "url": "https://dvic.dongguk.edu/dvic2_2",
     "error": "RuntimeError: 파싱 결과 0건 (사이트 구조 변경?)",
-    "at": "2026-11-24T05:48:01+09:00",
-    "fail_count": 140
-  },
-  {
-    "source_id": "sogang-general",
-    "name": "서강대 일반공지",
-    "url": "https://www.sogang.ac.kr/api/api/v1/mainKo/BbsData/boardList?pageNum=1&pageSize=20&bbsConfigFk=1",
-    "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='www.sogang.ac.kr', port=443): Max retries exceeded with url: /api/api/v1/mainKo/BbsData/boardL): https://www.sogang.ac.kr/api/ap",
-    "at": "2026-11-24T05:48:25+09:00",
-    "fail_count": 140
+    "at": "2026-11-24T15:48:12+09:00",
+    "fail_count": 141
   },
   {
     "source_id": "sogang-sbs",
     "name": "서강대 경영대학 학부 공지",
     "url": "https://sbs.sogang.ac.kr/sbs/2088/subview.do",
     "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='sbs.sogang.ac.kr', port=443): Max retries exceeded with url: /sbs/2088/subview.do (Caused by S): https://sbs.sogang.ac.kr/sbs/20",
-    "at": "2026-11-24T05:48:28+09:00",
-    "fail_count": 140
+    "at": "2026-11-24T15:48:41+09:00",
+    "fail_count": 141
+  },
+  {
+    "source_id": "sogang-general",
+    "name": "서강대 일반공지",
+    "url": "https://www.sogang.ac.kr/api/api/v1/mainKo/BbsData/boardList?pageNum=1&pageSize=20&bbsConfigFk=1",
+    "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='www.sogang.ac.kr', port=443): Max retries exceeded with url: /api/api/v1/mainKo/BbsData/boardL): https://www.sogang.ac.kr/api/ap",
+    "at": "2026-11-24T15:48:43+09:00",
+    "fail_count": 141
   },
   {
     "source_id": "sogang-econ",
     "name": "서강대 경제대학 공지",
     "url": "https://econ.sogang.ac.kr/econ/1108/subview.do",
     "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='econ.sogang.ac.kr', port=443): Max retries exceeded with url: /econ/1108/subview.do (Caused by): https://econ.sogang.ac.kr/econ/",
-    "at": "2026-11-24T05:48:30+09:00",
-    "fail_count": 140
+    "at": "2026-11-24T15:48:44+09:00",
+    "fail_count": 141
   },
   {
     "source_id": "sogang-student",
     "name": "서강대 학생 일반공지",
     "url": "https://www.sogang.ac.kr/api/api/v1/mainKo/BbsData/boardList?pageNum=1&pageSize=20&bbsConfigFk=34",
     "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='www.sogang.ac.kr', port=443): Max retries exceeded with url: /api/api/v1/mainKo/BbsData/boardL): https://www.sogang.ac.kr/api/ap",
-    "at": "2026-11-24T05:48:30+09:00",
-    "fail_count": 140
+    "at": "2026-11-24T15:48:47+09:00",
+    "fail_count": 141
   },
   {
     "source_id": "sogang-haksa",
     "name": "서강대 학부 학사공지",
     "url": "https://www.sogang.ac.kr/api/api/v1/mainKo/BbsData/boardList?pageNum=1&pageSize=20&bbsConfigFk=2",
     "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='www.sogang.ac.kr', port=443): Max retries exceeded with url: /api/api/v1/mainKo/BbsData/boardL): https://www.sogang.ac.kr/api/ap",
-    "at": "2026-11-24T05:48:32+09:00",
-    "fail_count": 140
+    "at": "2026-11-24T15:48:49+09:00",
+    "fail_count": 141
   },
   {
     "source_id": "cau-econ",
     "name": "중앙대 경제학부 공지",
     "url": "https://econ.cau.ac.kr/news/notice/",
     "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='econ.cau.ac.kr', port=443): Max retries exceeded with url: /news/notice/ (Caused by SSLError(S): https://econ.cau.ac.kr/news/not",
-    "at": "2026-11-24T05:48:42+09:00",
-    "fail_count": 140
+    "at": "2026-11-24T15:48:57+09:00",
+    "fail_count": 141
   },
   {
     "source_id": "youth-work-exp",
     "name": "청년일경험 포털 주관기관별 일경험 사업",
     "url": "https://yw.work24.go.kr/c/b/selectWkexBizList.do",
     "error": "RuntimeError: 요청 실패(HTTPSConnectionPool(host='yw.work24.go.kr', port=443): Max retries exceeded with url: /c/b/selectWkexBizList.do (Caused ): https://yw.work24.go.kr/c/b/sel",
-    "at": "2026-11-24T05:53:15+09:00",
-    "fail_count": 97
+    "at": "2026-11-24T15:53:30+09:00",
+    "fail_count": 98
   },
   {
     "source_id": "skku-library",
     "name": "성균관대 도서관 공지",
     "url": "https://lib.skku.edu/pyxis-api/1/bulletin-boards/1/bulletins?max=20",
     "error": "RuntimeError: 요청 실패(HTTP 503): https://lib.skku.edu/pyxis-api/1/bulletin-boards/1/bulletins?max=20",
-    "at": "2026-11-24T05:48:36+09:00",
-    "fail_count": 63
+    "at": "2026-11-24T15:48:50+09:00",
+    "fail_count": 64
   },
   {
     "source_id": "hanyang-general",
     "name": "한양대 통합 공지사항",
     "url": "https://www.hanyang.ac.kr/notice_all",
     "error": "HTTPError: HTTP 403 https://www.hanyang.ac.kr/notice_all",
-    "at": "2026-11-24T05:48:33+09:00",
-    "fail_count": 55
+    "at": "2026-11-24T15:48:49+09:00",
+    "fail_count": 56
   },
   {
     "source_id": "korea-library",
     "name": "고려대 도서관 공지사항",
     "url": "https://library.korea.ac.kr/about/notice/",
     "error": "Blocked: robots.txt 금지: https://library.korea.ac.kr/about/notice/",
-    "at": "2026-11-24T05:48:13+09:00",
-    "fail_count": 50
+    "at": "2026-11-24T15:48:31+09:00",
+    "fail_count": 51
   },
   {
     "source_id": "sitedu-apply",
     "name": "서울시 기술교육원 통합 원서접수·모집요강 (서울시 과정)",
     "url": "https://www.sitedu.or.kr/apply/seoul.do",
     "error": "RuntimeError: 파싱 결과 0건 (사이트 구조 변경?)",
-    "at": "2026-11-24T05:50:17+09:00",
-    "fail_count": 42
+    "at": "2026-11-24T15:50:39+09:00",
+    "fail_count": 43
   },
   {
     "source_id": "sitedu-local",
     "name": "서울시 기술교육원 지역산업맞춤형 인력양성과정",
     "url": "https://www.sitedu.or.kr/apply/local.do",
     "error": "RuntimeError: 파싱 결과 0건 (사이트 구조 변경?)",
-    "at": "2026-11-24T05:50:19+09:00",
-    "fail_count": 42
+    "at": "2026-11-24T15:50:41+09:00",
+    "fail_count": 43
   },
   {
     "source_id": "jbedu-notice",
     "name": "서울시 기술교육원 중부캠퍼스 공지·공고",
     "url": "https://www.jbedu.or.kr/user/nd29455.do",
     "error": "RuntimeError: 요청 실패(('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))): https://www.jbedu.or.kr/user/nd29455.do",
-    "at": "2026-11-24T05:50:30+09:00",
-    "fail_count": 29
+    "at": "2026-11-24T15:50:47+09:00",
+    "fail_count": 30
   },
   {
     "source_id": "korea-general",
     "name": "고려대 일반공지",
     "url": "https://www.korea.ac.kr/ko/566/subview.do",
     "error": "RuntimeError: 파싱 결과 0건 (사이트 구조 변경?)",
-    "at": "2026-11-24T05:48:12+09:00",
-    "fail_count": 9
+    "at": "2026-11-24T15:48:31+09:00",
+    "fail_count": 10
   },
   {
     "source_id": "uos-startup-center",
     "name": "서울시립대 창업지원단 공지사항",
     "url": "http://startup.uos.ac.kr/cm/cm-1.php",
     "error": "HTTPError: HTTP 404 http://startup.uos.ac.kr/cm/cm-1.php",
-    "at": "2026-11-24T05:48:53+09:00",
-    "fail_count": 7
+    "at": "2026-11-24T15:49:10+09:00",
+    "fail_count": 8
+  },
+  {
+    "source_id": "konkuk-library",
+    "name": "건국대 상허기념도서관 공지",
+    "url": "https://library.konkuk.ac.kr/pyxis-api/1/bulletin-boards/1/bulletins?max=20",
+    "error": "HTTPError: HTTP 403 https://library.konkuk.ac.kr/pyxis-api/1/bulletin-boards/1/bulletins?max=20",
+    "at": "2026-11-24T15:49:47+09:00",
+    "fail_count": 1
   }
 ]
